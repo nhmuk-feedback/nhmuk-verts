@@ -1,0 +1,481 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 409
+Number of records retrieved in searches: 2483
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Madagascar ; Times: 5
+	Country: Netherlands ; Times: 26
+	Country: Czech Republic ; Times: 4
+	Country: Portugal ; Times: 24
+	Country: Mexico ; Times: 56
+	Country: Denmark ; Times: 3
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 226
+	Country: Unknown ; Times: 9
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 15
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: United Arab Emirates ; Times: 1
+	Country: Switzerland ; Times: 5
+	Country: Namibia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 6
+	Date: 2016-02-18 ; Times: 31
+	Date: 2016-02-19 ; Times: 18
+	Date: 2016-02-12 ; Times: 8
+	Date: 2016-02-13 ; Times: 8
+	Date: 2016-02-10 ; Times: 23
+	Date: 2016-02-11 ; Times: 12
+	Date: 2016-02-16 ; Times: 40
+	Date: 2016-02-17 ; Times: 14
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 21
+	Date: 2016-02-29 ; Times: 6
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-09 ; Times: 11
+	Date: 2016-02-22 ; Times: 9
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-20 ; Times: 12
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 11
+	Date: 2016-02-24 ; Times: 15
+	Date: 2016-02-01 ; Times: 12
+	Date: 2016-02-03 ; Times: 32
+	Date: 2016-02-02 ; Times: 50
+	Date: 2016-02-05 ; Times: 20
+	Date: 2016-02-04 ; Times: 20
+	Date: 2016-02-07 ; Times: 4
+	Date: 2016-02-06 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Podiceps chilensis" ; Times: 1
+	Query: "Rallina forbesi" ; Times: 1
+	Query: "Cycloramphus asper" ; Times: 2
+	Query: "indri" ; Times: 2
+	Query: "felis catus skull (Persian)" ; Times: 1
+	Query: "ardeola speciosa" ; Times: 1
+	Query: "muscicapa ferruginea" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 2
+	Query: "rufopunctatus" ; Times: 1
+	Query: "Megadyptes" ; Times: 1
+	Query: "Accipiter luteoschistaceus" ; Times: 1
+	Query: "AC 356 aves" ; Times: 2
+	Query: "antilophia galeata" ; Times: 1
+	Query: "Heterocercus aurantiivertex" ; Times: 2
+	Query: "Leptolalax gracilis" ; Times: 2
+	Query: "erinaceus iran" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "genus:Bradypus country:&#34;colombia&#34;" ; Times: 1
+	Query: "cursorius coromandelicus" ; Times: 1
+	Query: "pterocles senegallus" ; Times: 1
+	Query: "bubo nipalensis" ; Times: 2
+	Query: "panthera iran" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "Rhinella festae" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "accipiter collaris" ; Times: 1
+	Query: "Arvicola iran" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;peru&#34;" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "crocidura russula iran" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 3
+	Query: "aves (costa rica) year &gt;= 1820 year &lt;= 2016 institutioncode:NHMUK" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+	Query: "genus:lamprolia" ; Times: 1
+	Query: "pterocles personatus" ; Times: 2
+	Query: "cordylus namibia" ; Times: 1
+	Query: "lophura inornata" ; Times: 1
+	Query: "polyplectron schleiermacheri" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "arborophila orientalis" ; Times: 1
+	Query: "Brachyorrhos albus" ; Times: 1
+	Query: "plecotus auritus switzerland" ; Times: 1
+	Query: "rynchops albicollis" ; Times: 2
+	Query: "ptilopsis granti type:specimen" ; Times: 1
+	Query: "Atelopus carauta TRUE" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:icterus" ; Times: 3
+	Query: "Prolibytherium" ; Times: 1
+	Query: "family:leptotyphlopidae country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anas gibberifrons" ; Times: 5
+	Query: "sarothrura affinis" ; Times: 2
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "Asellia iran" ; Times: 1
+	Query: "hapalopsittaca amazonina" ; Times: 1
+	Query: "phalacrocorax nigrogularis" ; Times: 1
+	Query: "suricata" ; Times: 3
+	Query: "sterna dougalli" ; Times: 1
+	Query: "Rallicula" ; Times: 2
+	Query: "taphozous iran" ; Times: 1
+	Query: "lophotibis cristata" ; Times: 2
+	Query: "Meliarchus sclateri" ; Times: 2
+	Query: "phylloderma" ; Times: 4
+	Query: "Gazella iran" ; Times: 1
+	Query: "Sturnella defilippii brazil" ; Times: 1
+	Query: "Afrixalus delicatus" ; Times: 1
+	Query: "bucharest" ; Times: 1
+	Query: "Arvicola terrestris iran" ; Times: 1
+	Query: "Rallidae (Rallidae AND woodfordi)" ; Times: 1
+	Query: "saguinus geoffroyi" ; Times: 2
+	Query: "Haematopus chathamensis" ; Times: 1
+	Query: "ardea insignis" ; Times: 1
+	Query: "petropedetes palmipes" ; Times: 1
+	Query: "wakensis" ; Times: 1
+	Query: "specificepithet:schmidti genus:Eleutherodactylus island:Hispaniola" ; Times: 1
+	Query: "nummifer guatemala" ; Times: 1
+	Query: "herpestes iran" ; Times: 1
+	Query: "gyps tenuirostris" ; Times: 1
+	Query: "ellobius iran" ; Times: 1
+	Query: "plecotus iran" ; Times: 1
+	Query: "melanomys robustulus" ; Times: 2
+	Query: "treron phayrei" ; Times: 5
+	Query: "aramides calopterus" ; Times: 2
+	Query: "strix sartorii" ; Times: 1
+	Query: "gallinago imperialis" ; Times: 1
+	Query: "megapodius layardi" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "myzomela chloroptera" ; Times: 1
+	Query: "ardeola rufiventris" ; Times: 1
+	Query: "Hydrophis inornatus" ; Times: 1
+	Query: "mustela iran" ; Times: 1
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 13
+	Query: "ptilinopus victor" ; Times: 3
+	Query: "idiurus" ; Times: 1
+	Query: "Torgos" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Rallidae (Rallidae AND cuvieri)" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 2
+	Query: "Coelodonta antiquitatis" ; Times: 2
+	Query: "Hydrophis mamillaris" ; Times: 1
+	Query: "aepypodius bruijnii" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 4
+	Query: "aviceda cuculoides" ; Times: 2
+	Query: "cursorius somalensis" ; Times: 2
+	Query: "muscicapa ruficauda" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "chiroptera baculum" ; Times: 19
+	Query: "icterus northropi" ; Times: 1
+	Query: "bostrychia rara" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "ngoclinhensis" ; Times: 1
+	Query: "aves type:specimen (costa rica) year &gt;= 1830 year &lt;= 2016 institutioncode:NHMUK" ; Times: 1
+	Query: "ardeola idae" ; Times: 3
+	Query: "Hoplophryne rogersi" ; Times: 1
+	Query: "Beamys country:&#34;Kenya&#34;" ; Times: 4
+	Query: "panthera pardus iran" ; Times: 1
+	Query: "ara militaris" ; Times: 11
+	Query: "Melanomys robustulus" ; Times: 1
+	Query: "catalognumber:1 hastypestatus:1" ; Times: 1
+	Query: "ara ambiguus" ; Times: 3
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "caprimulgus atripennis india" ; Times: 1
+	Query: "genus:Cyanopsitta (spixii)" ; Times: 2
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "sterna aurantia" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "bornmuelleri" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "fulica caribaea" ; Times: 2
+	Query: "Arthroleptis reichei" ; Times: 1
+	Query: "jaculus iran" ; Times: 1
+	Query: "gazella iran" ; Times: 1
+	Query: "Ploceus angolensis" ; Times: 1
+	Query: "Kassina cochranae" ; Times: 1
+	Query: "lonchura kelaarti" ; Times: 1
+	Query: "vipera aspis" ; Times: 2
+	Query: "cyanopica cooki" ; Times: 9
+	Query: "ptilinopus wallacii" ; Times: 2
+	Query: "penelope perspicax" ; Times: 1
+	Query: "Thalassophis anomalus" ; Times: 2
+	Query: "Casarea dussumieri" ; Times: 1
+	Query: "indri indri" ; Times: 3
+	Query: "specificepithet:glis genus:Glis country:&#34;Iran&#34;" ; Times: 1
+	Query: "rattus iran" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "Caprimulgus year &gt;= 1905 year &lt;= 1905" ; Times: 2
+	Query: "Porzana exquisita" ; Times: 1
+	Query: "tachyeres brachypterus" ; Times: 1
+	Query: "eptesicus iran" ; Times: 1
+	Query: "nyctalus iran" ; Times: 1
+	Query: "scotopelia peli type:specimen" ; Times: 2
+	Query: "Hydrophis bituberculatus" ; Times: 1
+	Query: "paraechinus iran" ; Times: 2
+	Query: "porzana spiloptera" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "buteo albigula" ; Times: 1
+	Query: "Eriocnemis godini" ; Times: 1
+	Query: "pipra isidorei" ; Times: 1
+	Query: "Rallidae (Rallidae AND lafresnayanus)" ; Times: 1
+	Query: "ptilinopus mercierii" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "rhinolophus maclaudi" ; Times: 1
+	Query: "Rallidae (Rallidae AND mantelli)" ; Times: 1
+	Query: "oxymycterus inca" ; Times: 1
+	Query: "hydrophis bituberculatus" ; Times: 1
+	Query: "type:specimen genus:Loriculus (flosculus)" ; Times: 1
+	Query: "micropotamogale" ; Times: 1
+	Query: "Lambeosaurus" ; Times: 1
+	Query: "batrachostomus moniliger" ; Times: 3
+	Query: "oriolus mentawi" ; Times: 1
+	Query: "specificepithet:flavescens genus:Eleutherodactylus island:Hispaniola" ; Times: 1
+	Query: "Pipreola intermedia" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "Phoeniconaias minor" ; Times: 1
+	Query: "Phalacrocorax coronatus" ; Times: 1
+	Query: "spilornis rufipectus" ; Times: 1
+	Query: "sarothrura bohmi" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "habroptila wallacii" ; Times: 1
+	Query: "Philemon cockerelli" ; Times: 2
+	Query: "genus:inia" ; Times: 4
+	Query: "batis kennedyi" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "92828" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 3
+	Query: "strix varia mexico" ; Times: 1
+	Query: "geotrygon purpurata" ; Times: 1
+	Query: "nothocercus julius" ; Times: 3
+	Query: "schlegeli belize" ; Times: 1
+	Query: "gyps bengalensis" ; Times: 1
+	Query: "sarcogyps calvus" ; Times: 1
+	Query: "tinamotis ingoufi" ; Times: 1
+	Query: "type:specimen class:Aves (Ascencion)" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 2
+	Query: "95118" ; Times: 1
+	Query: "neomorphus geoffroyi country:&#34;Brazil&#34;" ; Times: 1
+	Query: "platanista gangetica" ; Times: 1
+	Query: "genus:ototylomys country:&#34;belize&#34;" ; Times: 1
+	Query: "Rallidae (Rallidae AND Pareudiastes)" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "columba bollii" ; Times: 1
+	Query: "Erinaceus iran" ; Times: 1
+	Query: "cuculus crassirostris" ; Times: 1
+	Query: "Delanymys" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "Callicebus ornatus" ; Times: 1
+	Query: "Zapornia notata" ; Times: 1
+	Query: "Rallidae (Rallidae AND antarcticus)" ; Times: 1
+	Query: "Haeromys" ; Times: 1
+	Query: "aves (costa rica) year &gt;= 1830 year &lt;= 2016 institutioncode:NHMUK hastypestatus:1" ; Times: 1
+	Query: "Cisticola fischeri" ; Times: 2
+	Query: "Strigops" ; Times: 1
+	Query: "threskiornis melanocephalus" ; Times: 4
+	Query: "chalcoparia pallida" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "Colinus virginianus insignis type:specimen" ; Times: 1
+	Query: "Phalacrocorax nigrogularis" ; Times: 1
+	Query: "treron floris" ; Times: 1
+	Query: "Pitta brachyura type:specimen" ; Times: 2
+	Query: "polyboroides radiatus" ; Times: 1
+	Query: "Rallidae (Rallidae AND insignis)" ; Times: 1
+	Query: "caprimulgus asiaticus india" ; Times: 1
+	Query: "Cophyla phyllodactyla" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "cercomacra carbonaria" ; Times: 1
+	Query: "ptilopsis granti" ; Times: 3
+	Query: "Accipiter imitator" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "Asellia tridens iran" ; Times: 1
+	Query: "rallus semiplumbeus" ; Times: 2
+	Query: "myzomela chermesina" ; Times: 1
+	Query: "scotopelia type:specimen" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 2
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Petrogale godmani" ; Times: 2
+	Query: "himantornis" ; Times: 1
+	Query: "crax alberti" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "anastomus oscitans" ; Times: 2
+	Query: "saguinus labiatus" ; Times: 2
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "capra iran" ; Times: 1
+	Query: "Allactaga elater iran" ; Times: 1
+	Query: "aves type:specimen (costa rica) year &gt;= 1830 year &lt;= 2016 institutioncode:NHMUK hastypestatus:1" ; Times: 1
+	Query: "Pitta moluccensis type:specimen" ; Times: 1
+	Query: "nummifer belize" ; Times: 2
+	Query: "apus barbatus" ; Times: 2
+	Query: "specificepithet:pictissimus country:(Haiti)" ; Times: 1
+	Query: "Seicercus affinis" ; Times: 2
+	Query: "selasphorus alleni" ; Times: 1
+	Query: "columba malherbii" ; Times: 1
+	Query: "Xenospiza" ; Times: 1
+	Query: "specificepithet:inoptatus genus:Eleutherodactylus island:Hispaniola" ; Times: 1
+	Query: "Phalacrocorax perspicillatus" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "Amazilia alfaroana (costa rica) year &gt;= 1820 year &lt;= 2016 institutioncode:NHMUK hastypestatus:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 122 (out of 512 download events in this period)
+Total number of records downloaded: 5990
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Portugal ; Times: 15
+	Country: South Africa ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: United States ; Times: 46
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 10
+	Date: 2016-02-19 ; Times: 14
+	Date: 2016-02-12 ; Times: 9
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-03 ; Times: 9
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 5
+	Date: 2016-02-02 ; Times: 6
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-04 ; Times: 15
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lestoros" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "tatera iran" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Arvicola iran" ; Times: 1
+	Query: "rattus iran" ; Times: 1
+	Query: "crocidura russula iran" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "genus:lamprolia" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "mesocricetus iran" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "class:amphibia country:Haiti" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "class:amphibia country:Dominican Republic" ; Times: 1
+	Query: "pteroglossus bitorquatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gazella iran" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "Delphinidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "ellobius iran" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "Philodryas" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "meriones iran" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "pipistrellus iran" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "saguinus midas" ; Times: 1
+	Query: "spermophilus iran" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cerastes country:&#34;Sudan&#34;" ; Times: 1
+	Query: "panthera pardus iran" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Seicercus affinis" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "Borneo Muridae" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1975 year &lt;= 1979" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "antilophia galeata" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Saltator" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "stegonotus" ; Times: 1
+	Query: "Callicebus ornatus" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "Haeromys" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Phocoena sinus" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "Arvicola terrestris iran" ; Times: 1
+	Query: "taxidea taxus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "Allactaga elater iran" ; Times: 1
+	Query: "microtus iran" ; Times: 1
+	Query: "erinaceus iran" ; Times: 1
+	Query: "selasphorus alleni" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+
+
+End of report.
