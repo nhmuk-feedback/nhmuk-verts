@@ -1,0 +1,234 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 920
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 83
+	Country: Australia ; Times: 11
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 6
+	Date: 2016-03-02 ; Times: 10
+	Date: 2016-03-03 ; Times: 9
+	Date: 2016-03-01 ; Times: 24
+	Date: 2016-03-08 ; Times: 8
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-14 ; Times: 10
+	Date: 2016-03-05 ; Times: 5
+	Date: 2016-03-11 ; Times: 21
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-13 ; Times: 10
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1850" ; Times: 1
+	Query: "Crocidura foetida" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "genus:cricetomys order:rodentia class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Athene blewitti" ; Times: 3
+	Query: "cuculus canorus india" ; Times: 1
+	Query: "1888.1.13.877" ; Times: 1
+	Query: "genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "1888.1.13.878" ; Times: 1
+	Query: "Microgale cowani" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "leptoptilus javanicus" ; Times: 1
+	Query: "alouatta fusca" ; Times: 2
+	Query: "diglossa baritula" ; Times: 2
+	Query: "Bombina microdeladigitora" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "Diaemus" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "type:specimen specificepithet:astrild genus:estrilda (clutch OR egg OR eggs)" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "mimon bennettii" ; Times: 1
+	Query: "chrysococcyx minutillus" ; Times: 1
+	Query: "anthus nilghiriensis" ; Times: 1
+	Query: "Lynch Amphibia Peru" ; Times: 1
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "vulpes bengalensis" ; Times: 4
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "rhinopithecus avunculus" ; Times: 1
+	Query: "Heteroglaux blewitti" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 2
+	Query: "Cheirogaleus major HOLOTYPE" ; Times: 4
+	Query: "Oryzorictes hova" ; Times: 1
+	Query: "Wacara Amphibia" ; Times: 1
+	Query: "TOXODON" ; Times: 1
+	Query: "mesoplodon bidens" ; Times: 4
+	Query: "anolis ortoni" ; Times: 1
+	Query: "Porzana palmeri" ; Times: 1
+	Query: "Vaupes Amphibia" ; Times: 1
+	Query: "artisornis metopias" ; Times: 3
+	Query: "Babyrousa" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:passer continent:africa (clutch OR egg OR eggs)" ; Times: 1
+	Query: "anoa" ; Times: 1
+	Query: "specificepithet:hispidus family:Geomyidae country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Cyanoramphus cookii" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "sylvietta ruficapilla" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "genus:acinonyx family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Pandion haliaetus ridgwayi type:specimen" ; Times: 1
+	Query: "Chodsigoa" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:vermiculatus" ; Times: 1
+	Query: "Crateromys" ; Times: 3
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "specificepithet:albus country:&#34;Honduras&#34;" ; Times: 1
+	Query: "ASTRAPIA SPLENDIDISSIMA" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Crocidura monticola" ; Times: 1
+	Query: "Sitatunga" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "Gerbillurus setzeri" ; Times: 1
+	Query: "genus:Blarinella country:&#34;China&#34;" ; Times: 3
+	Query: "family:Muridae country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "&#34;Caprimulgus tristigma&#34;" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Zenkerella" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vulpes pallida" ; Times: 1
+	Query: "Thamnophilus melanonotus" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "specificepithet:jubatus genus:acinonyx family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Carpospiza" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Brachypteryx major" ; Times: 2
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "crypturellus obsoletus griseiventris" ; Times: 2
+	Query: "type:specimen specificepithet:vulgaris genus:sturnus continent:africa (clutch OR egg OR eggs)" ; Times: 1
+	Query: "genus:felis family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:vestitus genus:Coendou" ; Times: 1
+	Query: "Allocebus trichotis HOLOTYPE" ; Times: 3
+	Query: "specificepithet:crassicauda genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "type:specimen genus:Cacatua order:Psittaciformes country:&#34;Papua New Guinea&#34; (galerita)" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "coracina melanoptera" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "venningi" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "Camptorhynchus" ; Times: 1
+	Query: "genus:caracal family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Oriolus xanthornus" ; Times: 2
+	Query: "clamator jacobinus india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 230 download events in this period)
+Total number of records downloaded: 14534
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 51
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-08 ; Times: 8
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 14
+	Date: 2016-03-13 ; Times: 10
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 33
+	Query: "Bothrops asper" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Strix varia type:specimen country:&#34;Mexico&#34; (Strix) AND (NOT nigrolineata NOT occidentalis NOT virgata)" ; Times: 1
+	Query: "oreonympha nobilis" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "ochotona rufescens" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "leontopithecus chrysomelas" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "soriculus" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Russia&#34; year &gt;= 1999 year &lt;= 2005" ; Times: 2
+	Query: "Duellman Amphibia Ecuador" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Babyrousa" ; Times: 2
+	Query: "anoa" ; Times: 1
+
+
+End of report.
