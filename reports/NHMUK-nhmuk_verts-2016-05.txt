@@ -1,0 +1,305 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 239
+Number of records retrieved in searches: 1696
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 3
+	Country: France ; Times: 3
+	Country: Australia ; Times: 1
+	Country: China ; Times: 6
+	Country: Chile ; Times: 2
+	Country: Thailand ; Times: 4
+	Country: Germany ; Times: 19
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 132
+	Country: Croatia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 16
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 2
+	Country: Colombia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 12
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 9
+	Date: 2016-05-16 ; Times: 9
+	Date: 2016-05-15 ; Times: 6
+	Date: 2016-05-14 ; Times: 5
+	Date: 2016-05-13 ; Times: 6
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-11 ; Times: 6
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 54
+	Date: 2016-05-30 ; Times: 15
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-09 ; Times: 6
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-03 ; Times: 7
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 7
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 17
+	Date: 2016-05-27 ; Times: 15
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 4
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-20 ; Times: 7
+	Date: 2016-05-21 ; Times: 11
+	Date: 2016-05-28 ; Times: 5
+	Date: 2016-05-29 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 3
+	Query: "lonchura nana" ; Times: 1
+	Query: "bothrops neuwiedi" ; Times: 3
+	Query: "Callosciurus leucomus hirsutus" ; Times: 1
+	Query: "specificepithet:sinus genus:Phocoena" ; Times: 5
+	Query: "batrachostomus chaseni" ; Times: 1
+	Query: "myzomela pammelaena" ; Times: 6
+	Query: "Tylomys watsoni" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 2
+	Query: "batrachostomus harterti" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 8
+	Query: "pyrrhura perlata" ; Times: 2
+	Query: "otus mentawi" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "scotland 1921 egg" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "1905.11.7.1" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "Chloropeta gracilirostris" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "petaurista philippensis" ; Times: 1
+	Query: "specificepithet:bobirensis genus:hyperolius" ; Times: 1
+	Query: "Calliphlox mitchellii" ; Times: 1
+	Query: "anamallensis" ; Times: 1
+	Query: "caprimulgus solala" ; Times: 1
+	Query: "Prolibytherium" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Helogale Tanzania" ; Times: 1
+	Query: "batrachostomus cornutus" ; Times: 1
+	Query: "genus:Pipa specificepithet:parva" ; Times: 1
+	Query: "Gerbillus nanus setonbrownei" ; Times: 1
+	Query: "Hippopotamus gorgops" ; Times: 1
+	Query: "genus:Breviceps specificepithet:fuscus" ; Times: 1
+	Query: "caprimulgus centralasicus" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 2
+	Query: "genus:ectopistes stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "Prinia polychroa" ; Times: 4
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "709831" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "nipponia nippon" ; Times: 5
+	Query: "Sundasciurus samarensis" ; Times: 2
+	Query: "eurostopodus nigripennis" ; Times: 1
+	Query: "geositta poeciloptera" ; Times: 1
+	Query: "caprimulgus andamanicus" ; Times: 1
+	Query: "Martes melampus" ; Times: 2
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "crotalus caliginis" ; Times: 4
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "Gerbillus latastei nhmuk" ; Times: 1
+	Query: "Hippopotamus minor" ; Times: 1
+	Query: "caprimulgus concretus" ; Times: 1
+	Query: "hildebrandtia" ; Times: 1
+	Query: "Jabouilleia" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "chloropeta gracilirostris" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "otus madagascariensis" ; Times: 1
+	Query: "1923.1.1.218" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Hippopotamus lemerlei" ; Times: 2
+	Query: "Anguis" ; Times: 1
+	Query: "coendou vestitus" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Proedromys bedfordi" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Terenura spodioptila" ; Times: 2
+	Query: "Helladotherium" ; Times: 1
+	Query: "Corvus africa skeleton" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "Gastrophrynoides" ; Times: 1
+	Query: "1922.2.2.24" ; Times: 1
+	Query: "Kenopia" ; Times: 1
+	Query: "Samotherium" ; Times: 1
+	Query: "lerwa" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "nesoryzomys indefessus" ; Times: 1
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "hylorchilus sumichrasti" ; Times: 2
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "Myzomela sclateri" ; Times: 5
+	Query: "genus:Tamias institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "Cinnyris lotenia" ; Times: 1
+	Query: "caprimulgus indicus" ; Times: 1
+	Query: "Myzomela cineracea" ; Times: 4
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "(Amphibia or Reptilia)" ; Times: 1
+	Query: "caprimulgus indicus phalaena" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "calliphlox mitchellii" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Galbula tombacea type:specimen country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Rimator" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "Hippopotamus creutzburgi" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Saguinus martinsi" ; Times: 2
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Tylomys mirae" ; Times: 2
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "sphiggurus" ; Times: 1
+	Query: "Cebuella" ; Times: 1
+	Query: "Rallus elegans country:&#34;Cuba&#34;" ; Times: 1
+	Query: "selasphorus ardens" ; Times: 3
+	Query: "Abrocoma cinerea" ; Times: 1
+	Query: "type:specimen specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "Echimys gymnurus" ; Times: 1
+	Query: "specificepithet:microps genus:Delphinus" ; Times: 2
+	Query: "foxhound" ; Times: 1
+	Query: "Graphiurus kelleni" ; Times: 1
+	Query: "echinoprocta" ; Times: 1
+	Query: "caprimulgus celebensis" ; Times: 2
+	Query: "1913.6.18.83" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 4
+	Query: "myiagra azureocapilla" ; Times: 1
+	Query: "phodilus assimilis" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer institutioncode:NHMUK" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutchsize)" ; Times: 1
+	Query: "Crossarchus ansorgei" ; Times: 1
+	Query: "Rhynchomys soricoides" ; Times: 2
+	Query: "Hippopotamus pentlandi" ; Times: 1
+	Query: "genus:dasypus country:&#34;Guyana&#34; OR &#34;Suriname&#34;" ; Times: 2
+	Query: "Cebus Panama" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "elapidae (Hydrophis spiralis)" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 327 download events in this period)
+Total number of records downloaded: 6032
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 10
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 5
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 7
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 37
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 5
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Python reticulatus" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "mongolia" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Timaliidae" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Peromyscus" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Crossarchus ansorgei" ; Times: 2
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "spea bombifrons stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Babax" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "class:Amphibia mappable:1 distance(location,geopoint(15.07212354581167,93.5595703125))&lt;937819.0681547445" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Rimator" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
