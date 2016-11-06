@@ -1,0 +1,75 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 219
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 16
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 8
+	Country: Colombia ; Times: 10
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-03 ; Times: 18
+	Date: 2016-10-24 ; Times: 2
+	Date: 2016-10-09 ; Times: 2
+	Date: 2016-10-06 ; Times: 1
+	Date: 2016-10-07 ; Times: 1
+	Date: 2016-10-04 ; Times: 7
+	Date: 2016-10-05 ; Times: 2
+	Date: 2016-10-02 ; Times: 6
+	Date: 2016-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Nyctereutes procyonoides mappable:0" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Thryothorus euophrys " ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: "Nyctereutes procyonoides " ; Times: 2
+	Query: " CalliCebus torquatus 1" ; Times: 1
+	Query: " Lagothrix cana 1" ; Times: 1
+	Query: " Alouatta ululata 1" ; Times: 1
+	Query: " Nyctereutes procyonoides" ; Times: 2
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+	Query: "Columba guinea 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 1
+	Query: " Callimico goeldii 1" ; Times: 1
+	Query: " Brachyteles arachnoides 1" ; Times: 1
+	Query: "Anas formosa 1" ; Times: 1
+	Query: "Poephila guttata 1" ; Times: 1
+	Query: " Nyctereutes procyonoides 1" ; Times: 3
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "Sciurus pyrrhinus " ; Times: 1
+	Query: " Alouatta belzebul 1" ; Times: 3
+	Query: " Anolis capito 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
