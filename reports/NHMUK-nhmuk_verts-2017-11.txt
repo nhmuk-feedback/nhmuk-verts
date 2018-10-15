@@ -1,0 +1,212 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 1252
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Poland ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Papua New Guinea ; Times: 4
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 96
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 37
+	Date: 2017-11-29 ; Times: 30
+	Date: 2017-11-26 ; Times: 14
+	Date: 2017-11-27 ; Times: 44
+	Date: 2017-11-24 ; Times: 3
+	Date: 2017-11-25 ; Times: 14
+	Date: 2017-11-30 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Apteryx sex:Female" ; Times: 3
+	Query: "Batis poensis" ; Times: 1
+	Query: "specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "Porphyrospiza caerulescens" ; Times: 3
+	Query: "92095" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Chiasmocleis hudsoni" ; Times: 1
+	Query: "gallinago hardwickii" ; Times: 1
+	Query: "Vulpes cana" ; Times: 5
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "genus:ceratotherium institutioncode:NHMUK" ; Times: 3
+	Query: "Kyrgyzstan Amphibia" ; Times: 1
+	Query: "Orcaella" ; Times: 1
+	Query: "coelestis order:Passeriformes" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "egg greenland" ; Times: 4
+	Query: "suricata" ; Times: 1
+	Query: "Dacnis albiventris" ; Times: 1
+	Query: "dermophis oaxacae" ; Times: 1
+	Query: "Gallirallus dieffenbachii" ; Times: 2
+	Query: "specificepithet:fumosa genus:crocidura country:&#34;kenya&#34;" ; Times: 2
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Diglossa holotype" ; Times: 3
+	Query: "family:Rhinocerotidae institutioncode:NHMUK" ; Times: 2
+	Query: "specificepithet:cyanea genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "strix sartorii" ; Times: 1
+	Query: "Coereba atlantica institutioncode:NHMUK" ; Times: 1
+	Query: "indigotica" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Eleutherodactylus chalceus" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 1
+	Query: "Synapturanus mirandaribeiroi" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 2
+	Query: "specificepithet:occidentalis genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Diglossa indigotica" ; Times: 2
+	Query: "Elephas maximus India genus:Elephas institutioncode:NHMUK" ; Times: 1
+	Query: "saguinus leucopus" ; Times: 1
+	Query: "specificepithet:flavescens genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "damaliscus hunteri" ; Times: 9
+	Query: "albatrus" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 4
+	Query: "specificepithet:bicolor genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Neacomys country:&#34;Colombia&#34;" ; Times: 2
+	Query: "cyclopsitta diophthalma" ; Times: 2
+	Query: "diclidurus" ; Times: 1
+	Query: "Lipotes" ; Times: 2
+	Query: "45176" ; Times: 1
+	Query: "specificepithet:albiventris genus:Dacnis hastissue:0" ; Times: 1
+	Query: "Otophryne pyburni" ; Times: 1
+	Query: "cyclopsitta diopthalma" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa class:Aves" ; Times: 1
+	Query: "specificepithet:jacksoni genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "mesoplodon mirus" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 3
+	Query: "Elephas maximus India" ; Times: 1
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "Haliaeetus albicilla greenland" ; Times: 2
+	Query: "specificepithet:egregia egregia genus:Dacnis hastissue:0" ; Times: 1
+	Query: "vntype:specimen specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hippocamelus antisensis" ; Times: 2
+	Query: "Urothraupis stolzmanni" ; Times: 1
+	Query: "akodon budini" ; Times: 2
+	Query: "beatragus" ; Times: 3
+	Query: "Uzbekistan Amphibia" ; Times: 1
+	Query: "genus:suncus country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:reptilia locality:calcutta" ; Times: 1
+	Query: "diopthalma vntype:specimen" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 4
+	Query: "&#34;berlepschi&#34; vntype:specimen specificepithet:berlepschi genus:Dacnis hastissue:0" ; Times: 1
+	Query: "orcaella brevirostris" ; Times: 2
+	Query: "47996" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:natalensis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "genus:Crotalus catalognumber:D" ; Times: 4
+	Query: "specificepithet:psittacea genus:erythrura class:aves year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "family:Chamaeleonidae jacksonii tanzania" ; Times: 1
+	Query: "specificepithet:unicornis genus:Rhinoceros institutioncode:NHMUK" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "genus:Crotalus catalognumber:d" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "vntype:specimen genus:Orcaella" ; Times: 6
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "Cacomantis sonneratii vntype:specimen" ; Times: 1
+	Query: "elephas" ; Times: 3
+	Query: "Myrmecophagidae skeleton tridactyla" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "family:Aepyornithidae" ; Times: 1
+	Query: "Haliaeetus albicilla egg" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "specificepithet:macarthuri genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Panthera tigris skin" ; Times: 1
+	Query: "Equidae skeleton equus" ; Times: 1
+	Query: "DENDROCOPOS ATRATUS" ; Times: 2
+	Query: "genus:Crotalus catalognumber:5" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1101 download events in this period)
+Total number of records downloaded: 1127
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United Kingdom ; Times: 6
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 6
+	Date: 2017-11-29 ; Times: 8
+	Date: 2017-11-26 ; Times: 13
+	Date: 2017-11-27 ; Times: 16
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 4
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eleutherodactylus crenunguis" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "Otophryne pyburni" ; Times: 1
+	Query: "Pakistan Amphibia" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "Iran Amphibia" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "Afghanistan Amphibia" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "specificepithet:haigi genus:Ctenomys" ; Times: 1
+	Query: "genus:Buccanodon" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "indigotica" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "Eleutherodactylus chalceus" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 1
+	Query: "family:salmonidae" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 2
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "Kyrgyzstan Amphibia" ; Times: 1
+	Query: "Urothraupis stolzmanni" ; Times: 1
+	Query: "specificepithet:pyburni genus:Otophryne mappable:1 continent:america" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "Uzbekistan Amphibia" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
