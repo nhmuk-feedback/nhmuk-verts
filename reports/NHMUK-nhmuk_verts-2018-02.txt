@@ -1,0 +1,1794 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3018
+Number of records retrieved in searches: 14394
+Number of different countries where searches have been originated: 32
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 38
+	Country: Brazil ; Times: 23
+	Country: Madagascar ; Times: 1
+	Country: Unknown ; Times: 71
+	Country: France ; Times: 26
+	Country: Peru ; Times: 8
+	Country: Argentina ; Times: 2
+	Country: Cameroon ; Times: 1
+	Country: Australia ; Times: 16
+	Country: Czechia ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 18
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 7
+	Country: Denmark ; Times: 2047
+	Country: Finland ; Times: 3
+	Country: United States ; Times: 580
+	Country: Sweden ; Times: 3
+	Country: Vietnam ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Honduras ; Times: 3
+	Country: Portugal ; Times: 10
+	Country: Mexico ; Times: 21
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 31
+	Country: Colombia ; Times: 11
+	Country: Japan ; Times: 74
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 32
+	Date: 2018-02-08 ; Times: 36
+	Date: 2018-02-03 ; Times: 863
+	Date: 2018-02-02 ; Times: 71
+	Date: 2018-02-01 ; Times: 45
+	Date: 2018-02-07 ; Times: 29
+	Date: 2018-02-06 ; Times: 47
+	Date: 2018-02-05 ; Times: 58
+	Date: 2018-02-04 ; Times: 1160
+	Date: 2018-02-21 ; Times: 19
+	Date: 2018-02-20 ; Times: 27
+	Date: 2018-02-23 ; Times: 40
+	Date: 2018-02-22 ; Times: 14
+	Date: 2018-02-25 ; Times: 47
+	Date: 2018-02-24 ; Times: 12
+	Date: 2018-02-27 ; Times: 35
+	Date: 2018-02-26 ; Times: 35
+	Date: 2018-02-28 ; Times: 7
+	Date: 2018-02-14 ; Times: 26
+	Date: 2018-02-15 ; Times: 18
+	Date: 2018-02-16 ; Times: 242
+	Date: 2018-02-17 ; Times: 14
+	Date: 2018-02-10 ; Times: 16
+	Date: 2018-02-11 ; Times: 18
+	Date: 2018-02-12 ; Times: 37
+	Date: 2018-02-13 ; Times: 24
+	Date: 2018-02-18 ; Times: 21
+	Date: 2018-02-19 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "iptrecordid:&#34;22e5c2ac-8f7d-4a15-856a-7239e9f81b98&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;45f804d2-d3fc-4ecf-ad6a-eeeaf3533490&#34;" ; Times: 2
+	Query: "specificepithet:melanotis genus:dendromus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;c323fcc8-4d94-48db-a25f-51284ccfa12e&#34;" ; Times: 4
+	Query: "Thalassarche melanophrys" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta" ; Times: 1
+	Query: "iptrecordid:&#34;f5e2b122-5d90-40b9-b94b-b4083014d711&#34;" ; Times: 2
+	Query: "Micropteropus intermedius " ; Times: 1
+	Query: "Eptesicus bobrinskoi " ; Times: 1
+	Query: "Ara macao Mexico" ; Times: 1
+	Query: "Lepilemur microdon " ; Times: 1
+	Query: "iptrecordid:&#34;784b8eab-75e6-4abd-a731-9bf32425f06e&#34;" ; Times: 6
+	Query: "colomys" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "iptrecordid:&#34;c1fbebc4-3dd4-49e3-8b56-5cf5ec7328ae&#34;" ; Times: 4
+	Query: "Pudu puda" ; Times: 2
+	Query: "iptrecordid:&#34;a20a891a-3a8f-4734-be33-b01476281313&#34;" ; Times: 2
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "iptrecordid:&#34;ed4e5f36-7741-4380-9a4c-371f3f6866c3&#34;" ; Times: 4
+	Query: "Timaliidae Cameroon" ; Times: 1
+	Query: "Lepus habessinicus " ; Times: 1
+	Query: "iptrecordid:&#34;fd4e1d2d-f210-4c89-b54d-d13df74d74de&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;5fa18fe7-753c-4f70-aa84-f49d7155b526&#34;" ; Times: 6
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "iptrecordid:&#34;319fe89e-c827-4860-83b0-6b2c6095f76e&#34;" ; Times: 2
+	Query: "Myotis oxyotus" ; Times: 5
+	Query: "iptrecordid:&#34;50a2ef06-3d02-4d94-a537-a871ebb3b03c&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "iptrecordid:&#34;92786bbd-0a94-421c-8351-9ba74e8cfd48&#34;" ; Times: 2
+	Query: "Sylvisorex morio" ; Times: 1
+	Query: "iptrecordid:&#34;b6f0ddba-a648-4b5f-84e2-086d71b41ae0&#34;" ; Times: 4
+	Query: "Petinomys lugens " ; Times: 1
+	Query: "Abrothrix illutea " ; Times: 1
+	Query: "iptrecordid:&#34;9dc624c1-ae0a-4c8e-9eee-70d38401df14&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;83e5dd9e-544d-42b4-aca8-a0893fc03efa&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e886cb19-49f4-43bf-8920-192a10d461e0&#34;" ; Times: 4
+	Query: "Oxymycterus roberti" ; Times: 1
+	Query: "Eulemur flavifrons " ; Times: 1
+	Query: "Hapalemur occidentalis " ; Times: 1
+	Query: "genus:Lasiurus country:&#34;Panama&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;cae1d92c-553d-4969-80ea-9a7ebd941b49&#34;" ; Times: 4
+	Query: "hirundo megaensis" ; Times: 2
+	Query: "iptrecordid:&#34;bbab1c0e-ee37-4a69-ba63-92074be87a0b&#34;" ; Times: 2
+	Query: "Tragelaphus buxtoni" ; Times: 1
+	Query: "iptrecordid:&#34;b61a5de6-3d27-48dd-9bea-5075c21743ca&#34;" ; Times: 2
+	Query: "Microhyla rubra" ; Times: 1
+	Query: "iptrecordid:&#34;0380ab85-903f-4976-8327-b61ba83f7c3c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e82aac66-c7b7-4615-9296-9b0a18e74c46&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;f611bd66-abcf-4982-bb83-566c2811f9fe&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;bf29ab8e-ebda-4709-b1bc-5edc282bc11a&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;ac32218d-1332-41fb-ab33-6f88d7ae4ae2&#34;" ; Times: 4
+	Query: "phocoena sinus" ; Times: 2
+	Query: "iptrecordid:&#34;ddbd8e91-2870-40a1-9264-2c22fa9855e4&#34;" ; Times: 2
+	Query: "Elephas maximus sumatranus" ; Times: 2
+	Query: "specificepithet:scherman genus:arvicola hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;01296099-cddb-49bc-b514-773bc8951dc3&#34;" ; Times: 4
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "iptrecordid:&#34;8fceb556-a54e-46d2-87a6-3da1b9aa2e17&#34;" ; Times: 2
+	Query: "Hypnale" ; Times: 1
+	Query: "iptrecordid:&#34;8ff3f056-aa55-432d-ba0e-77b9dbe0cca6&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;6018e4c2-61ef-4362-8b9d-3a23b676ae17&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;b1a8fb06-4396-4590-9e29-5e2452d00a81&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;c56f445d-2056-4f71-a2eb-c8b73dea138b&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d696ceb7-f785-46b9-ab60-dafdc8fdbbe5&#34;" ; Times: 2
+	Query: "genus:lophiomys country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:poliocephalus class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "specificepithet:sinaloae genus:Progne" ; Times: 1
+	Query: "Lepus castroviejoi " ; Times: 1
+	Query: "Ctenodactylus vali " ; Times: 1
+	Query: "iptrecordid:&#34;bf5dd8b7-2780-4754-9437-7f9d23ec5c42&#34;" ; Times: 2
+	Query: "Madoqua piacentinii " ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "Tetracerus quadricornis" ; Times: 1
+	Query: "iptrecordid:&#34;4638b052-f757-4489-90cf-8ce3b6ce016a&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;44814622-3ecf-457c-b0ed-89907fc78171&#34;" ; Times: 2
+	Query: "vulpini" ; Times: 1
+	Query: "iptrecordid:&#34;0d4c3f52-a068-43cd-b83c-25b92f874185&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;98d82464-25fb-464a-bdc6-d52e7ada782d&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;85a38a7c-de07-4889-8d7f-a6cf84a7ce89&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;a6d73182-c2fa-4e7c-89c3-e2326df5ddcd&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;aa4a792e-8043-4445-bb0b-dc6d4c2626b7&#34;" ; Times: 2
+	Query: "daubentonia" ; Times: 1
+	Query: "Myosorex eisentrauti " ; Times: 1
+	Query: "iptrecordid:&#34;2d08d693-9769-497e-a8e2-1ce36cf21822&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;3fb693bf-1e49-4c7b-82bd-bbde496e2ede&#34;" ; Times: 6
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Diplothrix legata " ; Times: 1
+	Query: "neofelis" ; Times: 2
+	Query: "iptrecordid:&#34;3b25a900-8924-413b-bc07-961892f56d21&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;b38bf0e6-39e9-421f-bec8-7807563e0cc1&#34;" ; Times: 6
+	Query: "specificepithet:carbonaria genus:cercomacra hasmass:1" ; Times: 1
+	Query: "Eliurus ellermani " ; Times: 1
+	Query: "iptrecordid:&#34;c16a1d05-bed0-4f3a-b808-3cf868a3e3ff&#34;" ; Times: 2
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "iptrecordid:&#34;8b194cc8-5585-4a74-b71e-7b82f95a3ba2&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;36a9ae01-be75-4ae3-8bdd-fbe3211e4929&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;c664a1c7-28a5-49c4-b6b8-0cd258611da7&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;22de52ea-86e6-4fe9-b6f5-c4c93dd8dc03&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;63296ba8-7335-4cfa-a478-775b7e3cd1a9&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;ebbf0060-9dd0-4c70-86b6-3402400f383c&#34;" ; Times: 2
+	Query: "specificepithet:amphibius genus:arvicola hasmass:1" ; Times: 3
+	Query: "iptrecordid:&#34;906d2c47-6223-4925-aeb1-a4beef3020bc&#34;" ; Times: 6
+	Query: "Oxymycterus akodontius " ; Times: 1
+	Query: "iptrecordid:&#34;1f190786-6f0d-4ed0-9316-d5759024095b&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;476463de-6f97-451e-93d2-d062e4406f52&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;cdab917e-53cb-45f0-b535-cea320b2d8a0&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;7e92622e-26e6-4887-989e-0b9d22de9cb4&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;bf0ae25d-367a-4543-951f-2bceea1e39f8&#34;" ; Times: 2
+	Query: "genus:spalerosophis" ; Times: 1
+	Query: "iptrecordid:&#34;141e3e22-d7ef-46b3-89e9-7a24491b8e6b&#34;" ; Times: 4
+	Query: "Cuculidae+Cameroon" ; Times: 4
+	Query: "iptrecordid:&#34;0e596755-b0ba-40db-80d2-29f4b35a1514&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;25bb32e6-4a70-4c5f-a488-27e158e517af&#34;" ; Times: 2
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "Fringillidae+Cameroon" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 2
+	Query: "iptrecordid:&#34;a2f68b78-4008-476d-90f0-8dbce4416f25&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;5af67f7e-7d8e-40e5-86de-4da9aee5eebb&#34;" ; Times: 2
+	Query: "Rattus montanus " ; Times: 1
+	Query: "iptrecordid:&#34;1fc49c76-4a5b-4978-9346-ee2b52bba56f&#34;" ; Times: 6
+	Query: "Cephalophus jentinki " ; Times: 1
+	Query: "ptyonoprogne obsoleta" ; Times: 4
+	Query: "iptrecordid:&#34;67f9ed6f-795f-4459-8365-6c2f1f7e29e8&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;06c368a4-1008-4b76-99fb-c736e3459640&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;af139933-5fb2-4c41-b1de-77aba2902e81&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d7dbe695-f479-494e-acb9-9d54175f2251&#34;" ; Times: 2
+	Query: "Petaurillus hosei " ; Times: 1
+	Query: "Haeromys margarettae " ; Times: 1
+	Query: "Ctenomys juris " ; Times: 1
+	Query: "specificepithet:MELANOTIS genus:DENDROMUS country:&#34;KENYA&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;cf86f6a0-4042-4848-be6e-db0c3612c62c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;eb891213-6fe3-4141-b598-c3aef7cf34bf&#34;" ; Times: 2
+	Query: "85180" ; Times: 1
+	Query: "iptrecordid:&#34;99aec9cf-baf5-40e2-8ae9-4f05ef5c7c79&#34;" ; Times: 6
+	Query: "Microtus cabrerae " ; Times: 1
+	Query: "iptrecordid:&#34;39d7cd28-db63-4259-8b87-b738f0a4dcec&#34;" ; Times: 2
+	Query: "Gerbillus dunni " ; Times: 1
+	Query: "recordedby:f. powell" ; Times: 2
+	Query: "cephalophus leucogaster" ; Times: 1
+	Query: "iptrecordid:&#34;6c082c00-c1aa-478f-859b-21978074638f&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;8cfc4166-d1a2-4d2b-8730-0a3d3352ee88&#34;" ; Times: 2
+	Query: "Porcula salvania " ; Times: 1
+	Query: "iptrecordid:&#34;c1b0b320-5698-4add-91c3-13684c4d3ac7&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;cbda8220-954d-4775-bc44-3b423d8218ba&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;9e62a1de-cca5-43e0-b64d-b70fe9b7a0fc&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;0652417e-4fa9-49f5-be55-a8b9308871ba&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;832d90db-746e-4ce0-b7e0-99534c6a6aaa&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;78ebc9ec-4b1d-436c-93f6-d02f86a87038&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e5812656-5960-471f-ac0f-05e9ef7ae18d&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e736b2a2-233e-4cf9-8dfe-210f40cfa57b&#34;" ; Times: 6
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "Genetta cristata " ; Times: 1
+	Query: "Chimarrogale hantu " ; Times: 1
+	Query: "Pteropus pilosus " ; Times: 1
+	Query: "Damaliscus korrigum" ; Times: 4
+	Query: "iptrecordid:&#34;20a12fde-f366-4bd1-b7f6-47a8eae7de2c&#34;" ; Times: 4
+	Query: "Ramphastidae+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;a0ba5923-e947-4358-b370-feddbd454cc5&#34;" ; Times: 6
+	Query: "scientificname:&#34;antidorcas recki&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;d56bb3a1-ffb3-40da-8702-c03a4fd94bc7&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b2b43f2f-a880-46bc-9acf-405216da17e0&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;2894db42-68cc-4e04-be18-c6a20f93aa4a&#34;" ; Times: 2
+	Query: "Tragelaphus oryx" ; Times: 2
+	Query: "specificepithet:avellanarius genus:Muscardinus (captive OR zoo)" ; Times: 3
+	Query: "iptrecordid:&#34;ba1da4dd-9b05-4a8a-8bbb-39ab11f982f6&#34;" ; Times: 2
+	Query: "Srilankamys ohiensis " ; Times: 1
+	Query: "iptrecordid:&#34;0210bc32-7c8f-433e-9e22-ffa267791a33&#34;" ; Times: 2
+	Query: "pericrocotus exul" ; Times: 2
+	Query: "iptrecordid:&#34;17e32dbe-e847-4f68-8d9a-e9fb69aa1137&#34;" ; Times: 2
+	Query: "specificepithet:lugubris genus:quiscalus hasmass:1" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "specificepithet:mesomelas genus:dendromus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;301fed21-0ce8-4728-994f-2e0823dddf8b&#34;" ; Times: 2
+	Query: "specificepithet:brownii genus:Geocapromys (captive OR zoo)" ; Times: 1
+	Query: "iptrecordid:&#34;23b84d0f-23ee-4106-b0c2-a310e83665e7&#34;" ; Times: 6
+	Query: "Rhinopithecus avunculus " ; Times: 1
+	Query: "iptrecordid:&#34;61ca4658-b879-4f08-97da-47371f0ff510&#34;" ; Times: 2
+	Query: "genus:Cnemidophorus year &gt;= 1995" ; Times: 1
+	Query: "iptrecordid:&#34;d67b62bd-e984-4104-9b61-b75170456b69&#34;" ; Times: 6
+	Query: "Ctenomys brasiliensis " ; Times: 1
+	Query: "specificepithet:inflatus genus:Maxomys" ; Times: 2
+	Query: "iptrecordid:&#34;de9d75d3-4a65-4b86-b8c4-a1d15f7bd4cd&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;c63f4ab3-332a-40bb-a485-fd99471f08d6&#34;" ; Times: 2
+	Query: "specificepithet:congensis genus:afropavo" ; Times: 1
+	Query: "iptrecordid:&#34;8c5a99e9-128a-4ab3-b942-d9142da411c4&#34;" ; Times: 2
+	Query: "order:Anura locality:Zamora country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;593116d3-e37b-461e-b09b-8c563e5161d3&#34;" ; Times: 2
+	Query: "Vandeleuria nolthenii " ; Times: 1
+	Query: "iptrecordid:&#34;a5f25d69-ae3d-4dd2-a11f-8f63049836dc&#34;" ; Times: 2
+	Query: "Proedromys bedfordi " ; Times: 1
+	Query: "Anodorhynchus glaucus" ; Times: 1
+	Query: "Galagoides zanzibaricus " ; Times: 1
+	Query: "iptrecordid:&#34;8123c34e-533a-4e0e-a9dc-22f8f80bfb59&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;18315c64-8a92-4b5b-9ea0-7d4ae3662a90&#34;" ; Times: 2
+	Query: "Ara macao" ; Times: 4
+	Query: "Rhinolophus cognatus " ; Times: 1
+	Query: "iptrecordid:&#34;cc15fe39-e4fa-40f9-b776-683c8a6aefc0&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;c55e9cd0-8ecb-412a-b9cc-d8fa29a10cb7&#34;" ; Times: 4
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "specificepithet:schoenobaenus genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;3f546dc3-ed26-464c-bfc4-dd91f5996c65&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;070a5aee-e7b0-4cdd-92f3-8dc4ee2608b4&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;63a697e3-17e9-4427-82a7-8cc52d282ea0&#34;" ; Times: 4
+	Query: "Pogonomys fergussoniensis " ; Times: 1
+	Query: "iptrecordid:&#34;4c2f6968-91c4-44d9-8883-e8ea9ad5c406&#34;" ; Times: 4
+	Query: "Myotis pequinius " ; Times: 1
+	Query: "iptrecordid:&#34;df20a4fe-d72c-49a4-a97c-a705da457d92&#34;" ; Times: 4
+	Query: "spelaeornis troglodytoides" ; Times: 4
+	Query: "iptrecordid:&#34;b4540b77-0dd3-4f85-b42a-3b4b50c66227&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;930d6d9a-550b-4c77-b830-4f9f35d1940d&#34;" ; Times: 6
+	Query: "Rattus korinchi " ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "genus:Pterosphenus country:&#34;Egypt&#34;" ; Times: 3
+	Query: "iptrecordid:&#34;e841dda9-cd6a-4a56-ac50-fbb5e5e6e467&#34;" ; Times: 2
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "iptrecordid:&#34;59ede0b8-5b8a-4850-95c6-4a17bc4bdd11&#34;" ; Times: 2
+	Query: "bubalus depressicornis" ; Times: 1
+	Query: "iptrecordid:&#34;e3537aa5-6c41-4191-9b7a-445c4b3ac0f5&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;7ae46730-3d36-45ed-afa3-1acd56572e3d&#34;" ; Times: 2
+	Query: "cercotrichas colstoni" ; Times: 1
+	Query: "specificepithet:cricetus genus:cricetus hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;c1a2a554-8d09-4d6d-b43e-ac456917f84b&#34;" ; Times: 6
+	Query: "Cremnomys elvira " ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "iptrecordid:&#34;e10a9abe-3006-4bc4-ad26-7f9e90ed5014&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;c82b7960-511d-427e-85ef-761413ca1164&#34;" ; Times: 2
+	Query: "Diclidurus isabella " ; Times: 1
+	Query: "scientificname:&#34;poyntonia paludicola&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;716c0571-34b6-4967-8bfa-1391a10a05ea&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;5eff0190-c716-42d2-82e7-05c4f88e7c49&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;da8fbab2-2137-402d-a718-ff470d4c4d53&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;f874ea9e-b8e5-4496-9007-e28098222555&#34;" ; Times: 4
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "iptrecordid:&#34;53bbccb0-4054-4b8a-bc01-8463f2e8a04c&#34;" ; Times: 6
+	Query: "vntype:specimen genus:Meleagris continent:North America sex:Male hastypestatus:1" ; Times: 1
+	Query: "iptrecordid:&#34;35e65791-e4a8-4a66-aca4-d7bf73ab9120&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;5ac01ae0-40b4-40b7-bcaa-1365d4fe7328&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;5c588306-d571-4d21-8726-0e4f22f4c8e7&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;4001601b-03dd-447d-b7ef-a9c0481ade93&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f6894b06-9b4f-45ea-a6a8-44cc8842c4ef&#34;" ; Times: 2
+	Query: "Batis minulla" ; Times: 1
+	Query: "iptrecordid:&#34;51ce7357-a979-4084-abf1-29bae14aeef8&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;1ecd54d6-f368-46ea-8a34-1dd71668df77&#34;" ; Times: 6
+	Query: "specificepithet:mesomelas genus:Icterus hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;221db8bf-b47b-4d81-b5ff-6c483fa09270&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;2030beeb-7e2d-4e3b-978a-4481b00613b6&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;f223f7d5-a742-41a4-9bc6-50e108263738&#34;" ; Times: 6
+	Query: "Meriones arimalius " ; Times: 1
+	Query: "iptrecordid:&#34;ab6a3652-cfce-4bd2-b321-8843a991c216&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;0f57c632-f5ed-4846-90a4-6e488a9c23f6&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;b4f138a4-5e93-492f-8a1a-b3b376292c5e&#34;" ; Times: 6
+	Query: "Tadarida insignis " ; Times: 1
+	Query: "iptrecordid:&#34;66eaae01-7301-46ac-ba52-25cfbd4a685e&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;b0177fbd-61b7-4e50-ab1e-75c47e755104&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;460c03e4-add9-458e-a03b-f9619d6aaa9c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;7c5cd45b-a3b5-4320-8330-ddd500073f9d&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;b649c776-1620-474d-bc07-1bc3536461e5&#34;" ; Times: 6
+	Query: "Rallidae+Cameroon" ; Times: 2
+	Query: "iptrecordid:&#34;0cbd14d4-9366-4969-90e2-91777186857c&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;e393db30-6891-44cb-8df9-efb6362a1407&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f6c382eb-cf2d-45af-ba3c-9d0af4f0a293&#34;" ; Times: 4
+	Query: "Gerbillus rosalinda " ; Times: 1
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1855 year &lt;= 1866" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "iptrecordid:&#34;8ae1aa21-eafd-4651-9eb5-07eaf1c3f72d&#34;" ; Times: 6
+	Query: "specificepithet:lugens genus:sylvia hasmass:1" ; Times: 1
+	Query: "Monachus tropicalis vntype:specimen" ; Times: 1
+	Query: "iptrecordid:&#34;efd677bb-a08c-4562-8904-e49a67304b32&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1d228ff6-fc0d-4f79-bc96-42a86fe8d5b8&#34;" ; Times: 2
+	Query: "specificepithet:atrogularis genus:orthotomus hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;66c0b761-42f7-439a-b6e6-0adcf560ccd9&#34;" ; Times: 6
+	Query: "macaca mulatta" ; Times: 2
+	Query: "Lutra longicaudis " ; Times: 3
+	Query: "genus:tamandua basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;35c64008-9433-4a7e-8070-758ac35ba438&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex institutioncode:NHMUK" ; Times: 1
+	Query: "AMPELICEPS CORONATUS India" ; Times: 1
+	Query: "iptrecordid:&#34;b67e0a63-42a2-4974-8a54-305b396c0699&#34;" ; Times: 2
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;326269d2-74dc-479d-a6e8-d0fcc6a5171b&#34;" ; Times: 6
+	Query: "Cheirogaleus crossleyi " ; Times: 1
+	Query: "iptrecordid:&#34;0cca5290-e4d2-4f8f-beb8-c107a0993a9e&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;8b20cc0c-37d6-4192-ada5-57694eb66268&#34;" ; Times: 6
+	Query: "Ochotona pallasii " ; Times: 1
+	Query: "iptrecordid:&#34;8eb1a031-56a3-4f72-97e9-ccf4f158750e&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;5ff4b0cf-6527-43b6-b3bb-b6f900ec1a5b&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cana genus:Vulpes" ; Times: 1
+	Query: "iptrecordid:&#34;0fffbcb1-b426-44b9-a89d-70f5f0c81267&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;7dd291cd-12f0-4ac7-a3c2-229b186dc9a1&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ab2fe197-af0f-4d04-85fd-edc4d720a6e1&#34;" ; Times: 6
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "specificepithet:percivali genus:acomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;259f8996-e6dd-47a0-9f1c-73fbd69355bd&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1d50a5b6-0b8d-4629-8dd8-aaec2b3cd3bb&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;5efe1708-e85e-4692-9ba0-373055e4f1f0&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;8fa17b5a-40ca-4a71-8a51-6f848eb5fb45&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;23844633-a456-46d6-9aee-3ae8d69379ec&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;7c229211-e873-4920-8d22-46f612fc47e0&#34;" ; Times: 6
+	Query: "Ochotona forresti " ; Times: 1
+	Query: "Grammomys aridulus " ; Times: 1
+	Query: "Nomascus siki " ; Times: 1
+	Query: "Oxymycterus angularis " ; Times: 1
+	Query: "specificepithet:regulus genus:regulus hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;718df056-1b40-4e07-9a07-8e04387dcecb&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;409b68a5-3fe6-40ee-8e23-bc84f863d44a&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;2116fdd7-8aba-4cd9-abb3-aa7361c6af7d&#34;" ; Times: 2
+	Query: "paradoxornis flavirostris" ; Times: 1
+	Query: "Crocidura zaphiri " ; Times: 1
+	Query: "Pipa parva" ; Times: 1
+	Query: "iptrecordid:&#34;4db6cacb-c2c1-4b60-848e-7e7036c804ce&#34;" ; Times: 6
+	Query: "Trochalopteron yersini" ; Times: 1
+	Query: "Balantiopteryx infusca " ; Times: 1
+	Query: "diadema Schlegel" ; Times: 1
+	Query: "Tragulus versicolor " ; Times: 1
+	Query: "iptrecordid:&#34;4cb62ac4-c30a-4c43-9152-2eca881ff62f&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:cana genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "Dendrolagus mayri " ; Times: 1
+	Query: "iptrecordid:&#34;44d6eebc-26f6-4455-a854-d832ad469a7a&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;ecd7e7f5-7eb2-4bba-9beb-6748842d9b8c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;454a3e0b-6eea-485e-b8f1-0500dffe9034&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;fca1ecc4-d6f8-45d5-9b4d-efeb7c0db9c3&#34;" ; Times: 2
+	Query: "Myomimus roachi " ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "iptrecordid:&#34;97a0d734-1177-457f-8fa9-d40d7151c99b&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;507ec915-6abe-43bc-8d23-a87611ef497f&#34;" ; Times: 4
+	Query: "specificepithet:lucida genus:hirundo" ; Times: 2
+	Query: "iptrecordid:&#34;ea287c3a-7d74-49c8-a32a-7e127003520b&#34;" ; Times: 2
+	Query: "Chaerephon gallagheri " ; Times: 1
+	Query: "Crocidura pachyura " ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Microcebus griseorufus " ; Times: 1
+	Query: "specificepithet:ARNEE genus:BUBALUS" ; Times: 1
+	Query: "iptrecordid:&#34;0d32a186-5311-4107-9a41-a508d3528bfe&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;4586b6f8-cc7f-4f78-b581-e045b1cc3561&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;40a454c2-91e5-47d1-a47c-d37f5e534ad3&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;3e7317f3-5cdd-4a86-87ce-79b83a2eb312&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;ec565b59-a853-47d5-a87c-db14550c8e8b&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;c8012356-575e-4f45-b9de-0c12f8f3b73c&#34;" ; Times: 2
+	Query: "Elephas maximus borneensis" ; Times: 2
+	Query: "iptrecordid:&#34;1cede351-4025-4cd5-80dd-039b66564424&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;28c62ab8-ff4b-4483-9ed2-6abd4733a283&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;c00f7b02-7072-4c63-b7f3-33da7b5a41b3&#34;" ; Times: 6
+	Query: "Sturnidae+Cameroon" ; Times: 2
+	Query: "Rhinopithecus brelichi " ; Times: 1
+	Query: "iptrecordid:&#34;a4e6da76-f568-4a5f-97a5-6c41f0b78244&#34;" ; Times: 2
+	Query: "Lepus fagani " ; Times: 1
+	Query: "Haeromys pusillus " ; Times: 1
+	Query: "tupaia picta" ; Times: 3
+	Query: "cephalophus weynsi" ; Times: 1
+	Query: "iptrecordid:&#34;8f0159c7-a2ef-483e-a210-79ffdfe00439&#34;" ; Times: 4
+	Query: "Thomasomys rosalinda " ; Times: 1
+	Query: "Myosorex tenuis " ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo) institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;6fe62385-2ae1-44e3-8af8-f98f4abd129c&#34;" ; Times: 2
+	Query: "NHMUK ZOO 1841.1216" ; Times: 1
+	Query: "iptrecordid:&#34;8de45e48-6373-47f1-96af-e1dd509fe122&#34;" ; Times: 6
+	Query: "NHMUK ZOO 1841.1214" ; Times: 1
+	Query: "NHMUK ZOO 1841.1215" ; Times: 1
+	Query: "iptrecordid:&#34;c0629ecc-cfa3-4b43-ab3c-d3cb93724558&#34;" ; Times: 4
+	Query: "genus:dasypeltis institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;eb781937-2162-442b-aa4f-36e40409a09d&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;cc55620c-6d0d-4f5d-a015-9dd44c194457&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;993d2eae-953f-4259-90d0-dce9bf688f39&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;6c9623f9-3b0a-4029-82e4-1aed6d962e34&#34;" ; Times: 6
+	Query: "Pennatomys nivalis " ; Times: 1
+	Query: "specificepithet:fuliginosa genus:petrochelidon" ; Times: 2
+	Query: "iptrecordid:&#34;a8381346-13a9-432a-9215-769a58c43a95&#34;" ; Times: 4
+	Query: "latimeriidae" ; Times: 1
+	Query: "specificepithet:pintadeanus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "Mesomys leniceps " ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (zoo OR captive)" ; Times: 2
+	Query: "dasyurus geoffroii" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "specificepithet:terrestris genus:arvicola hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;d504f6ac-2b92-4150-8c5a-b8162236323a&#34;" ; Times: 4
+	Query: "Equus africanus" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes (zoo OR captive) institutioncode:NHMUK" ; Times: 1
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;3a5c3740-2baa-45f8-bdb6-52f2b092a24e&#34;" ; Times: 4
+	Query: "Tinamus tao" ; Times: 1
+	Query: "iptrecordid:&#34;b602074a-df18-42bf-9704-f1764be25dfd&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;fb70e8f2-6621-4964-be12-beef5d4cc03d&#34;" ; Times: 6
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "Crocidura katinka " ; Times: 1
+	Query: "iptrecordid:&#34;2f23ba54-9c9c-413e-9043-72b3c5bfe3b7&#34;" ; Times: 4
+	Query: "specificepithet:anselli" ; Times: 1
+	Query: "iptrecordid:&#34;8edc9fc8-6ea3-4df3-a75f-a2a62880fd2d&#34;" ; Times: 2
+	Query: "Scutiger occidentalis" ; Times: 5
+	Query: "Rhynchomys" ; Times: 2
+	Query: "iptrecordid:&#34;3f9b1ee2-b6da-4fb2-9ae7-4b9e7c44a609&#34;" ; Times: 2
+	Query: "specificepithet:bucinator genus:bycanistes hasmass:1" ; Times: 1
+	Query: "Platysteira chalybea" ; Times: 1
+	Query: "nhmuk 1859.4.19.5" ; Times: 2
+	Query: "iptrecordid:&#34;b60ed480-170c-4797-8a9c-15cae6fcd1a6&#34;" ; Times: 2
+	Query: "nhmuk 1859.4.19.7" ; Times: 1
+	Query: "iptrecordid:&#34;c0c273b7-8612-4625-ba13-5238647f7f51&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;8da8c8c4-4b6c-4ca9-bfaa-545340cc6a20&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1a76f3a3-9d16-44e4-8331-524e7ba9f156&#34;" ; Times: 2
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;f91e326c-9b70-4539-bb23-1fdd23783050&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d54776de-0322-46a5-bb7e-f55501dcca5f&#34;" ; Times: 2
+	Query: "&#34;hydromantes imperialis&#34;" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "megapodius macgillivrayi" ; Times: 3
+	Query: "iptrecordid:&#34;e3f9e39d-a966-4c58-938b-b1045d3d9e2e&#34;" ; Times: 2
+	Query: "Pteropus brunneus " ; Times: 1
+	Query: "iptrecordid:&#34;96419179-b559-412c-aa5a-a1c38598b249&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;15cadf95-dfd1-4b5c-a7d3-54d11260d4b9&#34;" ; Times: 2
+	Query: "Steatomys jacksoni " ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos (zoo OR captive)" ; Times: 1
+	Query: "iptrecordid:&#34;c65b4a8a-c034-4668-9e66-83add80b864a&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (zoo OR captive) institutioncode:NHMUK" ; Times: 1
+	Query: "Turdus rufitorques" ; Times: 2
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;7bfb255b-3c11-45d2-b982-e8049aa8dd43&#34;" ; Times: 6
+	Query: "Nomascus hainanus " ; Times: 1
+	Query: "iptrecordid:&#34;cc453c80-7b4c-483a-9c35-773d038c1c41&#34;" ; Times: 4
+	Query: "Neomys teres " ; Times: 1
+	Query: "Indri" ; Times: 2
+	Query: "Echimys saturnus" ; Times: 1
+	Query: "iptrecordid:&#34;c20ef657-3bcf-4af1-9381-f348a927bf9c&#34;" ; Times: 4
+	Query: "strix albitarsus" ; Times: 1
+	Query: "Tamiops macclellandii " ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops family:Viperidae country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Musophagidae+Cameroon" ; Times: 2
+	Query: "Ailuropoda" ; Times: 1
+	Query: "iptrecordid:&#34;f9edc898-967f-4b2a-a7e2-b8568e914691&#34;" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 4
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "iptrecordid:&#34;d917e25e-6635-4945-a511-9a9bd1dd982a&#34;" ; Times: 4
+	Query: "prinia kasokae" ; Times: 1
+	Query: "Mustela putorius furo" ; Times: 1
+	Query: "specificepithet:murinus genus:Graphiurus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Sitta magna" ; Times: 1
+	Query: "cephalophus dorsalis" ; Times: 1
+	Query: "specificepithet:doriae genus:Stenodactylus year &gt;= 1980" ; Times: 1
+	Query: "iptrecordid:&#34;56ff8904-e766-4ced-92b4-833927cff4d8&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;81bf2183-b270-48c7-aed5-0c3c307d98e0&#34;" ; Times: 6
+	Query: "ara tricolor" ; Times: 2
+	Query: "Crocidura hilliana " ; Times: 1
+	Query: "aegithalos niveogularis" ; Times: 9
+	Query: "iptrecordid:&#34;f4e9cb29-f85c-43ed-a818-567007be3926&#34;" ; Times: 2
+	Query: "Chaetophractus nationi" ; Times: 1
+	Query: "iptrecordid:&#34;3604a1d1-2074-49c3-a5c4-f461f9b2d783&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;d2b7911e-6119-40eb-9e82-1f333a83ef14&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;22ad6cf2-58a5-4483-a4c8-fb67f562d18c&#34;" ; Times: 6
+	Query: "Gerbillus brockmani " ; Times: 1
+	Query: "specificepithet:leucomelas genus:tockus hasmass:1" ; Times: 1
+	Query: "Simias concolor " ; Times: 1
+	Query: "specificepithet:hindei genus:beamys country:&#34;KENYA&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Pterosphenus" ; Times: 3
+	Query: "Ctenomys tulduco " ; Times: 1
+	Query: "Malaconotidae+Cameroon" ; Times: 2
+	Query: "iptrecordid:&#34;525e5f6f-f46f-4487-b508-2181bfc3bfa7&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;ccf4383a-4499-45ad-b707-1b4dd2357eda&#34;" ; Times: 2
+	Query: "Eurylaimidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida genus:Vulpes" ; Times: 1
+	Query: "Serpophaga hypoleuca" ; Times: 1
+	Query: "Cheirogaleus" ; Times: 3
+	Query: "iptrecordid:&#34;ad04d6cd-f7a8-4220-bf6d-c755aa32d1d6&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;c7ebc86c-50b3-45db-af92-a6127533d814&#34;" ; Times: 2
+	Query: "delichon nipalensis" ; Times: 1
+	Query: "specificepithet:congensis genus:Afropavo" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus country:&#34;Gabon&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;7bae56fa-3da3-4f02-8fba-2569f30f1e70&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;738428ae-8da0-482a-b07e-dbddf1b84772&#34;" ; Times: 6
+	Query: "specificepithet:stangeri genus:protoxerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;0565ea84-ebae-48c7-9957-62f16a7bb479&#34;" ; Times: 2
+	Query: "Porzana exquisita" ; Times: 2
+	Query: "iptrecordid:&#34;39f6b395-d05e-4b60-8108-999b5a77be2c&#34;" ; Times: 6
+	Query: "chrysomma altirostre" ; Times: 4
+	Query: "(ara ambiguus)" ; Times: 1
+	Query: "Cercopithecus sclateri " ; Times: 1
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "Amytornis housei" ; Times: 1
+	Query: "iptrecordid:&#34;c392e9f1-95fd-479a-aa2a-592b4777cca7&#34;" ; Times: 2
+	Query: "zosterops murphyi" ; Times: 2
+	Query: "Pteropus intermedius " ; Times: 1
+	Query: "iptrecordid:&#34;78fe4559-78e0-4373-b7f5-93101ac17e5c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;9b067c0e-13e1-4360-a642-ae5c6b9b957e&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;8c54c884-945e-448a-a188-2811af299cb7&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;58882af5-2842-44de-a602-b066eb1b6f2f&#34;" ; Times: 2
+	Query: "zosterops grayi" ; Times: 2
+	Query: "iptrecordid:&#34;ed499821-fd1c-4ae0-82ca-7e9d85651d8f&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;33002cbe-237c-425c-b984-de14fa8e1fcb&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;4bb66598-bc07-4741-9e81-4c725ab25611&#34;" ; Times: 6
+	Query: "genus:Acinonyx country:&#34;India&#34;" ; Times: 2
+	Query: "specificepithet:procyonoides genus:Nyctereutes (captive OR zoo)" ; Times: 1
+	Query: "iptrecordid:&#34;e5ef3720-0314-414c-9ee1-394b7bb438a5&#34;" ; Times: 4
+	Query: "Dendrocopos atratus" ; Times: 1
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "iptrecordid:&#34;c2d044a2-3820-4409-ad7a-548bc848bdfa&#34;" ; Times: 6
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "iptrecordid:&#34;af986a24-3b45-4e28-bc65-c1a337842def&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;6aacf71f-0130-48e0-94e7-e88b34534688&#34;" ; Times: 4
+	Query: "picumnus confusus" ; Times: 1
+	Query: "iptrecordid:&#34;f56b2666-0f52-4bfc-9d27-4206b5c75fd6&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;3993d26d-053d-45a7-82f1-6db6edc43412&#34;" ; Times: 6
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "iptrecordid:&#34;e7a7e0b4-448f-4dbe-b055-43a0a47b9dde&#34;" ; Times: 2
+	Query: "specificepithet:cyanocephala genus:psittacula hasmass:1" ; Times: 1
+	Query: "Stephanorhinus kirchbergensis " ; Times: 1
+	Query: "iptrecordid:&#34;e65addc8-7ecb-4c18-a54c-7ba919633f1b&#34;" ; Times: 4
+	Query: "Oceanodroma macrodactyla" ; Times: 2
+	Query: "iptrecordid:&#34;cd6215e3-592e-413d-9caa-032bc231486b&#34;" ; Times: 2
+	Query: "dryolimnas cuvieri abbotti" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 4
+	Query: "Tinamus tao tao" ; Times: 1
+	Query: "iptrecordid:&#34;fe491a7f-9cd9-4c47-bd44-824e9bb5886c&#34;" ; Times: 6
+	Query: "specificepithet:procyonoides genus:Nyctereutes institutioncode:NHMUK" ; Times: 1
+	Query: "Piliocolobus bouvieri " ; Times: 1
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;801529c7-c12f-4432-b626-d993a863ac69&#34;" ; Times: 4
+	Query: "Microcebus myoxinus " ; Times: 1
+	Query: "Hipposideros inexpectatus " ; Times: 1
+	Query: "iptrecordid:&#34;69b6b6e0-74f5-42a7-b157-829c067f11e7&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;c8b40434-820b-4594-aa99-4cd27fb5e476&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;47257624-4a55-4db4-bc6c-e321690674ee&#34;" ; Times: 2
+	Query: "Sylviidae+Cameroon" ; Times: 4
+	Query: "genus:dasypeltis locality:haud institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Barbourula" ; Times: 2
+	Query: "indicator poensis" ; Times: 1
+	Query: "iptrecordid:&#34;ea726367-f6e0-4289-ae5d-ac14619c4272&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;43469720-4b54-48c0-a89d-dbfc1656e08c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ed033ded-42d2-4408-8577-7558316e1b0c&#34;" ; Times: 2
+	Query: "country:&#34;south africa&#34; year &gt;= 2015" ; Times: 1
+	Query: "iptrecordid:&#34;92896ec4-85eb-4009-816f-136c576f3008&#34;" ; Times: 4
+	Query: "eupleridae" ; Times: 2
+	Query: "iptrecordid:&#34;d30ceb78-f797-460d-ba28-228a21052831&#34;" ; Times: 2
+	Query: "scientificname:&#34;cercopithecus denti&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;91a5a06e-ff86-4b63-a1f5-c533c4c45266&#34;" ; Times: 6
+	Query: "Barbourula" ; Times: 2
+	Query: "specificepithet:parvus genus:steatomys country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:larvatus genus:oriolus hasmass:1" ; Times: 1
+	Query: "Bubalus arnee " ; Times: 1
+	Query: "iptrecordid:&#34;a612926a-6bb0-43a6-bbbf-71fbfa789c91&#34;" ; Times: 2
+	Query: "Loxodonta africana cyclotis" ; Times: 4
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "iptrecordid:&#34;402e7d93-af66-45b6-b569-420a7a10e1d8&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;53ad01a0-7bb2-49a8-ae3d-a6801d3ffe77&#34;" ; Times: 2
+	Query: "specificepithet:cyaneoviridis genus:tachycineta" ; Times: 1
+	Query: "iptrecordid:&#34;8674aadd-9c0f-4686-8839-de2531f31561&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;2a772f2e-4e94-4bfb-9ad3-e8adcde2b113&#34;" ; Times: 2
+	Query: "Melomys dollmani " ; Times: 1
+	Query: "Mungotictis decemlineata " ; Times: 1
+	Query: "leucopeza semperi" ; Times: 2
+	Query: "Platysteiridae+Cameroon" ; Times: 3
+	Query: "iptrecordid:&#34;3e0e7597-bcdc-4e49-a664-fedc725012ff&#34;" ; Times: 2
+	Query: "specificepithet:CAUCASICA genus:CAPRA" ; Times: 3
+	Query: "iptrecordid:&#34;0ffa9029-9c8b-4e6b-98ad-3169e1638088&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d4858da1-e009-4afe-8a91-68df9ebed7b5&#34;" ; Times: 4
+	Query: "genus:Neacomys hastypestatus:1" ; Times: 2
+	Query: "iptrecordid:&#34;29b6a3e3-58af-410f-878b-7ea59e501985&#34;" ; Times: 4
+	Query: "order:Squamata locality:Zamora country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Oceanites gracilis galapagoensis" ; Times: 1
+	Query: "Dryomys niethammeri " ; Times: 1
+	Query: "iptrecordid:&#34;2f3f9260-67b9-4491-bb0c-ffd4c4bbe348&#34;" ; Times: 6
+	Query: "specificepithet:excelsior genus:cinclodes hasmass:1" ; Times: 1
+	Query: "Alouatta ululata " ; Times: 1
+	Query: "iptrecordid:&#34;a162ecb0-6eb2-4589-8ce3-1f6d463656c4&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;488703da-73b4-48bc-a9ee-7b3ce93bf0ab&#34;" ; Times: 6
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "Sorex sclateri " ; Times: 1
+	Query: "iptrecordid:&#34;c855c743-51d1-48ab-a3c6-8f7e60e1e51a&#34;" ; Times: 6
+	Query: "92661" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:centralis" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 2
+	Query: "specificepithet:mariquensis genus:bradornis hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "iptrecordid:&#34;295cbec8-424a-4550-8142-52ed1cb9a91c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d5910376-b91c-4f45-847e-5c5237a9009f&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;ab5b50d7-3735-40a6-9841-30df8d8be435&#34;" ; Times: 6
+	Query: "fossa" ; Times: 1
+	Query: "iptrecordid:&#34;d6064a88-04dc-4459-9eaf-7d7881c5f7c9&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;d1bec4cf-dc5f-4773-b70d-d84d875844a5&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;f71a7877-8797-43e7-ba6c-176aff6485ab&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;7ca6fd2b-3e78-4426-aeb8-a86876b85e9e&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;a2e68fdf-153e-475c-b4a6-13a4284329e9&#34;" ; Times: 4
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;1e52aab6-365a-444d-b187-77071cf74733&#34;" ; Times: 4
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "iptrecordid:&#34;24dc5391-cd04-4d3a-b7a6-2017f8ea81c6&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;260aa1bd-e0fb-462a-8ff3-aee027819b1e&#34;" ; Times: 4
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "iptrecordid:&#34;d5666a8b-0199-4e6c-abbd-321432222958&#34;" ; Times: 6
+	Query: "class:Aves country:&#34;Burkina Faso&#34;" ; Times: 1
+	Query: "Atelopus hoogmoedi" ; Times: 1
+	Query: "Rhinolophus paradoxolophus " ; Times: 1
+	Query: "Myotis scotti " ; Times: 1
+	Query: "rukia ruki" ; Times: 1
+	Query: "napothera bakeri" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "Loxodonta cyclotis" ; Times: 2
+	Query: "Batis poensis" ; Times: 1
+	Query: "iptrecordid:&#34;53e3aea9-7500-46ff-b889-f0e019271716&#34;" ; Times: 2
+	Query: "Myotis insularum " ; Times: 1
+	Query: "iptrecordid:&#34;1074c09d-7dc0-439b-9d4c-85378d5fdb32&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b40e9958-8a2b-49dd-b576-7e46196f9149&#34;" ; Times: 6
+	Query: "Gerbillus lowei " ; Times: 1
+	Query: "Psammophis schokari" ; Times: 1
+	Query: "iptrecordid:&#34;7de13ae3-b207-47b7-9bdd-25adee0c22c1&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;f2159653-a341-4efc-bcb8-1a18091900c2&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;ac731d58-acc2-426b-b332-26c079b22cdd&#34;" ; Times: 4
+	Query: "Myotis morrisi " ; Times: 1
+	Query: "chondrohierax uncinatus chiapas" ; Times: 1
+	Query: "Pseudomys glaucus " ; Times: 1
+	Query: "Chodsigoa smithii " ; Times: 1
+	Query: "Neopteryx frosti " ; Times: 1
+	Query: "zosterops albogularis" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;nigeria&#34;" ; Times: 4
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Heteromys irroratus " ; Times: 1
+	Query: "iptrecordid:&#34;e188a47c-37cf-447f-b7b5-188a95beb3ec&#34;" ; Times: 6
+	Query: "batis poensis" ; Times: 1
+	Query: "iptrecordid:&#34;a13f397d-7c58-4350-b2f1-9b8a2d12429b&#34;" ; Times: 4
+	Query: "Piliocolobus temminckii " ; Times: 1
+	Query: "specificepithet:dunni genus:Eremalauda" ; Times: 1
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "iptrecordid:&#34;799115e3-a35a-4981-9f5d-471114aaa596&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;f873a58a-9913-4b06-922a-dc8750b95219&#34;" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "Motacillidae+Cameroon" ; Times: 1
+	Query: "specificepithet:krameri genus:psittacula hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;b2fb1b1c-1beb-42a1-af4c-c04e47389131&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d85de923-da30-4f6e-b59b-2a87a8230771&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;95ee8592-8df9-47d0-917d-c5f947c85284&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;de270b9e-5c28-4694-8b03-d2e70cf3d2bb&#34;" ; Times: 4
+	Query: "Phyllomys medius " ; Times: 1
+	Query: "iptrecordid:&#34;52a3d0e9-28ce-4f0f-a5c5-b40d25bc7630&#34;" ; Times: 6
+	Query: "Zaglossus bruijnii " ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 2
+	Query: "Lagostomus crassus " ; Times: 1
+	Query: "cyanocorax cozumelae" ; Times: 1
+	Query: "specificepithet:leucocephala genus:Amazona hasmass:1" ; Times: 1
+	Query: "Sorex granarius " ; Times: 1
+	Query: "Scopidae+Cameroon" ; Times: 1
+	Query: "Batis perkeo" ; Times: 2
+	Query: "institutioncode:NHMUK" ; Times: 2
+	Query: "iptrecordid:&#34;43f41ab9-849a-41b0-9a14-8dac66f68caa&#34;" ; Times: 4
+	Query: "Mergus australis" ; Times: 1
+	Query: "iptrecordid:&#34;6243b3e3-2e18-4060-bcdc-fcb482f97821&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;179906d4-b681-408b-83a9-8162fb6ccf99&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;72fc1878-ceb7-4e3c-8186-307e6212bf78&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d7b118a4-fa72-448b-b173-e0dcc2a5014d&#34;" ; Times: 6
+	Query: "genus:rhipidura class:aves (2297)" ; Times: 1
+	Query: "specificepithet:nigricans genus:cercomacra hasmass:1" ; Times: 1
+	Query: "Phoeniculidae+Cameroon" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "iptrecordid:&#34;1f90b89e-0037-4ac4-9351-a2338838824d&#34;" ; Times: 4
+	Query: "Sorex cansulus " ; Times: 1
+	Query: "holsti" ; Times: 1
+	Query: "Galagoides rondoensis " ; Times: 1
+	Query: "iptrecordid:&#34;03ad1853-f0fe-4223-a777-21f27d4060a8&#34;" ; Times: 2
+	Query: "genus:protoxerus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;a4fb0e19-647d-435a-b694-5692f4149d23&#34;" ; Times: 6
+	Query: "Scutiger sikkimensis" ; Times: 4
+	Query: "iptrecordid:&#34;d54fcbfb-d8a4-49eb-8d3b-5a502417bd2c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;550922ba-5d81-4197-a6ed-44a0baf6350d&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f66163c2-5688-4b6b-868b-2fae601e30a6&#34;" ; Times: 6
+	Query: "Hesperoptenus doriae " ; Times: 1
+	Query: "iptrecordid:&#34;b8249f26-0380-45e0-be22-198ac88f99dc&#34;" ; Times: 6
+	Query: "craugastor augusti" ; Times: 1
+	Query: "specificepithet:gambianus genus:Cricetomys country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;60ecfb45-1e49-4547-99aa-ed617d4cf04a&#34;" ; Times: 2
+	Query: "cro" ; Times: 1
+	Query: "Coturnix novaezelandiae" ; Times: 1
+	Query: "Discoglossus pictus mappable:1" ; Times: 7
+	Query: "iptrecordid:&#34;1561f37d-96d6-47ab-80cd-6f93723de0f8&#34;" ; Times: 2
+	Query: "NHMUK ZOO 1843.8.12.19" ; Times: 1
+	Query: "iptrecordid:&#34;9e2c5217-9893-4572-bced-463f872ff0e5&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;2ce562c6-0004-4028-80b0-baac353c82b8&#34;" ; Times: 4
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "iptrecordid:&#34;41b227de-2d6b-446e-b0c1-9f23e623fa78&#34;" ; Times: 2
+	Query: "Oliver Jones" ; Times: 1
+	Query: "iptrecordid:&#34;8e883586-aacb-43e8-be0d-a1bd5c929e84&#34;" ; Times: 6
+	Query: "specificepithet:zosterops genus:Xanthomixis hasmass:0" ; Times: 1
+	Query: "specificepithet:sinaloae genus:progne" ; Times: 2
+	Query: "Laridae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Mauritania&#34;" ; Times: 1
+	Query: "specificepithet:mutus genus:bos" ; Times: 2
+	Query: "nyctinomops aurispinosus" ; Times: 4
+	Query: "Cheirogaleus sibreei " ; Times: 1
+	Query: "class:Reptilia locality:Tawi Tawi" ; Times: 1
+	Query: "Ctenomys viperinus " ; Times: 1
+	Query: "scientificname:&#34;equus africanus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;99769ed3-4597-467b-ba9e-f0b52377b997&#34;" ; Times: 6
+	Query: "Numenius madagascariensis" ; Times: 1
+	Query: "iptrecordid:&#34;144a9a02-9ad7-40a4-b0e1-b57bfc660372&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;52a064bb-e57c-4d60-b7c8-34a4f5de0f22&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;c9775a8f-29c5-4689-a9ae-53329a2f91f8&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;4cce1c8a-ddc7-4501-a8a1-d4da81aef167&#34;" ; Times: 6
+	Query: "allocebus" ; Times: 3
+	Query: "iptrecordid:&#34;0a6cd0d4-e865-4758-9fbb-2c5bf68f6fa3&#34;" ; Times: 4
+	Query: "specificepithet:pondicerianus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "mylodon" ; Times: 1
+	Query: "iptrecordid:&#34;84061f87-745d-4ffb-bd95-7031d48f97b4&#34;" ; Times: 6
+	Query: "serpophaga hypoleuca" ; Times: 1
+	Query: "Cheirogaleus minusculus " ; Times: 1
+	Query: "iptrecordid:&#34;4f7de63c-cf64-40cd-a33b-a64eebdef35c&#34;" ; Times: 2
+	Query: "specificepithet:tuberculatus genus:Bunopus year &gt;= 1980" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "Tragelaphus eurycerus" ; Times: 1
+	Query: "Hipposideros nequam " ; Times: 1
+	Query: "iptrecordid:&#34;da6d31e9-3aec-451e-ac0e-c075c57d1ddd&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;afbadead-8d97-4022-8a24-a6eb7e09deee&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;3f01bd2b-c7b1-4a9a-bc8a-c708a25418a2&#34;" ; Times: 2
+	Query: "Galagoides granti " ; Times: 1
+	Query: "Gazella saudiya " ; Times: 1
+	Query: "iptrecordid:&#34;36fe6110-a565-4aa2-9f50-08b226887ab0&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;f8441982-50e0-4d37-9028-4f971b1a3996&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;99cbc2c2-5314-475c-86d1-0abe14360abd&#34;" ; Times: 6
+	Query: "Herpestes ochraceus " ; Times: 1
+	Query: "Psammomys vexillaris" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "iptrecordid:&#34;888fb337-5e5d-457e-989b-b322061fd6e2&#34;" ; Times: 2
+	Query: "specificepithet:leucophaeus genus:Hippotragus" ; Times: 1
+	Query: "iptrecordid:&#34;84108039-1c14-413e-b875-ae1382c9cee1&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;2a6b25ba-eb3c-41f4-9bb1-d384661379b2&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;d8e5fc8a-bd69-47c6-bb9d-c14874765758&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;d4213c9e-4031-4c14-95f1-c18f1344e34d&#34;" ; Times: 2
+	Query: "Hirundinidae+Cameroon" ; Times: 2
+	Query: "iptrecordid:&#34;7e5a22e5-9096-42ca-acbc-45fe2c98b3d5&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;73c8b3bb-8af0-4ab7-af24-01895b37aedf&#34;" ; Times: 4
+	Query: "specificepithet:vulgaris genus:Sciurus (zoo OR captive)" ; Times: 1
+	Query: "iptrecordid:&#34;40fde392-9bd5-4d2b-820c-5093271f0d8f&#34;" ; Times: 6
+	Query: "Ctenomys fodax " ; Times: 1
+	Query: "iptrecordid:&#34;31980645-4c54-471e-9b75-46ebe69a2074&#34;" ; Times: 4
+	Query: "Cheirogaleus medius" ; Times: 3
+	Query: "euoticus" ; Times: 3
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "iptrecordid:&#34;9523e4e0-19f4-4bdf-ac4c-249ad5f160df&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "Dasyprocta guamara " ; Times: 1
+	Query: "Caecilia thompsoni" ; Times: 1
+	Query: "megapodius dillwyni" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops country:&#34;Colombia&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;4b9796d0-7d17-4af4-99ca-ab9b3fa3cac5&#34;" ; Times: 2
+	Query: "guiraca caerulea chiapas" ; Times: 1
+	Query: "iptrecordid:&#34;c678648c-3760-4a17-9aae-0ecafed01710&#34;" ; Times: 2
+	Query: "specificepithet:baileyi genus:Naemorhedus" ; Times: 2
+	Query: "macrosphenus flammeus" ; Times: 1
+	Query: "iptrecordid:&#34;d76e0295-90c3-4aeb-85da-3316972b3a1f&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;57eae41e-a25a-4032-b973-20345ef6b75d&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;10e333c7-d643-439b-ae93-821ce175f06e&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;37574992-0c30-4e1a-a87f-3941a67872db&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;2e1062c3-a2f2-4e2b-9807-3728437af496&#34;" ; Times: 4
+	Query: "progne cryptoleuca" ; Times: 1
+	Query: "Uromys imperator " ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 1979 year &lt;= 1987 basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "pyrrhura perlata" ; Times: 1
+	Query: "iptrecordid:&#34;b7ae80bd-53da-4d3e-9be0-1c6307da7608&#34;" ; Times: 6
+	Query: "specificepithet:nitens genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "Mustela russelliana " ; Times: 1
+	Query: "iptrecordid:&#34;13a32e60-9740-4d1a-953c-fc977de3cc74&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;e8b9f15e-cb07-4610-8809-1d53b8fb65d4&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;16d5884d-d0d1-420e-a9ae-82c973c67b62&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "Tachybaptus rufolavatus" ; Times: 1
+	Query: "iptrecordid:&#34;c53400a4-755b-4950-9d43-13bb9a1e9450&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;5c181b24-4271-403f-bcc2-6e101bfff699&#34;" ; Times: 4
+	Query: "Hylopetes sipora " ; Times: 1
+	Query: "Pipistrellus pulveratus " ; Times: 1
+	Query: "Micropechis ikaheka" ; Times: 5
+	Query: "institutioncode:nhmuk" ; Times: 1
+	Query: "Equus asinus somaliensis" ; Times: 2
+	Query: "Megabyas flammulatus" ; Times: 1
+	Query: "specificepithet:flavipes genus:platalea hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;e3918c9b-014d-43c0-894c-8ca614022119&#34;" ; Times: 4
+	Query: "dephomys" ; Times: 1
+	Query: "iptrecordid:&#34;7e90a6bf-675e-4275-b3b3-1706c18c89a2&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f136d5bf-59d9-488e-8bd5-bf07ef8190c6&#34;" ; Times: 2
+	Query: "Equus asinus" ; Times: 2
+	Query: "Cercopithecus dryas " ; Times: 1
+	Query: "specificepithet:alpinus genus:Cuon (captive OR zoo)" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 2
+	Query: "iptrecordid:&#34;42503017-c6bb-4006-828d-3f636ea2cb5b&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;7f24291f-b78c-450d-9ad3-81a401c71755&#34;" ; Times: 4
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "iptrecordid:&#34;22da7b07-3043-4708-aa90-7e3827819a73&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;333c4076-8777-48af-93d9-ae3e4ba14b70&#34;" ; Times: 2
+	Query: "Columbidae+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;004cfb7e-ddcf-4d95-938c-7d3012e79a92&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;287fed73-4e19-4cea-b313-b18fd081a42f&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;db3d9ade-9687-481a-aad2-46288e67d127&#34;" ; Times: 2
+	Query: "specificepithet:ochrocephala genus:Amazona hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;f5d6fce0-867b-495c-9505-788b712ad799&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;0af972f4-24cc-4b50-b20f-4e854bcbf89a&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ecd5d1f6-0107-4452-a6d4-0a5feaf0f6f5&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:fluvicola genus:Petrochelidon hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;8a35bc2d-1ab5-466b-a061-a02d7b992399&#34;" ; Times: 6
+	Query: "Crax globulosa" ; Times: 1
+	Query: "iptrecordid:&#34;1750f34b-30fa-44fc-ab2b-ca9c92c64ca2&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;e25442e1-3500-4007-bbe9-a922f061fffc&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;edaeef55-f5c6-44d3-a6d0-21c6ee8447ab&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e9876297-035d-48f9-9fd6-25feee68d988&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b56abead-9839-422f-9d62-fc77c3fea080&#34;" ; Times: 6
+	Query: "Nycticebus bengalensis" ; Times: 1
+	Query: "iptrecordid:&#34;75470606-9fbd-477a-9fde-4fc348a6e937&#34;" ; Times: 2
+	Query: "Microdillus peeli " ; Times: 1
+	Query: "iptrecordid:&#34;d270e436-1886-4d32-ab47-f2fdcf11cd49&#34;" ; Times: 2
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "iptrecordid:&#34;71ae3d9b-6921-4d77-9435-b1557467d9a3&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;5c47844c-bf20-431f-908e-95987a1db90a&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;41c538e5-c346-455d-8e74-fe3312acfe75&#34;" ; Times: 4
+	Query: "Poeppig" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Ctenomys famosus " ; Times: 1
+	Query: "iptrecordid:&#34;530cb1f4-6840-4f36-890d-eeb23e474e41&#34;" ; Times: 4
+	Query: "hirundo lucida" ; Times: 1
+	Query: "Crocidura ultima " ; Times: 1
+	Query: "Heteromys pictus " ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 3
+	Query: "Chondrohierax wilsonii" ; Times: 8
+	Query: "iptrecordid:&#34;5d63d24f-35de-4fcd-af83-3fc7d05b0f5b&#34;" ; Times: 4
+	Query: "cuon alpinus" ; Times: 4
+	Query: "iptrecordid:&#34;90a6cb8a-7a19-4908-bf2b-21e17c1ffe6f&#34;" ; Times: 6
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "iptrecordid:&#34;25359a36-ef7a-42d1-8e7e-2eb08d3a32ff&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;54b414e6-7654-42b2-91a7-c812169d88dc&#34;" ; Times: 2
+	Query: "Pipistrellus arabicus " ; Times: 1
+	Query: "Eulemur fulvus" ; Times: 1
+	Query: "iptrecordid:&#34;3c4083a9-b681-4eab-8c01-df4e49dd7e76&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;3fc9bfe5-2aae-4832-b6ab-9e710219fedc&#34;" ; Times: 6
+	Query: "petrochelidon fluvicola" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "Eptesicus floweri " ; Times: 1
+	Query: "Myotis hermani " ; Times: 1
+	Query: "iptrecordid:&#34;ce3a0f4e-f882-4bc1-88bd-17a1d876afc9&#34;" ; Times: 2
+	Query: "prinia inglisi" ; Times: 1
+	Query: "riparia diluta" ; Times: 2
+	Query: "Caprimulgidae+Cameroon" ; Times: 2
+	Query: "doliornis sclateri" ; Times: 4
+	Query: "iptrecordid:&#34;f86c95ae-6968-44bc-a352-e6b18bb70dbc&#34;" ; Times: 6
+	Query: "specificepithet:buryi genus:sylvia" ; Times: 1
+	Query: "Ctenomys bergi " ; Times: 1
+	Query: "iptrecordid:&#34;d8337f8e-0d82-4b2a-9c7c-cde20cfc4309&#34;" ; Times: 4
+	Query: "pomatorhinus melanurus" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon institutioncode:NHMUK" ; Times: 1
+	Query: "Pelagodroma marina eadesi" ; Times: 1
+	Query: "scientificname:&#34;microcebus griseorufus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;2d470b8f-3a26-454d-905d-d2d6ba99c148&#34;" ; Times: 4
+	Query: "specificepithet:murinus genus:Graphiurus country:&#34;kenya&#34;" ; Times: 3
+	Query: "petrochelidon rufigula" ; Times: 2
+	Query: "iptrecordid:&#34;ca68c876-eca6-4f56-9abd-adbfe613b919&#34;" ; Times: 4
+	Query: "Chlamyphorus" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus country:&#34;Spain&#34;" ; Times: 2
+	Query: "Grallaria gigantea" ; Times: 1
+	Query: "iptrecordid:&#34;d30b08f5-ff1b-45ea-a241-3fec557f89aa&#34;" ; Times: 6
+	Query: "Gerbillus somalicus " ; Times: 1
+	Query: "genus:hybomys country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:mystacalis genus:dendromus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;b5f3e0a6-05aa-4161-85df-2eaaa786e048&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;8dbde0bb-e43e-4d8d-9ddf-5472904977a3&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;42790f58-cbeb-4251-81cd-5cb9559079f8&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e96c88ef-335b-45af-9eed-a0abd1335904&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;1f3f8e99-3bfd-497e-adbe-81215379daed&#34;" ; Times: 4
+	Query: "scientificname:&#34;rhinolophus imaizumii&#34;" ; Times: 1
+	Query: "Martes gwatkinsii " ; Times: 1
+	Query: "Gerbillus watersi " ; Times: 1
+	Query: "Buteo augur" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes (captive OR zoo) institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;cab6b3e8-cd95-499e-a88a-42a1080a97ef&#34;" ; Times: 6
+	Query: "specificepithet:ferruginea genus:Calidris hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex" ; Times: 1
+	Query: "Crocidura somalica " ; Times: 1
+	Query: "iptrecordid:&#34;7ec1d93f-48b5-4675-b58d-ab1c892dc970&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;2b4c4958-ba6f-44b3-a847-19ab272fcea5&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;a3119225-f74e-4479-9836-814e2c154f8b&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;69937680-11dc-4f4d-808a-9f3f8796b8cd&#34;" ; Times: 6
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "iptrecordid:&#34;37bad6f7-3d44-490b-b98b-de4acd189dcf&#34;" ; Times: 6
+	Query: "Calomys callidus " ; Times: 1
+	Query: "genus:Bunopus year &gt;= 1980" ; Times: 2
+	Query: "Uromys porculus " ; Times: 1
+	Query: "iptrecordid:&#34;2aaec422-a2d4-454f-954c-74e4fb25d486&#34;" ; Times: 6
+	Query: "unicorn" ; Times: 2
+	Query: "columba plumbea institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;276b1a23-5a3b-4da0-9287-63d946bba56d&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;b5e60390-4305-4219-abe3-1fc9a3018be1&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;14cbae73-3434-4ba0-a379-71db516f7693&#34;" ; Times: 4
+	Query: "ortygospiza smithersi" ; Times: 3
+	Query: "Caecilia gracilis" ; Times: 2
+	Query: "Muntiacus montanus " ; Times: 1
+	Query: "iptrecordid:&#34;17c8c3ec-5d19-48a0-a6f7-f97dd74731bf&#34;" ; Times: 2
+	Query: "Callicebus regulus " ; Times: 1
+	Query: "Crossarchus ansorgei " ; Times: 1
+	Query: "iptrecordid:&#34;e2775252-cecf-476b-bc43-c1e6f0e68d86&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;fe7d89ab-f27f-4949-bb84-40649720a39f&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;ab33936f-59e6-4339-bdf6-4ded2087ed29&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;d889b3fb-9eff-454c-86d2-d98134093d7a&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:NHMUK" ; Times: 1
+	Query: "(ara ambiguus )" ; Times: 1
+	Query: "iptrecordid:&#34;59fda891-0ece-4e4f-9132-0ed1bac18572&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;d9c9f12d-9621-4ec3-ab5d-c3d1e7db7722&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;09fb19c8-a324-48b9-9bbc-b9598522a17a&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;sierra leone&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;f88b2692-662f-4b89-9490-83c1c9af976f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1bd266e2-1d80-4206-a0d5-2b5839344a8d&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e48f3dd8-99de-4c34-b9c7-756c0ea96be2&#34;" ; Times: 6
+	Query: "Grallaria varia distincta" ; Times: 1
+	Query: "iptrecordid:&#34;da06ae2c-0010-44e1-a4e8-3f4471eb5c59&#34;" ; Times: 6
+	Query: "crocidura sibirica" ; Times: 1
+	Query: "iptrecordid:&#34;7a703938-8b47-4275-8213-6acdfe48c84c&#34;" ; Times: 6
+	Query: "Tragulus williamsoni " ; Times: 1
+	Query: "vntype:specimen specificepithet:bengalensis genus:Vulpes" ; Times: 1
+	Query: "alytes" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "iptrecordid:&#34;aaad320a-642b-4632-a97e-c641ba833aee&#34;" ; Times: 2
+	Query: "Gerbillus jamesi " ; Times: 1
+	Query: "Muscicapidae+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;8473650b-1ed2-414f-82e8-5ace80bf43e7&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;051787c3-576e-41d8-9277-7e770255f44f&#34;" ; Times: 6
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 1
+	Query: "Sicista caudata " ; Times: 1
+	Query: "vntype:specimen specificepithet:alpinus genus:Cuon" ; Times: 1
+	Query: "Oceanites gracilis gracilis basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;655e3f74-95e2-4732-8114-164599577bdd&#34;" ; Times: 6
+	Query: "specificepithet:pulcherrimus genus:psephotus" ; Times: 3
+	Query: "iptrecordid:&#34;10db0da4-b0a7-4936-b892-2dedc19bce3b&#34;" ; Times: 6
+	Query: "Mergus India" ; Times: 1
+	Query: "Platysteira laticincta" ; Times: 3
+	Query: "genus:Tantilla country:&#34;Belize&#34; year &gt;= 1985" ; Times: 1
+	Query: "vntype:specimen specificepithet:bengalensis genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "iptrecordid:&#34;0a40d13f-5e13-457e-b040-3b4a96eb5ef7&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;df859af9-29ff-4159-badc-40f433064e31&#34;" ; Times: 2
+	Query: "Chaerephon johorensis " ; Times: 1
+	Query: "iptrecordid:&#34;16dd8fa8-5990-40ab-b4ab-621e82541f06&#34;" ; Times: 6
+	Query: "turnagra" ; Times: 1
+	Query: "iptrecordid:&#34;88b10a2d-fcde-420a-8034-134de7181857&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;5981d49d-380c-4ae2-a781-53d6d1ad1018&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;23b1e04c-747c-452d-9664-8c0ea8751dca&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;e0fd7bdf-3a3e-4d7b-a8b0-17c4a5e5d953&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;dda199d2-16b0-4a26-8bc6-70248fa0a8be&#34;" ; Times: 2
+	Query: "Setifer setosus" ; Times: 1
+	Query: "iptrecordid:&#34;3f72a866-0404-4c68-8ae6-d3d7a157d742&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d7b54515-f6fc-475e-9cf8-f666d904aa8e&#34;" ; Times: 2
+	Query: "chiasmocleis hudsoni" ; Times: 1
+	Query: "iptrecordid:&#34;c93e4ab4-59d4-4990-9f24-c474d15fbc52&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;1e62380d-4393-454e-b13e-1274064cd4b0&#34;" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "stochomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:NHMUK" ; Times: 1
+	Query: "Eumops maurus " ; Times: 1
+	Query: "Petaurillus emiliae " ; Times: 1
+	Query: "Philentoma velata" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina lifestage:egg" ; Times: 1
+	Query: "iptrecordid:&#34;884c95d2-6419-4470-8dd5-65248ee49846&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;66b6e289-e009-45bd-916e-42f908043bd8&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d16ebb02-e007-4721-8baa-68fb8a65f938&#34;" ; Times: 6
+	Query: "Elephas maximus hirsutus" ; Times: 2
+	Query: "iptrecordid:&#34;2a560d21-0d7e-4324-9cef-5b918072f5be&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;8f1e4069-2f6f-44f1-b421-5b270a039e23&#34;" ; Times: 2
+	Query: "class:Reptilia OR Amphibia locality:Tawi Tawi" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Crocidura virgata " ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 2
+	Query: "Lagidium wolffsohni " ; Times: 1
+	Query: "iptrecordid:&#34;a6f5b938-5dc1-4650-af8a-ec21e221a8be&#34;" ; Times: 6
+	Query: "genus:Leptodactylodon specificepithet:ornatus" ; Times: 1
+	Query: "chinensis specificepithet:paludicola genus:Riparia" ; Times: 1
+	Query: "iptrecordid:&#34;72dabc1a-b309-4524-8b0b-92841ef094ec&#34;" ; Times: 6
+	Query: "Batis margaritae" ; Times: 1
+	Query: "zosterops luteirostris" ; Times: 1
+	Query: "iptrecordid:&#34;7cdfbed7-6c93-457c-af85-a06e3d2b14db&#34;" ; Times: 2
+	Query: "stoliczkae" ; Times: 1
+	Query: "Leptopelis gramineus" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida genus:Vulpes institutioncode:NHMUK" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "iptrecordid:&#34;3e812c19-bd97-4997-bf4b-e3720103aa17&#34;" ; Times: 4
+	Query: "gbifdatasetid:7e380070-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "Helarctos malayanus" ; Times: 2
+	Query: "Chibchanomys orcesi " ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "iptrecordid:&#34;394af13a-c2fc-4e25-9e35-62f29f5d4859&#34;" ; Times: 2
+	Query: "Amytornis woodwardi" ; Times: 1
+	Query: "yuhina humilis" ; Times: 2
+	Query: "Ctenomys talarum" ; Times: 1
+	Query: "iptrecordid:&#34;6b436ba8-6750-497e-a62d-5c443a25f812&#34;" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "specificepithet:hindei genus:beamys country:&#34;KENYA&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;dbf6388a-4b98-4f5f-85f0-db1774c0befd&#34;" ; Times: 2
+	Query: "Acomys nesiotes " ; Times: 1
+	Query: "Holostei" ; Times: 1
+	Query: "scientificname:&#34;murina huttonii&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;cc67d184-5ae4-41ef-a8a0-2db7bfb4e21c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;10fe21ac-942f-4190-b963-37493da15007&#34;" ; Times: 6
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "iptrecordid:&#34;18468c49-4c7b-41c4-a80e-36ac034889d8&#34;" ; Times: 6
+	Query: "Moschiola kathygre " ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;cameroon&#34;" ; Times: 5
+	Query: "iptrecordid:&#34;af89d4b6-d159-4826-aff9-c6286e3cf8af&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:alpinus genus:Cuon institutioncode:NHMUK" ; Times: 1
+	Query: "Crocidura pitmani " ; Times: 1
+	Query: "Uropsilus investigator " ; Times: 1
+	Query: "iptrecordid:&#34;775bc884-95c4-4e99-8b26-85a382d3730a&#34;" ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Zosterops griseonota" ; Times: 1
+	Query: "Trimesurus" ; Times: 1
+	Query: "genus:lophiomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 2
+	Query: "Strigidae+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;befe3f8a-6939-41e1-97a1-ae855a0b230e&#34;" ; Times: 2
+	Query: "Ctenomys saltarius " ; Times: 1
+	Query: "iptrecordid:&#34;ee4a82d6-a85c-4cda-b7a8-d130299612f1&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;0cdd4042-01e4-4700-ae74-bf573a20610d&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;b897eb5e-ad52-4c9b-835a-893c5f7cf549&#34;" ; Times: 2
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "iptrecordid:&#34;32b065a9-ee63-4b32-b9aa-fe0e098b7af2&#34;" ; Times: 4
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 3
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos institutioncode:NHMUK" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "iptrecordid:&#34;df7ebaf0-0b51-48c9-91e7-aecf01245a85&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;5dd75f6e-eb9c-40b7-8d0d-0d1c47699015&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;9743dec1-a798-4d77-a333-9ed3c770c137&#34;" ; Times: 6
+	Query: "Nesoromys ceramicus " ; Times: 1
+	Query: "iptrecordid:&#34;fb6e35ce-52d3-4ea3-95aa-4ccba11ae9fa&#34;" ; Times: 2
+	Query: "spelaeornis longicaudatus" ; Times: 1
+	Query: "specificepithet:mystacalis genus:dendromus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Porzana spiloptera" ; Times: 1
+	Query: "Platysteira tonsa" ; Times: 1
+	Query: "iptrecordid:&#34;258944ce-1e68-41a1-9639-9cc65611d415&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;8a2dd048-2d34-44b7-a182-8eaa319a0807&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;c22ae848-27b4-41d0-ba3b-3e9617e5fb99&#34;" ; Times: 4
+	Query: "Crocidura picea " ; Times: 1
+	Query: "Acanthodactylus boskianus" ; Times: 1
+	Query: "specificepithet:johnstoni genus:Okapia" ; Times: 1
+	Query: "Piliocolobus kirkii " ; Times: 1
+	Query: "Deltamys kempi " ; Times: 1
+	Query: "specificepithet:parvus genus:steatomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;356caa95-d78f-438d-9a21-91662056d96e&#34;" ; Times: 6
+	Query: "genus:Mus country:&#34;Algeria&#34;" ; Times: 1
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "iptrecordid:&#34;aee7300e-47c6-41b2-a305-9b55c4839591&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;703f1567-3425-4678-9f71-c394726fa034&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;bd669a8e-00d8-47bb-9216-35f4a38f84c8&#34;" ; Times: 4
+	Query: "Niviventer fraternus " ; Times: 1
+	Query: "Maxomys inflatus " ; Times: 1
+	Query: "iptrecordid:&#34;775b38f8-63ba-4cef-85c7-e6b6a7b674b6&#34;" ; Times: 6
+	Query: "Zalophus japonicus " ; Times: 1
+	Query: "iptrecordid:&#34;e90e3b1a-658a-4b5b-87c4-33885a44f2b0&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;89befe59-b765-4281-84ed-06479f55a921&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ff8190c8-1c99-47f7-9e2f-f51fb8227593&#34;" ; Times: 2
+	Query: "specificepithet:fulgidus genus:pharomachrus hasmass:1" ; Times: 1
+	Query: "hirundo leucosoma" ; Times: 2
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: "Nesolagus" ; Times: 1
+	Query: "iptrecordid:&#34;ba20ad7a-23d3-44cc-920d-257937214c26&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;93b724f6-b523-4732-bf5a-1bc41111dee2&#34;" ; Times: 6
+	Query: "specificepithet:pyrrhophrys genus:Chlorophonia hastissue:0" ; Times: 1
+	Query: "scientificname:&#34;tarsius sp.&#34;" ; Times: 1
+	Query: "Columba livia egg" ; Times: 1
+	Query: "iptrecordid:&#34;df1fd74e-aa3c-48f2-b804-938dae00d390&#34;" ; Times: 4
+	Query: "specificepithet:lamberti genus:malurus hasmass:1" ; Times: 1
+	Query: "Viduidae+Cameroon" ; Times: 1
+	Query: "specificepithet:palliatus genus:paraxerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex" ; Times: 1
+	Query: "iptrecordid:&#34;36a975e4-8ffc-4cae-944c-2726c99f0852&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;fc1c52b2-3530-46ba-bae4-e8f4f6bc9348&#34;" ; Times: 4
+	Query: "Olallamys edax " ; Times: 1
+	Query: "Phyllomys blainvillii " ; Times: 1
+	Query: "Corvus hawaiiensis (skin)" ; Times: 1
+	Query: "Candiacervus cretensis " ; Times: 1
+	Query: "iptrecordid:&#34;bea12d7e-b96a-40c1-8214-3d958e22685b&#34;" ; Times: 2
+	Query: "specificepithet:vittata genus:Amazona hasmass:1" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "iptrecordid:&#34;0dacf0c8-919c-45ae-8d77-8824b524bc3b&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d0209eed-d62f-4836-8db5-d70fd3d7dfdb&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;61d965f7-6342-4314-8f8e-89a318a58275&#34;" ; Times: 6
+	Query: "Nyctimene minutus " ; Times: 1
+	Query: "order:Carnivora country:&#34;madagascar&#34;" ; Times: 1
+	Query: "oriolus richmondi" ; Times: 2
+	Query: "iptrecordid:&#34;f6e6a811-9e14-4603-8155-951d099c5197&#34;" ; Times: 2
+	Query: "claravis mondetoura" ; Times: 74
+	Query: "Presbytis siamensis " ; Times: 1
+	Query: "iptrecordid:&#34;bd542f9f-8495-4438-bb5c-124525ae92a7&#34;" ; Times: 4
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "Caudiverbera vntype:specimen" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "Uromys siebersi " ; Times: 1
+	Query: "Heliosciurus angola" ; Times: 1
+	Query: "zosterops vaughani" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "macgregoria" ; Times: 1
+	Query: "Piliocolobus gordonorum " ; Times: 1
+	Query: "Moschus leucogaster " ; Times: 1
+	Query: "ptyonoprogne concolor" ; Times: 2
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon institutioncode:NHMUK" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 3
+	Query: "Equus asinus somalicus" ; Times: 2
+	Query: "iptrecordid:&#34;9e92dce8-3cdc-4654-b25e-e198e2e1c250&#34;" ; Times: 6
+	Query: "Cisticolidae Cameroon" ; Times: 5
+	Query: "specificepithet:bistrigiceps genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "Callicebus oenanthe " ; Times: 1
+	Query: "iptrecordid:&#34;c4035695-9ca8-4df7-afd7-f18a5ebc3d7f&#34;" ; Times: 2
+	Query: "Philetairus socius" ; Times: 1
+	Query: "wilsonia citrina chiapas" ; Times: 1
+	Query: "prinia tenella" ; Times: 1
+	Query: "vntype:specimen specificepithet:bengalensis genus:Vulpes institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:griseus genus:Lycalopex (captive OR zoo)" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "specificepithet:gambianus genus:Cricetomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "Apodidae+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;a3a48b0a-9d14-41d7-8f2a-45973c21b2c2&#34;" ; Times: 4
+	Query: "Cercopithecus erythrogaster " ; Times: 1
+	Query: "iptrecordid:&#34;df136dca-5c55-4e9f-b9d7-1690c639a848&#34;" ; Times: 2
+	Query: "indicator hutsoni" ; Times: 1
+	Query: "Coleura seychellensis " ; Times: 1
+	Query: "specificepithet:eupatria genus:psittacula hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;58bde622-44c8-4f12-9328-816711231fb1&#34;" ; Times: 2
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "iptrecordid:&#34;7a6978ac-1bdc-4270-8931-4eeb094c94a9&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;519181ac-37bf-41b2-a8ec-cfeb16f1aab8&#34;" ; Times: 6
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "vntype:specimen institutioncode:NHMUK hastypestatus:1" ; Times: 1
+	Query: "iptrecordid:&#34;d1213be6-682f-4ba7-9d19-94088fead512&#34;" ; Times: 2
+	Query: "Neodon forresti " ; Times: 1
+	Query: "genus:Tantillita year &gt;= 1985" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "Gerbillus principulus " ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos (zoo OR captive) institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;9ac17747-9de4-4a38-a91e-2ab9ff5a021c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ab05238b-91e4-4590-9968-fa78c6e72513&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e32cf904-a6ba-4371-8342-81f1e180fd58&#34;" ; Times: 4
+	Query: "NHMuk-1881.5.1.642" ; Times: 1
+	Query: "Allocebus" ; Times: 1
+	Query: "albitarsus" ; Times: 1
+	Query: "Crocidura hispida " ; Times: 1
+	Query: "iptrecordid:&#34;9a282675-52a4-4b94-a7d1-f25b71e44442&#34;" ; Times: 4
+	Query: "specificepithet:thous genus:Cerdocyon (captive OR zoo)" ; Times: 1
+	Query: "crypturellus cinnamomeus chiapas" ; Times: 1
+	Query: "specificepithet:mesomelas genus:dendromus country:&#34;kenya&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;d4515c0e-291b-4e67-b89e-50a26d193500&#34;" ; Times: 2
+	Query: "Iomys sipora " ; Times: 1
+	Query: "iptrecordid:&#34;482f526d-e17a-427b-b067-76cc360fb9d5&#34;" ; Times: 6
+	Query: "Bunomys coelestis " ; Times: 1
+	Query: "Capra caucasica" ; Times: 3
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive) institutioncode:NHMUK" ; Times: 1
+	Query: "Talpa levantis " ; Times: 1
+	Query: "Mogera etigo " ; Times: 1
+	Query: "NHMUK ZOO 1846.4.4.55" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "specificepithet:palliatus genus:paraxerus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "ayresii+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;6f890bb5-fcfc-4e9d-b61b-d741f76b2775&#34;" ; Times: 2
+	Query: "Myosorex sclateri " ; Times: 1
+	Query: "iptrecordid:&#34;0e99aff3-d402-4584-9477-2ac62ad96081&#34;" ; Times: 6
+	Query: "specificepithet:infuscatus genus:melaenornis hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;ab992c91-f3e5-4a0e-a804-4df0b474cf56&#34;" ; Times: 6
+	Query: "melursus" ; Times: 1
+	Query: "Crunomys fallax " ; Times: 1
+	Query: "Cheirogaleus major" ; Times: 6
+	Query: "Pipistrellus cadornae " ; Times: 1
+	Query: "specificepithet:trichotis genus:Chibchanomys" ; Times: 1
+	Query: "iptrecordid:&#34;9ddb812b-60b0-4ce9-bfc4-ef7186bd507c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;64d38e46-3db2-40ff-9cdb-40ea8093b8a1&#34;" ; Times: 6
+	Query: "class:Aves country:&#34;Tajikistan&#34;" ; Times: 1
+	Query: "Prionops gabela" ; Times: 1
+	Query: "Alaudidae+Cameroon" ; Times: 1
+	Query: "hybomys nigeria" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "Caryomys eva " ; Times: 1
+	Query: "Hylomys parvus " ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 2
+	Query: "iptrecordid:&#34;e161290a-d4e4-4881-b8cc-a89f0df1e1f6&#34;" ; Times: 2
+	Query: "Crocidura macowi " ; Times: 1
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:MELANOTIS genus:DENDROMUS country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Caudiverbera" ; Times: 1
+	Query: "iptrecordid:&#34;efa418e5-df13-4e36-959e-4802dd9b9f02&#34;" ; Times: 6
+	Query: "Phaenomys ferrugineus " ; Times: 1
+	Query: "Alcedinidae+Cameroon" ; Times: 1
+	Query: "iptrecordid:&#34;6433746a-f295-403c-b8f2-9927a958936d&#34;" ; Times: 2
+	Query: "specificepithet:stangeri genus:protoxerus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Lophuromys melanonyx " ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon institutioncode:NHMUK" ; Times: 1
+	Query: "iptrecordid:&#34;e7ce228b-e70e-4f14-9368-ed2e750981a1&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos" ; Times: 1
+	Query: "rallus semiplumbeus" ; Times: 1
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon institutioncode:NHMUK" ; Times: 1
+	Query: "Hyena" ; Times: 1
+	Query: "iptrecordid:&#34;6f7df709-d3d1-4e2a-a846-c527356ed44a&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;ea4c8b3c-234b-4b24-8e33-de38db9d57de&#34;" ; Times: 6
+	Query: "Ctenomys johannis " ; Times: 1
+	Query: "iptrecordid:&#34;a611b294-11a7-4694-80d9-4a24151c38f4&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;db200c84-c47b-43aa-8658-5b66ee68d0b9&#34;" ; Times: 4
+	Query: "hirundo nigrorufa" ; Times: 1
+	Query: "Bradypterus major" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "iptrecordid:&#34;58fad489-6e08-4d5e-9593-8766d19fa668&#34;" ; Times: 2
+	Query: "Gerbillus bottai " ; Times: 1
+	Query: "iptrecordid:&#34;f71afbd8-428c-496a-a0ab-9e9a219319a8&#34;" ; Times: 2
+	Query: "scientificname:&#34;melanobatrachus indicus&#34;" ; Times: 1
+	Query: "Naso minor" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "iptrecordid:&#34;3cfe11f1-21b1-417f-b72b-bfb83eea544e&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b971a906-dd8a-4b72-9b41-1eda4eb1e7cb&#34;" ; Times: 6
+	Query: "Accipitridae+Cameroon" ; Times: 2
+	Query: "iptrecordid:&#34;47b23853-ce42-4102-b63b-885720798334&#34;" ; Times: 6
+	Query: "Lachesis muta" ; Times: 1
+	Query: "iptrecordid:&#34;d9f1e76e-1375-4681-aafc-3037c365118c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;8152b085-21ef-493f-98c4-e686b9b5397b&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;ae7d0b09-4084-4a70-835c-b522db5e017a&#34;" ; Times: 6
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo) institutioncode:NHMUK" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "Hylomys megalotis " ; Times: 1
+	Query: "Funisciurus substriatus " ; Times: 1
+	Query: "iptrecordid:&#34;9d569eab-0a75-4f5c-b319-1c7812c671ed&#34;" ; Times: 6
+	Query: "specificepithet:percivali genus:acomys country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "vntype:specimen order:squamata country:&#34;Belize&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 470 (out of 1892 download events in this period)
+Total number of records downloaded: 26777
+Number of different countries: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: Brazil ; Times: 21
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 44
+	Country: France ; Times: 16
+	Country: Argentina ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 300
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 13
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 12
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 11
+	Date: 2018-02-08 ; Times: 13
+	Date: 2018-02-03 ; Times: 3
+	Date: 2018-02-02 ; Times: 26
+	Date: 2018-02-01 ; Times: 115
+	Date: 2018-02-07 ; Times: 12
+	Date: 2018-02-06 ; Times: 47
+	Date: 2018-02-05 ; Times: 48
+	Date: 2018-02-04 ; Times: 7
+	Date: 2018-02-21 ; Times: 10
+	Date: 2018-02-20 ; Times: 19
+	Date: 2018-02-23 ; Times: 51
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 3
+	Date: 2018-02-24 ; Times: 4
+	Date: 2018-02-27 ; Times: 14
+	Date: 2018-02-26 ; Times: 6
+	Date: 2018-02-28 ; Times: 7
+	Date: 2018-02-14 ; Times: 7
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 20
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-11 ; Times: 21
+	Date: 2018-02-12 ; Times: 8
+	Date: 2018-02-13 ; Times: 7
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "Gerbillus andersoni" ; Times: 1
+	Query: "specificepithet:variolosus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "colomys" ; Times: 1
+	Query: "atelopus certus" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Timaliidae Cameroon" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "specificepithet:schoenobaenus genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Icterus hasmass:1" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "specificepithet:lugens genus:sylvia hasmass:1" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:scherman genus:arvicola hasmass:1" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Hypnale" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:cajanea genus:Aramides continent:North America" ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "class:Aves (Gilgit)" ; Times: 1
+	Query: "Natalus tumidirostris" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "Monophyllus redmani" ; Times: 1
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "specificepithet:amphibius genus:arvicola hasmass:1" ; Times: 2
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "Cuculidae+Cameroon" ; Times: 2
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "Fringillidae+Cameroon" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "Gerbillus nanus" ; Times: 1
+	Query: "Batis mixta" ; Times: 1
+	Query: "Chondrohierax wilsonii" ; Times: 2
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "specificepithet:fuscans genus:Lonchura" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Viduidae+Cameroon" ; Times: 1
+	Query: "Ramphastidae+Cameroon" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona hasmass:1" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "vipera ursinii" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "specificepithet:lamberti genus:malurus hasmass:1" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "specificepithet:cricetus genus:cricetus hasmass:1" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "Batis minulla" ; Times: 1
+	Query: "class:Aves (Jammu)" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 2
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:melodia genus:zonotrichia" ; Times: 4
+	Query: "Gerbillus latastei" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Platysteira chalybea" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Rallidae+Cameroon" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "specificepithet:atrogularis genus:orthotomus hasmass:1" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "genus:tamandua basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+	Query: "class:Aves country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "class:Aves country:&#34;Liberia&#34;" ; Times: 1
+	Query: "order:Squamata country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "Phoeniculidae+Cameroon" ; Times: 1
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "specificepithet:regulus genus:regulus hasmass:1" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:plumifera genus:Geophaps" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "tremarctos" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "specificepithet:ferruginea genus:Calidris hasmass:1" ; Times: 1
+	Query: "Heteromys anomalus" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Grallaria varia" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "vntype:specimen specificepithet:merriami genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "specificepithet:migratorius genus:cricetulus hasmass:1" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "Hemipus hirundinaceus" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "choloepus" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops family:Viperidae country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Musophagidae+Cameroon" ; Times: 1
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Sitta magna" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "Philentoma velata" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "class:Aves country:&#34;Niger&#34;" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "Malaconotidae+Cameroon" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "Eurylaimidae+Cameroon" ; Times: 1
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "Serpophaga hypoleuca" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "specificepithet:carbo genus:ramphocelus hasmass:1" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "specificepithet:larvatus genus:oriolus hasmass:1" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:psittacula hasmass:1" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Sylviidae+Cameroon" ; Times: 1
+	Query: "Meriones libycus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Calidris hasmass:1" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus continent:africa" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Nesokia" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 1
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "Dasyprocta azarae" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Oxymycterus roberti" ; Times: 1
+	Query: "class:Aves country:&#34;Burkina Faso&#34;" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "Batis poensis" ; Times: 2
+	Query: "specificepithet:lincolnii genus:zonotrichia" ; Times: 2
+	Query: "Erophylla bombifrons" ; Times: 1
+	Query: "Micryletta inornata" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Eurostopodus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "batis poensis" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:dunni genus:Eremalauda" ; Times: 1
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "Motacillidae+Cameroon" ; Times: 1
+	Query: "specificepithet:krameri genus:psittacula hasmass:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Barbourula" ; Times: 1
+	Query: "Scopidae+Cameroon" ; Times: 1
+	Query: "Batis perkeo" ; Times: 1
+	Query: "class:Aves country:&#34;Tajikistan&#34;" ; Times: 1
+	Query: "specificepithet:rutila genus:Emberiza" ; Times: 1
+	Query: "specificepithet:nigricans genus:cercomacra hasmass:1" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Nectariniidae Cameroon" ; Times: 1
+	Query: "tatera indica" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "Laridae+Cameroon" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "class:Aves country:&#34;Mauritania&#34;" ; Times: 1
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "specificepithet:pondicerianus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "serpophaga hypoleuca" ; Times: 1
+	Query: "class:Aves country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:triton genus:Mus country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "Psammomys vexillaris" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "rollandia" ; Times: 3
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 2
+	Query: "Mormoops blainvillei" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:psephotus" ; Times: 1
+	Query: "specificepithet:nitens genus:lamprotornis hasmass:1" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "Megabyas flammulatus" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Bangladesh&#34;" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Meriones crassus" ; Times: 1
+	Query: "vntype:specimen (colobus guereza)" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Muscicapidae Cameroon" ; Times: 1
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "Platysteira jamesoni" ; Times: 1
+	Query: "Caprimulgidae+Cameroon" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "class:Aves (Ladakh)" ; Times: 1
+	Query: "eupleridae" ; Times: 1
+	Query: "Platysteira castanea" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Chad&#34;" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "order:Rodentia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "class:Aves country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "Meriones shawi" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Grallaria varia distincta" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Pycnonotidae+Cameroon" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Gerbillus amoenus" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "Platysteira laticincta" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "class:Aves country:&#34;Mali&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "Setifer setosus" ; Times: 1
+	Query: "Prionops gabela" ; Times: 1
+	Query: "Batis margaritae" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "class:Aves country:&#34;Sierra Leone&#34;" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "Ctenomys talarum" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Rhombomys" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "Strigidae+Cameroon" ; Times: 1
+	Query: "Platysteira blissetti" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "Platysteira tonsa" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "specificepithet:lugubris genus:quiscalus hasmass:1" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "order:Carnivora country:&#34;madagascar&#34;" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "Bourns" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Cisticolidae Cameroon" ; Times: 1
+	Query: "specificepithet:bistrigiceps genus:Acrocephalus hasmass:1" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "Chaetophractus nationi" ; Times: 1
+	Query: "Apodidae+Cameroon" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:zonotrichia" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "Columbidae+Cameroon" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "specificepithet:mariquensis genus:bradornis hasmass:1" ; Times: 1
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Alaudidae+Cameroon" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "Alcedinidae+Cameroon" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "Batis diops" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "Accipitridae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Bhutan&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+
+
+End of report.
