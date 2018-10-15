@@ -1,0 +1,1241 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1733
+Number of records retrieved in searches: 25268
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Canada ; Times: 31
+	Country: Italy ; Times: 5
+	Country: Unknown ; Times: 52
+	Country: France ; Times: 47
+	Country: Peru ; Times: 23
+	Country: Argentina ; Times: 15
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 17
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 8
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 256
+	Country: United States ; Times: 840
+	Country: Sweden ; Times: 19
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 286
+	Country: South Africa ; Times: 5
+	Country: India ; Times: 25
+	Country: United Kingdom ; Times: 50
+	Country: Colombia ; Times: 9
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 54
+	Date: 2018-01-18 ; Times: 53
+	Date: 2018-01-31 ; Times: 34
+	Date: 2018-01-30 ; Times: 41
+	Date: 2018-01-11 ; Times: 13
+	Date: 2018-01-10 ; Times: 11
+	Date: 2018-01-13 ; Times: 21
+	Date: 2018-01-12 ; Times: 53
+	Date: 2018-01-15 ; Times: 149
+	Date: 2018-01-14 ; Times: 75
+	Date: 2018-01-17 ; Times: 113
+	Date: 2018-01-16 ; Times: 263
+	Date: 2018-01-24 ; Times: 125
+	Date: 2018-01-25 ; Times: 29
+	Date: 2018-01-08 ; Times: 7
+	Date: 2018-01-09 ; Times: 77
+	Date: 2018-01-28 ; Times: 17
+	Date: 2018-01-29 ; Times: 24
+	Date: 2018-01-02 ; Times: 46
+	Date: 2018-01-03 ; Times: 16
+	Date: 2018-01-26 ; Times: 108
+	Date: 2018-01-01 ; Times: 23
+	Date: 2018-01-06 ; Times: 3
+	Date: 2018-01-21 ; Times: 57
+	Date: 2018-01-22 ; Times: 52
+	Date: 2018-01-07 ; Times: 10
+	Date: 2018-01-04 ; Times: 44
+	Date: 2018-01-05 ; Times: 31
+	Date: 2018-01-23 ; Times: 144
+	Date: 2018-01-27 ; Times: 19
+	Date: 2018-01-20 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Zoothera neilgherriensis" ; Times: 2
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "iptrecordid:&#34;c323fcc8-4d94-48db-a25f-51284ccfa12e&#34;" ; Times: 4
+	Query: "genus:Oxyrhopus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:bidens genus:mesoplodon" ; Times: 1
+	Query: "Panthera pardus bedfordi" ; Times: 2
+	Query: "myrmotherula behni" ; Times: 1
+	Query: "Cossypha anomala" ; Times: 8
+	Query: "Turdoides subrufa" ; Times: 2
+	Query: "eleutherodactylus discoidalis" ; Times: 1
+	Query: "Ansonia leptopus hassex:1" ; Times: 3
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "cephalophus leucogaster" ; Times: 2
+	Query: "specificepithet:angolensis genus:colobus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "panthera pardus continent:asia" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Atelopus spurrelli hassex:1" ; Times: 3
+	Query: "Psephotus pulcherrimus" ; Times: 12
+	Query: "Panthera pardus adusta" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "&#34;Lemur catta&#34;" ; Times: 1
+	Query: "dicrurus andamanensis" ; Times: 1
+	Query: "sylvia ansorgei" ; Times: 1
+	Query: "cercotrichas colstoni" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "specificepithet:mentalis genus:Catharus" ; Times: 2
+	Query: "Conuropsis carolinensis ludovicianus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Panthera pardus shortridgei" ; Times: 2
+	Query: "Phyllastrephus cabanisi" ; Times: 1
+	Query: "(&#34;14C&#34;)" ; Times: 1
+	Query: "specificepithet:tullbergi genus:Campethera" ; Times: 6
+	Query: "Amphilais seebohmi" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "dicrurus striatus" ; Times: 1
+	Query: "Elephas maximus sumatranus" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "Alytes cisternasii" ; Times: 3
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "chionis alba" ; Times: 1
+	Query: "specificepithet:neglectus genus:cercopithecus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34;" ; Times: 2
+	Query: "neafrapus" ; Times: 2
+	Query: "Motacilla samveasnae" ; Times: 3
+	Query: "Panthera leo" ; Times: 3
+	Query: "Xenopus largeni" ; Times: 2
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Bison bonasus bonasus" ; Times: 3
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "Mathews 1964" ; Times: 2
+	Query: "specificepithet:vittatum genus:apaloderma" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "pycnonotus bimaculatus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "specificepithet:infinitesimus genus:suncus country:&#34;kenya&#34;" ; Times: 2
+	Query: "Panthera tigris sumatrae" ; Times: 6
+	Query: "Lanius excubitor India" ; Times: 2
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "specificepithet:boulboul genus:Turdus hasmass:1" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Bradypterus kashmirensis" ; Times: 1
+	Query: "Aplonis feadensis" ; Times: 3
+	Query: "emberiza plowesi" ; Times: 1
+	Query: "Berardius bairdi " ; Times: 2
+	Query: "Chloropsis aurifrons thailand" ; Times: 1
+	Query: "specificepithet:miniatus genus:Myioborus stateprovince:&#34;oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "tapirus indicus continent:asia" ; Times: 1
+	Query: "iptrecordid:&#34;1f190786-6f0d-4ed0-9316-d5759024095b&#34;" ; Times: 4
+	Query: "rhipidura albicollis" ; Times: 1
+	Query: "neodrepanis" ; Times: 1
+	Query: "Xenopus largeni hassex:1" ; Times: 2
+	Query: "Gymnopis syntrema" ; Times: 1
+	Query: "Cossypha natalensis" ; Times: 1
+	Query: "specificepithet:granti genus:sylvisorex country:&#34;kenya&#34;" ; Times: 2
+	Query: "country:&#34;India&#34; year &gt;= 1873 year &lt;= 1873 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Peucedramus taeniatus" ; Times: 1
+	Query: "sylvia minula" ; Times: 6
+	Query: "Tachyphonus delatrii" ; Times: 1
+	Query: "Thryothorus albinucha" ; Times: 1
+	Query: "Panthera pardus millardi" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Phyllastrephus" ; Times: 2
+	Query: "Plethodontohyla brevipes hassex:1" ; Times: 2
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "potomotyphlus kaupii" ; Times: 2
+	Query: "specificepithet:anubis genus:papio country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "apalis bamendae" ; Times: 3
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "Chondrohierax wilsonii" ; Times: 12
+	Query: "ciccaba nigrolineata" ; Times: 1
+	Query: "rodentia dimidiatus institutioncode:NHMUK" ; Times: 2
+	Query: "Lepus granatensis" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "iptrecordid:&#34;fd4e1d2d-f210-4c89-b54d-d13df74d74de&#34;" ; Times: 4
+	Query: "Panthera pardus delacouri" ; Times: 2
+	Query: "Ansonia fuliginea hassex:1" ; Times: 3
+	Query: "Podilymbus gigas" ; Times: 1
+	Query: "Euphonia gouldi" ; Times: 1
+	Query: "arremonops verticalis" ; Times: 3
+	Query: "Pachyramphus cinnamomeus" ; Times: 1
+	Query: "India Biddulph" ; Times: 1
+	Query: "Otolemur zambia" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "Camelus bactrianus" ; Times: 2
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Myadestes unicolor" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Rhodonessa caryophyllacea" ; Times: 1
+	Query: "1916.5.30.604" ; Times: 2
+	Query: "Tumbezia salvini" ; Times: 2
+	Query: "Myotis oxyotus" ; Times: 18
+	Query: "specificepithet:strepera genus:anas class:Aves year &gt;= 1880 year &lt;= 1890" ; Times: 1
+	Query: "Phyla" ; Times: 1
+	Query: "naemorhedus caudatus continent:asia" ; Times: 1
+	Query: "zygodontomys 1899" ; Times: 3
+	Query: "caprimulgus nubicus" ; Times: 2
+	Query: "Contopus cinereus" ; Times: 1
+	Query: "Granatellus sallaei" ; Times: 1
+	Query: "Myiarchus nuttingi" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 5
+	Query: "genus:bradypterus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 3
+	Query: "pomatorhinus horsfieldii" ; Times: 2
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "sheppardia houghtoni" ; Times: 2
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "bos gaurus" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 10
+	Query: "Melanobatrachus indicus" ; Times: 8
+	Query: "bufo lindneri" ; Times: 3
+	Query: "Phyllastrephus cerviniventris" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Ramanella montana hassex:1" ; Times: 6
+	Query: "macaca mulatta continent:asia" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "genus:Pelamis continent:Asia" ; Times: 3
+	Query: "Sceloglaux albifacies" ; Times: 1
+	Query: "Anodorhynchus glaucus" ; Times: 1
+	Query: "dicrurus fuscipennis" ; Times: 1
+	Query: "otolemur kenya" ; Times: 1
+	Query: "Spinus notatus" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Ornithion semiflavum" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Crypturellus cinnamomeus" ; Times: 1
+	Query: "Laterallus ruber" ; Times: 1
+	Query: "specificepithet:cirrhatus genus:Spizaetus institutioncode:NHMUK" ; Times: 1
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "specificepithet:chubbi genus:Cisticola" ; Times: 2
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Didynamipus sjostedti hassex:1" ; Times: 2
+	Query: "Ansonia spinulifer hassex:1" ; Times: 3
+	Query: "Acinonyx jubatus" ; Times: 4
+	Query: "Alytes obstetricans" ; Times: 3
+	Query: "euryzygomatomys" ; Times: 1
+	Query: "nomascus concolor continent:asia" ; Times: 1
+	Query: "specificepithet:angolensis genus:colobus country:&#34;KENYA&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Agkistrodon halys" ; Times: 1
+	Query: "89962" ; Times: 1
+	Query: "Cyanolanius" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "Pseudhymenochirus merlini hassex:1" ; Times: 6
+	Query: "Geocrinia victoriana hassex:1" ; Times: 2
+	Query: "Pseudoscops clamator" ; Times: 1
+	Query: "catalognumber:1882 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:bocagei genus:Sheppardia" ; Times: 2
+	Query: "Vireo hypochryseus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 8
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "Micropechis" ; Times: 3
+	Query: "emberiza minor" ; Times: 5
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Cryptospiza jacksoni" ; Times: 1
+	Query: "genus:dumetella institutioncode:NHMUK" ; Times: 1
+	Query: "Alouatta villosa" ; Times: 1
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "Malurus cyaneus hassex:1 hasmass:1" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "Hoplophryne rogersi hassex:1" ; Times: 8
+	Query: "castaniceps striata" ; Times: 1
+	Query: "Trichys" ; Times: 3
+	Query: "vntype:specimen order:Rodentia country:&#34;Iraq&#34;" ; Times: 1
+	Query: "Accipiter imitator" ; Times: 7
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "apalis goslingi" ; Times: 5
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "iptrecordid:&#34;e393db30-6891-44cb-8df9-efb6362a1407&#34;" ; Times: 4
+	Query: "Poyntonia paludicola hassex:1" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "specificepithet:potto genus:perodicticus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Diceros bicornis minor" ; Times: 3
+	Query: "Scotopelia ussheri" ; Times: 6
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "genus:Macaca nemestrina" ; Times: 23
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "specificepithet:angusticauda genus:cisticola hasmass:1" ; Times: 1
+	Query: "trichys" ; Times: 1
+	Query: "pudu mephistophiles" ; Times: 1
+	Query: "Ramanella obscura hassex:1" ; Times: 2
+	Query: "bos javanicus" ; Times: 3
+	Query: "Lampornis amethystinus" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Cyanolyca cucullata" ; Times: 1
+	Query: "achaetops pycnopygius" ; Times: 4
+	Query: "Cracticus rufescens" ; Times: 2
+	Query: "cettia borealis" ; Times: 1
+	Query: "Nyctibius grandis" ; Times: 1
+	Query: "lugubris holotype" ; Times: 1
+	Query: "Pheucticus chrysopeplus" ; Times: 1
+	Query: "borreroi" ; Times: 1
+	Query: "Calotes Timor" ; Times: 1
+	Query: "bolivian reptiles" ; Times: 1
+	Query: "alfari muridae" ; Times: 1
+	Query: "specificepithet:mavornata genus:aplonis class:aves" ; Times: 2
+	Query: "specificepithet:patas genus:erythrocebus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "Ramphocelus sanguinolentus" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "Basileuterus belli" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 6
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Cossypha isabellae" ; Times: 1
+	Query: "dimidiatus institutioncode:NHMUK" ; Times: 2
+	Query: "chiroptera AND siberut" ; Times: 1
+	Query: "genus:neacomys institutioncode:NHMUK" ; Times: 1
+	Query: "Vireo pallens" ; Times: 1
+	Query: "specificepithet:neglectus genus:cercopithecus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Jacana spinosa" ; Times: 1
+	Query: "thamnophilus insignis" ; Times: 1
+	Query: "hemixos flavala" ; Times: 1
+	Query: "specificepithet:guereza genus:colobus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Bernieria madagascariensis" ; Times: 2
+	Query: "moho braccatus" ; Times: 16
+	Query: "Arremonops chloronotus" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Platyrinchus cancrominus" ; Times: 1
+	Query: "dicrurus lophorinus" ; Times: 4
+	Query: "Todirostrum cinereum" ; Times: 1
+	Query: "Cardioglossa leucomystax" ; Times: 1
+	Query: "Bowdleria rufescens" ; Times: 2
+	Query: "Synapturanus mirandaribeiroi hassex:1" ; Times: 2
+	Query: "Panthera tigris styani" ; Times: 4
+	Query: "95638" ; Times: 1
+	Query: "Leptopogon amaurocephalus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus country:&#34;Mexico&#34; hasmass:1" ; Times: 1
+	Query: "genus:Pelamis continent:Africa" ; Times: 8
+	Query: "specificepithet:pulcherrimus genus:Psephotus" ; Times: 7
+	Query: "Turdus ravidus" ; Times: 1
+	Query: "Limnodynastes salmini hassex:1" ; Times: 8
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "elephas mappable:1" ; Times: 1
+	Query: "specificepithet:atroflavus genus:laniarius" ; Times: 1
+	Query: "Herpestes edwardsii" ; Times: 1
+	Query: "class:Aves country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "specificepithet:viridis genus:picus hasmass:1" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Moho bishopi" ; Times: 1
+	Query: "helarctos malayanus continent:asia" ; Times: 1
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "siberut order:chiroptera" ; Times: 2
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Panthera leo persica" ; Times: 3
+	Query: "bubalus bubalis continent:asia" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "phyllastrephus poliocephalus" ; Times: 3
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Equus africanus" ; Times: 4
+	Query: "specificepithet:garnettii genus:otolemur country:&#34;kenya&#34;" ; Times: 1
+	Query: "Legatus leucophaius" ; Times: 1
+	Query: "specificepithet:GARNETTII genus:OTOLEMUR country:&#34;KENYA&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "Amphilais" ; Times: 2
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Cervus elaphus hanglu" ; Times: 4
+	Query: "Euphonia hirundinacea" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:burhinus" ; Times: 1
+	Query: "otolemur zambia" ; Times: 2
+	Query: "Cyanocompsa cyanoides" ; Times: 1
+	Query: "Mesoplodon bidens" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Gubernatrix" ; Times: 1
+	Query: "Platypelis grandis hassex:1" ; Times: 2
+	Query: "Bycanistes cylindricus" ; Times: 2
+	Query: "Trogon citreolus" ; Times: 1
+	Query: "specificepithet:reichenovii genus:Cryptospiza" ; Times: 2
+	Query: "Sciurillus" ; Times: 2
+	Query: "oriolus richmondi" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Pteroglossus torquatus" ; Times: 1
+	Query: "genus:Notiomystis" ; Times: 1
+	Query: "specificepithet:boliviana genus:Poospiza hasmass:0" ; Times: 1
+	Query: "catalognumber:1882. institutioncode:NHMUK" ; Times: 1
+	Query: "macaca nemestrina continent:asia" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 4
+	Query: "Saguinus fuscicollis tripartitus" ; Times: 1
+	Query: "dicrurus atripennis" ; Times: 3
+	Query: "Anolis capito" ; Times: 2
+	Query: "Apalis sharpii" ; Times: 1
+	Query: "Geothlypis rostrata vntype:specimen sex:female" ; Times: 2
+	Query: "genus:surdisorex country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Nucifraga country:&#34;Germany&#34;" ; Times: 2
+	Query: "Ceratotherium simum simum" ; Times: 3
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Glaucidium griseiceps" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "zygodontomys brunneus" ; Times: 7
+	Query: "Icterus auratus" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "genus:perodicticus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "carpodacus salimalii" ; Times: 1
+	Query: "Vampyressa thyone" ; Times: 1
+	Query: "phylloscopus ibericus" ; Times: 1
+	Query: "hippopotamus amphibius mappable:1" ; Times: 1
+	Query: "dicrurus waldenii" ; Times: 3
+	Query: "Myiobius sulphureipygius" ; Times: 1
+	Query: "Elephas maximus borneensis" ; Times: 2
+	Query: "Turdus maculirostris" ; Times: 1
+	Query: "nyctalus leisleri" ; Times: 2
+	Query: "Sicalis taczanowskii" ; Times: 1
+	Query: "Kaloula taprobanica hassex:1" ; Times: 2
+	Query: "Icterus chrysater" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Marmota himalayana" ; Times: 1
+	Query: "specificepithet:poensis genus:Laniarius" ; Times: 3
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Hylonycteris underwoodi" ; Times: 1
+	Query: "Uropsila leucogastra" ; Times: 1
+	Query: "Siberut AND Chiroptera" ; Times: 2
+	Query: "Cichlornis whitneyi" ; Times: 1
+	Query: "eleothreptus anomalus" ; Times: 3
+	Query: "Camptostoma imberbe" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "84111" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "&#34;Bernieria madagascariensis&#34;" ; Times: 2
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 1
+	Query: "Cossypha caffra" ; Times: 1
+	Query: "pelophryne signata" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "leptodactylus holotype" ; Times: 1
+	Query: "catalognumber:1 institutioncode:NHMUK" ; Times: 1
+	Query: "Pelophryne brevipes hassex:1" ; Times: 2
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "vntype:specimen specificepithet:nemestrina genus:Macaca" ; Times: 1
+	Query: "specificepithet:atrogularis genus:orthotomus hasmass:1" ; Times: 1
+	Query: "Panthera pardus fusca" ; Times: 2
+	Query: "seicercus whistleri" ; Times: 14
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "Calotes Java" ; Times: 1
+	Query: "Dendrocopos atratus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "myrmotherula behni vntype:specimen" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "subvinacea institutioncode:NHMUK" ; Times: 2
+	Query: "vinacea institutioncode:NHMUK" ; Times: 1
+	Query: "Peromyscus beatae" ; Times: 1
+	Query: "Owstoni genus:Nucifraga continent:Asia" ; Times: 2
+	Query: "country:&#34;India&#34; year &gt;= 1873 year &lt;= 1873" ; Times: 3
+	Query: "Abrocoma" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 1
+	Query: "Platacanthomys" ; Times: 1
+	Query: "genus:nectomys institutioncode:NHMUK" ; Times: 1
+	Query: "Catharus mexicanus" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "Oncostoma cinereigulare" ; Times: 1
+	Query: "iptrecordid:&#34;801529c7-c12f-4432-b626-d993a863ac69&#34;" ; Times: 4
+	Query: "specificepithet:poensis genus:Phyllastrephus" ; Times: 2
+	Query: "Phyllastrephus fischeri" ; Times: 1
+	Query: "specificepithet:erythropus genus:xerus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1800 institutioncode:NHMUK" ; Times: 1
+	Query: "Churamiti maridadi hassex:1" ; Times: 3
+	Query: "Phrynobatrachus cricogaster hassex:1" ; Times: 2
+	Query: "schoenicola platyurus" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "specificepithet:fumosa genus:crocidura country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "emberiza centralasiae" ; Times: 1
+	Query: "Moho braccatus" ; Times: 2
+	Query: "Buteo augur" ; Times: 2
+	Query: "cuon alpinus continent:asia" ; Times: 1
+	Query: "ursus thibetanus continent:asia" ; Times: 1
+	Query: "carterodon" ; Times: 1
+	Query: "Arizelocichla milanjensis" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "siberut AND chiroptera" ; Times: 4
+	Query: "Loxodonta africana cyclotis" ; Times: 6
+	Query: "catalognumber:96993" ; Times: 1
+	Query: "cisticola angusticauda" ; Times: 2
+	Query: "Physalaemus henselii" ; Times: 4
+	Query: "aimophila simulans" ; Times: 1
+	Query: "Pedostibes tuberculosus hassex:1" ; Times: 2
+	Query: "Hylophilus sclateri" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "campylopterus phainopeplus" ; Times: 3
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 23
+	Query: "Cochoa purpurea" ; Times: 2
+	Query: "Cervus elaphus maral" ; Times: 4
+	Query: "Ciccaba nigrolineata" ; Times: 1
+	Query: "specificepithet:monteiri genus:OTOLEMUR" ; Times: 1
+	Query: "pogoniulus atroflavus" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Ptychadena cooperi hassex:1" ; Times: 8
+	Query: "Bernieridae madagascariensis" ; Times: 1
+	Query: "baeopogon clamans" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Psalidoprocne" ; Times: 2
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "dilophus" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Acinonyx jubatus hecki" ; Times: 3
+	Query: "Oceanites gracilis gracilis" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "nyctalus lasiopterus" ; Times: 1
+	Query: "Bison bonasus" ; Times: 3
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Vampyrodes major" ; Times: 1
+	Query: "genus:Macaca order:Primates institutioncode:NHMUK" ; Times: 1
+	Query: "Nectophrynoides viviparus hassex:1" ; Times: 2
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "specificepithet:jacksoni genus:crocidura country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Vireo leucophrys" ; Times: 1
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "Melaenornis annamarulae" ; Times: 1
+	Query: "napothera bakeri" ; Times: 4
+	Query: "dendrocitta leucogastra" ; Times: 1
+	Query: "Gymnocichla nudiceps" ; Times: 1
+	Query: "Atlapetes albinucha" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Chlorospingus flavopectus" ; Times: 1
+	Query: "Micryletta inornata" ; Times: 2
+	Query: "Equus przewalskii" ; Times: 2
+	Query: "Ansonia ornata hassex:1" ; Times: 3
+	Query: "Morococcyx  erythropygus" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 11
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 1
+	Query: "pnoepyga formosana" ; Times: 2
+	Query: "Macaca sylvanus" ; Times: 1
+	Query: "estrilda macmillani" ; Times: 2
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Anolis uniformis" ; Times: 2
+	Query: "estrilda jagoensis" ; Times: 1
+	Query: "Campylopterus hemileucurus" ; Times: 1
+	Query: "specificepithet:clamans genus:baeopogon hasmass:1" ; Times: 1
+	Query: "Buettikoferella" ; Times: 2
+	Query: "specificepithet:silenus genus:Macaca institutioncode:NHMUK" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "Pachyramphus major" ; Times: 1
+	Query: "micropsitta bruijnii" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "institutioncode:NHMUK" ; Times: 2
+	Query: "Scotonycteris zenkeri" ; Times: 2
+	Query: "Trichechus senegalensis vntype:specimen" ; Times: 2
+	Query: "iptrecordid:&#34;e65addc8-7ecb-4c18-a54c-7ba919633f1b&#34;" ; Times: 4
+	Query: "erithizon dorsatum" ; Times: 1
+	Query: "gerygone neglecta" ; Times: 1
+	Query: "genus:Triceratops" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "parus ziaratensis" ; Times: 2
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "Cardellina versicolor" ; Times: 1
+	Query: "class:Mammalia tapirus pinchaque" ; Times: 1
+	Query: "Calotes versicolor Malaysia" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "&#34;Megalurus punctatus&#34;" ; Times: 3
+	Query: "Panthera tigris corbetti" ; Times: 3
+	Query: "Sylvia buryi" ; Times: 1
+	Query: "Cryptospiza shelleyi" ; Times: 1
+	Query: "specificepithet:fumosa genus:crocidura country:&#34;kenya&#34;" ; Times: 2
+	Query: "grallaria hypoleuca colombia" ; Times: 1
+	Query: "Rhytipterna holerythra" ; Times: 1
+	Query: "Hierococcyx crassirostris" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "Myiopagis viridicata" ; Times: 1
+	Query: "Habia fuscicauda" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Schoenicola platyurus" ; Times: 1
+	Query: "Acinonyx jubatus venaticus" ; Times: 3
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Malurus melanocephalus sex:Female hassex:1" ; Times: 1
+	Query: "Chordeiles minor gundlachii" ; Times: 1
+	Query: "Ptilotis mimikae nhmuk" ; Times: 1
+	Query: "Sporophila corvina" ; Times: 1
+	Query: "Aythya innotata" ; Times: 1
+	Query: "Ramphocelus passerinii" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "potomotyphlus" ; Times: 2
+	Query: "plumbea institutioncode:NHMUK" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "delanymys" ; Times: 1
+	Query: "Dumeticola thoracica kashmirensis" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "genus:zygodontomys institutioncode:NHMUK" ; Times: 2
+	Query: "Churamiti maridadi" ; Times: 3
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;venezuela&#34;" ; Times: 1
+	Query: "mertensophryne howelli" ; Times: 3
+	Query: "chauna torquata vntype:specimen" ; Times: 1
+	Query: "Euoticus" ; Times: 8
+	Query: "Equus asinus" ; Times: 1
+	Query: "Nyctibius jamaicensis" ; Times: 1
+	Query: "Paradoxornis ruficeps bakeri" ; Times: 1
+	Query: "Psarocolius wagleri" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Chiroptera AND Siberut" ; Times: 1
+	Query: "genus:Rhagomys" ; Times: 2
+	Query: "Didelphys" ; Times: 1
+	Query: "Stephopaedes loveridgei" ; Times: 2
+	Query: "Macaca silenus" ; Times: 7
+	Query: "Cyanolyca pumilo" ; Times: 1
+	Query: "carcinophagus" ; Times: 1
+	Query: "stateprovince:&#34;Punjab&#34; year &gt;= 1860 year &lt;= 1880" ; Times: 2
+	Query: "specificepithet:garnettii genus:otolemur country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Ptilotis mimikae" ; Times: 1
+	Query: "Cyanocompsa parellina" ; Times: 1
+	Query: "genus:micropotamogale" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "specificepithet:atroflavus genus:Laniarius" ; Times: 2
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "Camelus bactrianus bactrianus" ; Times: 1
+	Query: "Bantam AND Indonesia AND Reptilia OR Amphibia" ; Times: 1
+	Query: "Tachybaptus rufolavatus" ; Times: 1
+	Query: "iptrecordid:&#34;5c181b24-4271-403f-bcc2-6e101bfff699&#34;" ; Times: 4
+	Query: "Prionailurus rubiginosus" ; Times: 1
+	Query: "Cossypha heuglini" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:henselii" ; Times: 3
+	Query: "Equus asinus somaliensis" ; Times: 1
+	Query: "specificepithet:elliotii genus:dendropicos" ; Times: 1
+	Query: "Moho apicalis" ; Times: 3
+	Query: "Arthroleptis xenodactylus hassex:1" ; Times: 3
+	Query: "specificepithet:jacksoni genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:carpodacus hasmass:1" ; Times: 1
+	Query: "dicrurus remifer" ; Times: 1
+	Query: "gazella dorcas" ; Times: 1
+	Query: "Dryomys nitedula" ; Times: 1
+	Query: "lindneri" ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 2
+	Query: "lochmias castanonota" ; Times: 1
+	Query: "Megalaima egg" ; Times: 2
+	Query: "ficedula nigrorufa" ; Times: 19
+	Query: "specificepithet:granti genus:sylvisorex country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Pterodroma caribbaea" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "opposum" ; Times: 2
+	Query: "specificepithet:simillimus genus:Turdus" ; Times: 1
+	Query: "specificepithet:macarthuri genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Illadopsis rufescens" ; Times: 1
+	Query: "haematoderus" ; Times: 2
+	Query: "Dendrocygna arcuata arcuata vntype:specimen" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "hemignathus procerus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Rhinoceros unicornis" ; Times: 3
+	Query: "Eleutherodactylus albolabris" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "Psarocolius montezuma" ; Times: 1
+	Query: "specificepithet:patas genus:erythrocebus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "cettia brunnescens" ; Times: 3
+	Query: "Arthroleptis nikeae" ; Times: 3
+	Query: "specificepithet:cynocephalus genus:papio country:&#34;kenya&#34;" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Panthera pardus saxicolor" ; Times: 2
+	Query: "dicrurus macrocercus" ; Times: 4
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 2
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Ovibos moschatus melvillensis" ; Times: 1
+	Query: "Ansonia ornata" ; Times: 3
+	Query: "caprimulgus cayennensis" ; Times: 1
+	Query: "country:&#34;somalia&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34;" ; Times: 4
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:walleri genus:Onychognathus" ; Times: 2
+	Query: "canis aureus continent:asia" ; Times: 2
+	Query: "Pogonocichla stellata" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Panthera pardus brockmani" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "anhima cornuta" ; Times: 1
+	Query: "Craugastor tarahumaraensis hassex:1" ; Times: 2
+	Query: "Panthera pardus adersi" ; Times: 2
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "specificepithet:erythropus genus:xerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Mitrephanes phaeocercus" ; Times: 1
+	Query: "specificepithet:norae genus:surdisorex country:&#34;kenya&#34;" ; Times: 2
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "institutioncode:nhmuk" ; Times: 1
+	Query: "Arthroleptis nikeae hassex:1" ; Times: 3
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34;" ; Times: 3
+	Query: "specificepithet:ascanius genus:cercopithecus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Lichonycteris obscura" ; Times: 1
+	Query: "Empidonax flavescens" ; Times: 1
+	Query: "capricornis sumatraensis continent:asia" ; Times: 1
+	Query: "Myiodynastes luteiventris" ; Times: 1
+	Query: "eremomela salvadorii" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:melanogaster genus:Ploceus" ; Times: 2
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:oritis genus:Cyanomitra" ; Times: 2
+	Query: "erythropygia colstoni" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Cervus elaphus corsicanus" ; Times: 4
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "Elaphrornis" ; Times: 2
+	Query: "Cervus elaphus songaricus" ; Times: 4
+	Query: "dicrurus caerulescens" ; Times: 3
+	Query: "specificepithet:fumosa genus:crocidura country:&#34;KENYA&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:anubis genus:papio country:&#34;kenya&#34;" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "specificepithet:major genus:dendrocopos hasmass:1" ; Times: 1
+	Query: "Buteo archeri sex:male hassex:1" ; Times: 1
+	Query: "Bernieria" ; Times: 2
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Ophrysia superciliosa" ; Times: 4
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Australia&#34;" ; Times: 1
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "Trogon collaris" ; Times: 1
+	Query: "Amblycercus holosericeus" ; Times: 1
+	Query: "specificepithet:elliotii genus:Dendropicos" ; Times: 2
+	Query: "hirundapus" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 1
+	Query: "Selasphorus ardens" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Bradypterus thoracicus" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 4
+	Query: "Bothrops asper" ; Times: 1
+	Query: "bubalus arnee continent:asia" ; Times: 1
+	Query: "cisticola troglodytes" ; Times: 1
+	Query: "Euphonia affinis" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;0a40d13f-5e13-457e-b040-3b4a96eb5ef7&#34;" ; Times: 4
+	Query: "Panthera pardus jarvisi" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix country:&#34;mexico&#34;" ; Times: 1
+	Query: "Catharus aurantiirostris" ; Times: 1
+	Query: "Dromaeocercus brunneus" ; Times: 1
+	Query: "muscicapa grimwoodi" ; Times: 2
+	Query: "gbifdatasetid:7e380070-f762-11e1-a439-00145eb45e9a Siberut" ; Times: 3
+	Query: "Colinus nigrogularis" ; Times: 1
+	Query: "Leptotila plumbeiceps" ; Times: 1
+	Query: "specificepithet:isabellae genus:Cossypha" ; Times: 2
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "sigmodontomys ecuador" ; Times: 1
+	Query: "Bowdleria punctata" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus country:&#34;Dominica&#34;" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "dasypeltis confusa" ; Times: 1
+	Query: "Phrynella pulchra hassex:1" ; Times: 6
+	Query: "alcippe superciliaris" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Dendrocygna guttata vntype:specimen" ; Times: 2
+	Query: "genus:Nucifraga country:&#34;Taiwan&#34;" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "persica class:Aves" ; Times: 1
+	Query: "Prolibytherium" ; Times: 1
+	Query: "specificepithet:cynocephalus genus:papio country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 2
+	Query: "Cardellina rubrifrons" ; Times: 1
+	Query: "Prionops gabela" ; Times: 1
+	Query: "criniger robinsoni" ; Times: 2
+	Query: "cisticola luapula" ; Times: 1
+	Query: "specificepithet:polulus genus:surdisorex country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1900 institutioncode:NHMUK" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "specificepithet:reichenowi genus:Cinnyris" ; Times: 2
+	Query: "genus:perodicticus country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Kurdistan&#34;" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "iptrecordid:&#34;3e812c19-bd97-4997-bf4b-e3720103aa17&#34;" ; Times: 4
+	Query: "erythropygia collsi" ; Times: 1
+	Query: "gbifdatasetid:7e380070-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Melanobatrachus indicus hassex:1" ; Times: 8
+	Query: "Caryothraustes poliogaster" ; Times: 1
+	Query: "Plethodontohyla ocellata hassex:1" ; Times: 2
+	Query: "Eupherusa eximia" ; Times: 1
+	Query: "Zimmerius vilissimus" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "acanthiza clelandi" ; Times: 1
+	Query: "91908" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "porphyrio melanotus year &gt; 1990" ; Times: 1
+	Query: "Formicarius nigricapillus" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "Arizelocichla tephrolaema" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Cervus elaphus xanthopygus" ; Times: 4
+	Query: "Micrastur ruficollis" ; Times: 1
+	Query: "Bradypterus major" ; Times: 1
+	Query: "Campylorhynchus zonatus" ; Times: 1
+	Query: "specificepithet:superba genus:Lophorina year &gt;= 1900 year &lt;= 1948" ; Times: 1
+	Query: "Corallus" ; Times: 1
+	Query: "Vireolanius pulchellus" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "melanomys robustulus" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "trochalopteron fairbanki" ; Times: 4
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Dendrocygna javanica vntype:specimen" ; Times: 3
+	Query: "Paa fasciculispina hassex:1" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "sheppardia acholiensis" ; Times: 1
+	Query: "phylloscopus xanthodryas" ; Times: 10
+	Query: "specificepithet:gigantea genus:Fulica" ; Times: 14
+	Query: "nlonako" ; Times: 2
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Craseonycteris thonglongyai" ; Times: 1
+	Query: "genus:brachyteles" ; Times: 1
+	Query: "Megalurulus" ; Times: 1
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Myotis riparius" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "Thamnistes anabatinus" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "specificepithet:guereza genus:colobus country:&#34;kenya&#34;" ; Times: 3
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 3
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "brachypteryx major" ; Times: 8
+	Query: "Bradypterus luteoventris" ; Times: 1
+	Query: "specificepithet:luapula genus:cisticola hasmass:1" ; Times: 1
+	Query: "Ansonia platysoma hassex:1" ; Times: 3
+	Query: "specificepithet:persica class:Aves" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "specificepithet:norae genus:surdisorex country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 3
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "India Scully" ; Times: 1
+	Query: "Empidonax affinis" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "genus:Nectophrynoides specificepithet:wendyae" ; Times: 1
+	Query: "&#34;nasua nasua&#34; brazil" ; Times: 1
+	Query: "Abrocoma bennettii" ; Times: 2
+	Query: "specificepithet:ascanius genus:cercopithecus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Tityra inquisitor" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 1
+	Query: "Icterus gularis" ; Times: 1
+	Query: "bos javanicus continent:asia" ; Times: 1
+	Query: "Lipaugus unirufus" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 3
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "Eucometis penicillata" ; Times: 1
+	Query: "Agkistrodon russeolus" ; Times: 2
+	Query: "Capra nubiana" ; Times: 4
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "specificepithet:angolensis genus:colobus country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Habia gutturalis" ; Times: 1
+	Query: "Hylodes perplicatus hassex:1" ; Times: 2
+	Query: "specificepithet:gilberti genus:Kupeornis" ; Times: 5
+	Query: "Paradoxornis ruficeps ruficeps" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Thraupis abbas" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 3
+	Query: "Rhynchocyclus brevirostris" ; Times: 1
+	Query: "Gastrophryne elegans" ; Times: 1
+	Query: "specificepithet:crassicaudatus genus:otolemur country:&#34;kenya&#34;" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "tchagra warsangliensis" ; Times: 1
+	Query: "specificepithet:tullbergi genus:campethera" ; Times: 1
+	Query: "turdoides subrufa" ; Times: 2
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Leptobrachella baluensis" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 11
+	Query: "Equus asinus somalicus" ; Times: 1
+	Query: "Crypturellus boucardi" ; Times: 1
+	Query: "Crex Crex" ; Times: 6
+	Query: "anthus nilghiriensis" ; Times: 24
+	Query: "Equus caballus" ; Times: 3
+	Query: "Odontophorus guttatus" ; Times: 1
+	Query: "Pteropus griseus" ; Times: 5
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "tauraco bannermani" ; Times: 1
+	Query: "Dromaeocercus seebohmi" ; Times: 1
+	Query: "specificepithet:weynsi genus:cephalophus continent:africa" ; Times: 2
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Potos flavus" ; Times: 1
+	Query: "dicrurus aldabranus" ; Times: 1
+	Query: "Siberut" ; Times: 2
+	Query: "Geothlypis nelsoni" ; Times: 1
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "genus:suncus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:polulus genus:surdisorex country:&#34;kenya&#34;" ; Times: 2
+	Query: "elanus scriptus" ; Times: 1
+	Query: "iole virescens" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Chaetornis" ; Times: 1
+	Query: "&#34;Erithizon dorsatum&#34;" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "dicrurus sumatranus" ; Times: 1
+	Query: "phylloscopus forresti" ; Times: 2
+	Query: "Poyntonia paludicola" ; Times: 2
+	Query: "specificepithet:santovestris genus:aplonis class:aves" ; Times: 1
+	Query: "specificepithet:lopezi genus:Bradypterus" ; Times: 2
+	Query: "Loxodonta africana africana mappable:1" ; Times: 6
+	Query: "Megarynchus pitangua" ; Times: 1
+	Query: "specificepithet:merula genus:turdus hasmass:1" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "&#34;lemur catta&#34;" ; Times: 1
+	Query: "prinia superciliaris" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "specificepithet:insignis genus:Ploceus" ; Times: 2
+	Query: "naja ashei" ; Times: 1
+	Query: "Phyllastrephus flavostriatus" ; Times: 1
+	Query: "Brachypteryx montana india vntype:specimen" ; Times: 1
+	Query: "specificepithet:gundlachii genus:Mimus hasmass:1" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "myadestes myadestinus" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:brasiliensis genus:tadarida country:&#34;panama&#34;" ; Times: 1
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:vittatum genus:Apaloderma" ; Times: 12
+	Query: "Cossypha archeri" ; Times: 6
+	Query: "rhopocichla atriceps" ; Times: 2
+	Query: "Dendrocygna eytoni vntype:specimen" ; Times: 2
+	Query: "DENDROCOPOS ATRATUS" ; Times: 1
+	Query: "collocalia whiteheadi" ; Times: 3
+	Query: "86159" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "estrilda occidentalis" ; Times: 1
+	Query: "Schoenicola" ; Times: 1
+	Query: "Laniocera rufescens" ; Times: 1
+	Query: "Panthera pardus sindica" ; Times: 2
+	Query: "Saltator atriceps" ; Times: 1
+	Query: "Natrix natrix helvetica" ; Times: 1
+	Query: "Platypelis pollicaris hassex:1" ; Times: 2
+	Query: "Lanioturdus" ; Times: 1
+	Query: "specificepithet:rufitorques genus:turdus hasmass:1" ; Times: 4
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "Tribura luteoventris" ; Times: 1
+	Query: "genus:Gypaetus" ; Times: 1
+	Query: "specificepithet:flavocinctus genus:oriolus hasmass:1" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "chlamyphorus truncatus" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 2
+	Query: "Loxodonta africana mappable:1" ; Times: 4
+	Query: "Cuculus crassirostris" ; Times: 4
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "dendrocitta frontalis" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 1
+	Query: "specificepithet:cinerea genus:Apalis" ; Times: 2
+	Query: "Mustela furo" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 236 (out of 1398 download events in this period)
+Total number of records downloaded: 17070
+Number of different countries: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 6
+	Country: Italy ; Times: 24
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 135
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 23
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Colombia ; Times: 11
+	Country: France ; Times: 5
+	Country: Venezuela ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 11
+	Date: 2018-01-18 ; Times: 19
+	Date: 2018-01-31 ; Times: 22
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-12 ; Times: 5
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 20
+	Date: 2018-01-24 ; Times: 8
+	Date: 2018-01-03 ; Times: 3
+	Date: 2018-01-08 ; Times: 6
+	Date: 2018-01-09 ; Times: 5
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 49
+	Date: 2018-01-25 ; Times: 20
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-06 ; Times: 3
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-22 ; Times: 13
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-23 ; Times: 19
+	Date: 2018-01-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "Scotopelia ussheri" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "Bradypterus thoracicus" ; Times: 1
+	Query: "Melaenornis annamarulae" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Chaetornis" ; Times: 1
+	Query: "Phylloscopus pulcher" ; Times: 1
+	Query: "chiroptera AND siberut" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "stateprovince:&#34;santander&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:angolensis genus:colobus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "panthera pardus continent:asia" ; Times: 1
+	Query: "Phylloscopus pulcher vntype:specimen" ; Times: 1
+	Query: "macaca mulatta continent:asia" ; Times: 1
+	Query: "hippopotamus amphibius mappable:1" ; Times: 1
+	Query: "Bycanistes cylindricus" ; Times: 1
+	Query: "specificepithet:guereza genus:colobus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:fumosa genus:crocidura country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "berylmys" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Buettikoferella" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "Bradypterus" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "Amphilais seebohmi" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "specificepithet:cynocephalus genus:papio country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:neglectus genus:cercopithecus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "melanomys" ; Times: 1
+	Query: "specificepithet:polyglottos genus:mimus hasmass:1" ; Times: 1
+	Query: "helarctos malayanus continent:asia" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "zygodontomys brunneus" ; Times: 1
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "bubalus bubalis continent:asia" ; Times: 1
+	Query: "specificepithet:vittatum genus:apaloderma" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Siberut" ; Times: 2
+	Query: "Bradypterus major" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:GARNETTII genus:OTOLEMUR country:&#34;KENYA&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "Amphilais" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Phylloscopus affinis vntype:specimen" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Schoenicola" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "cuon alpinus continent:asia" ; Times: 1
+	Query: "muntiacus muntjak continent:asia" ; Times: 1
+	Query: "hylobates pileatus continent:asia" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 1
+	Query: "tapirus indicus continent:asia" ; Times: 1
+	Query: "Megalurulus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "pachyramphus aglaiae" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinctus genus:parus class:aves" ; Times: 1
+	Query: "Atelopus spurrelli" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Eremiornis carteri" ; Times: 1
+	Query: "specificepithet:anubis genus:papio country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma hasmass:1" ; Times: 1
+	Query: "Cincloramphus mathewsi" ; Times: 1
+	Query: "Peltophryne" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Bradypterus luteoventris" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Sumatra class:Mammalia" ; Times: 1
+	Query: "Apalis sharpii" ; Times: 1
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "Motacilla samveasnae" ; Times: 1
+	Query: "atelopus spurrelli" ; Times: 1
+	Query: "Lepus granatensis" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "(Tremarctos ornatus)" ; Times: 1
+	Query: "sus scrofa continent:asia" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "tropidurus torquatus" ; Times: 1
+	Query: "Cichlornis whitneyi" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Cycloramphus" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "siberut order:chiroptera" ; Times: 1
+	Query: "phylloscopus ibericus" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Bantam AND Indonesia AND Reptilia OR Amphibia" ; Times: 1
+	Query: "nyctalus leisleri" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "naemorhedus caudatus continent:asia" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "specificepithet:elliotii genus:dendropicos" ; Times: 1
+	Query: "Marmota himalayana" ; Times: 1
+	Query: "nomascus concolor continent:asia" ; Times: 2
+	Query: "Cincloramphus cruralis" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "Agelastes meleagrides" ; Times: 1
+	Query: "Nucifraga caryocatactes" ; Times: 1
+	Query: "specificepithet:tullbergi genus:campethera" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "sigmodontomys" ; Times: 1
+	Query: "Rhinonicteris aurantia" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "Nucifraga" ; Times: 1
+	Query: "Locustellidae" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Dromaeocercus seebohmi" ; Times: 1
+	Query: "Rhombomys opimus" ; Times: 1
+	Query: "Illadopsis rufescens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "caracara cheriway" ; Times: 1
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "specificepithet:patas genus:erythrocebus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "oscaecilia" ; Times: 1
+	Query: "Donacobius" ; Times: 1
+	Query: "elanus scriptus" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "flammulatus" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "canis aureus continent:asia" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Buteo augur" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "ursus thibetanus continent:asia" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "Micropechis" ; Times: 2
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "Macheiramphus alcinus" ; Times: 1
+	Query: "specificepithet:gundlachii genus:Mimus hasmass:1" ; Times: 1
+	Query: "Dromaeocercus brunneus" ; Times: 1
+	Query: "Turdus migratorius hassex:1 hasmass:1" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "specificepithet:capensis genus:Zonotrichia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "specificepithet:ascanius genus:cercopithecus country:&#34;kenya&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "capricornis sumatraensis continent:asia" ; Times: 1
+	Query: "Herpestes edwardsii" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "macaca nemestrina continent:asia" ; Times: 1
+	Query: "Malurus cyaneus hassex:1" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Elaphrornis" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "hylobates lar continent:asia" ; Times: 1
+	Query: "Tephrodornis" ; Times: 1
+	Query: "Turdus migratorius vntype:specimen hassex:1 hasmass:1" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Bowdleria rufescens" ; Times: 1
+	Query: "Bowdleria punctata" ; Times: 1
+	Query: "bos javanicus continent:asia" ; Times: 1
+	Query: "nyctalus lasiopterus" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "nyctalus noctula" ; Times: 1
+	Query: "Mustela furo" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
