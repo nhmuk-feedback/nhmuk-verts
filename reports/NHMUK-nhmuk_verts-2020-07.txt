@@ -1,0 +1,1618 @@
+Report for Institution Code NHMUK, Resource nhmuk_verts
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2498
+Number of records retrieved in searches: 17631
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 50
+	Country: Canada ; Times: 4
+	Country: Qatar ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 50
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 14
+	Country: Peru ; Times: 16
+	Country: Laos ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Bolivia ; Times: 2
+	Country: Ecuador ; Times: 21
+	Country: Australia ; Times: 8
+	Country: Germany ; Times: 1237
+	Country: Chile ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 15
+	Country: Netherlands ; Times: 15
+	Country: Denmark ; Times: 7
+	Country: Philippines ; Times: 7
+	Country: United States ; Times: 582
+	Country: Sweden ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 63
+	Country: Madagascar ; Times: 5
+	Country: United Kingdom ; Times: 44
+	Country: Malaysia ; Times: 290
+	Country: Colombia ; Times: 23
+	Country: Sri Lanka ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 30
+	Date: 2020-07-08 ; Times: 21
+	Date: 2020-07-21 ; Times: 115
+	Date: 2020-07-20 ; Times: 91
+	Date: 2020-07-27 ; Times: 34
+	Date: 2020-07-26 ; Times: 27
+	Date: 2020-07-25 ; Times: 24
+	Date: 2020-07-22 ; Times: 94
+	Date: 2020-07-01 ; Times: 17
+	Date: 2020-07-03 ; Times: 35
+	Date: 2020-07-02 ; Times: 40
+	Date: 2020-07-05 ; Times: 31
+	Date: 2020-07-04 ; Times: 27
+	Date: 2020-07-07 ; Times: 48
+	Date: 2020-07-06 ; Times: 34
+	Date: 2020-07-24 ; Times: 63
+	Date: 2020-07-23 ; Times: 113
+	Date: 2020-07-29 ; Times: 100
+	Date: 2020-07-18 ; Times: 63
+	Date: 2020-07-19 ; Times: 58
+	Date: 2020-07-12 ; Times: 280
+	Date: 2020-07-13 ; Times: 84
+	Date: 2020-07-10 ; Times: 45
+	Date: 2020-07-11 ; Times: 429
+	Date: 2020-07-16 ; Times: 99
+	Date: 2020-07-31 ; Times: 34
+	Date: 2020-07-14 ; Times: 301
+	Date: 2020-07-17 ; Times: 27
+	Date: 2020-07-15 ; Times: 51
+	Date: 2020-07-28 ; Times: 38
+	Date: 2020-07-30 ; Times: 45
+
+List of queries that retrieved data from the resource: 
+	Query: "lestoros" ; Times: 1
+	Query: "catalognumber:1901.3.20.77 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1925.11.1.675 institutioncode:NHMUK" ; Times: 2
+	Query: "Mionectes assimilis nhmuk" ; Times: 1
+	Query: "catalognumber:1969.4.627 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1463 institutioncode:NHMUK" ; Times: 2
+	Query: "tupaia tana" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "Pitta inornata nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.783 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1838.1.16.66 institutioncode:NHMUK" ; Times: 2
+	Query: "chionis minor" ; Times: 2
+	Query: "catalognumber:1955.6. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1926.12.22. institutioncode:NHMUK" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 2
+	Query: "catalognumber:1900.4.26.3 institutioncode:NHMUK" ; Times: 2
+	Query: "Muntiacus muntjak" ; Times: 4
+	Query: "catalognumber:1901.3.20.34 institutioncode:NHMUK" ; Times: 2
+	Query: "Ozotoceros bezoarticus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:1964.17.596 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.775 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.493 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.331 institutioncode:NHMUK" ; Times: 2
+	Query: "genus:Artamus institutioncode:NHMUK" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus" ; Times: 2
+	Query: "catalognumber:1925.11.1.816 institutioncode:NHMUK" ; Times: 1
+	Query: "myrmeciza loricata" ; Times: 1
+	Query: "crotalus durissus terrificus" ; Times: 1
+	Query: "catalognumber:1925.11.1.583 institutioncode:NHMUK" ; Times: 2
+	Query: "zosterops heinrichi" ; Times: 2
+	Query: "catalognumber:1964.60.669 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 3
+	Query: "Tupaia tana" ; Times: 4
+	Query: "Crypturus macconnelli" ; Times: 2
+	Query: "catalognumber:81. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.268 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Microcavia" ; Times: 1
+	Query: "catalognumber:1925.11.1. institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1925.11.1.790 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1925.11.1.379 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1939.12.9.2437 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.927 institutioncode:NHMUK" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus casparii&#34;" ; Times: 1
+	Query: "catalognumber:1969.4.614 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.634 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1971.1.58 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1964.60.853 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1334 institutioncode:NHMUK" ; Times: 2
+	Query: "Nannosciurus melanotis" ; Times: 2
+	Query: "catalognumber:1939.12.9.2426 institutioncode:NHMUK" ; Times: 2
+	Query: "notoryctes" ; Times: 1
+	Query: "catalognumber:1964.17.633 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1925.11.1.812 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1866.5.7.12 institutioncode:NHMUK" ; Times: 2
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: "catalognumber:1969.4.226 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.629 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1400 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1277 institutioncode:NHMUK" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "Bos grunniens" ; Times: 1
+	Query: "catalognumber:1965.43.752 institutioncode:NHMUK" ; Times: 1
+	Query: "budorcas taxicolor" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 1
+	Query: "Humbold" ; Times: 2
+	Query: "catalognumber:1964.60.1403 institutioncode:NHMUK" ; Times: 2
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cardioglossa leucomystax mappable:1" ; Times: 2
+	Query: "mustela africana" ; Times: 1
+	Query: "ichthyophis peninsularis" ; Times: 1
+	Query: "catalognumber:1969.4.492 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.774 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.559 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.287 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.567 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 2
+	Query: "catalognumber:1964.60.634 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1881.11.7.1174 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:98.10. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.286 institutioncode:NHMUK" ; Times: 2
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "Numida marungensis maxima nhmuk" ; Times: 1
+	Query: "catalognumber:1889.6.12.36 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.910 institutioncode:NHMUK" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 4
+	Query: "catalognumber:1964.60.68. institutioncode:NHMUK" ; Times: 3
+	Query: "country:&#34;Colombia&#34; Piranga flava" ; Times: 3
+	Query: "catalognumber:1969.4.894 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:marmosa country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "catalognumber:1955.6.n6.21 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:finschi order:galliformes" ; Times: 1
+	Query: "catalognumber:1971.1. institutioncode:NHMUK" ; Times: 7
+	Query: "catalognumber:1927.12.18.25 institutioncode:NHMUK" ; Times: 1
+	Query: "Attila torridus 1859" ; Times: 1
+	Query: "catalognumber:1964.60.514 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.626 institutioncode:NHMUK" ; Times: 1
+	Query: "Larus saundersi" ; Times: 2
+	Query: "catalognumber:1969.4.685 institutioncode:NHMUK" ; Times: 2
+	Query: "Spelaeornis longicaudatus" ; Times: 3
+	Query: "catalognumber:1964.60.887 institutioncode:NHMUK" ; Times: 2
+	Query: "Ichthyophis sikkimensis" ; Times: 1
+	Query: "catalognumber:1969.4.901 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.617 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.737 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.530 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:93.4.4.19 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.521 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:73.5. institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1889.6.12.35 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1396 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.785 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.261 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.945 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.786 institutioncode:NHMUK" ; Times: 1
+	Query: "sundasciurus lowii" ; Times: 5
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 2
+	Query: "haeromys pusillus" ; Times: 7
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "Capricornis" ; Times: 2
+	Query: "Budorcas taxicolor" ; Times: 1
+	Query: "catalognumber:1965.43.753 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1964.60.1278 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.618 institutioncode:NHMUK" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon armstrongi" ; Times: 1
+	Query: "catalognumber:1901.3.20.48 institutioncode:NHMUK" ; Times: 3
+	Query: "Eleutherodactylus limbatus" ; Times: 2
+	Query: "catalognumber:1905.1.24. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1921.12. institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Salamandra specificepithet:lanzai" ; Times: 1
+	Query: "catalognumber:1910.7.7.143 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.768 institutioncode:NHMUK" ; Times: 2
+	Query: "pteromyscus pulverulentus" ; Times: 8
+	Query: "catalognumber:1922.7.25.75 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.765 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.777 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Crotalus country:&#34;bolivia&#34;" ; Times: 1
+	Query: "catalognumber:1965.43.162 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1966.21.172 institutioncode:NHMUK" ; Times: 1
+	Query: "Attila citriniventris nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.720 institutioncode:NHMUK" ; Times: 1
+	Query: "Lepus granatensis" ; Times: 1
+	Query: "catalognumber:1969.4.354 institutioncode:NHMUK" ; Times: 1
+	Query: "apalis muhuluensis" ; Times: 1
+	Query: "Philydor subfulvus nhmuk" ; Times: 1
+	Query: "catalognumber:1939.12.9.2855 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1843.7.14.147 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1964.60.804 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1270 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1910.7.7.63 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.425 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1900.4.26.16 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+	Query: "catalognumber:1910.4.12 institutioncode:NHMUK" ; Times: 3
+	Query: "Rynchops flavirostris" ; Times: 3
+	Query: "Bothrops bilineatus peru" ; Times: 1
+	Query: "catalognumber:1964.17.348 institutioncode:NHMUK" ; Times: 3
+	Query: "Tyrannulus flavidifrons" ; Times: 1
+	Query: "genus:Breviceps country:&#34;Malawi&#34;" ; Times: 3
+	Query: "catalognumber:1964.60.1460 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1925.11.1.799 institutioncode:NHMUK" ; Times: 2
+	Query: "Turnix velox nhmuk" ; Times: 1
+	Query: "catalognumber:1964.17.643 institutioncode:NHMUK" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus varians&#34;" ; Times: 1
+	Query: "catalognumber:1965.43.1223 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.771 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.518 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.257 institutioncode:NHMUK" ; Times: 3
+	Query: "country:Ecuador scientificname:Myotis albescens " ; Times: 1
+	Query: "catalognumber:1965.43.953 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 3
+	Query: "catalognumber:1969.4.566 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:gingica order:galliformes" ; Times: 2
+	Query: "catalognumber:1965.17. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1939.12.9.2785 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1969.4.369 institutioncode:NHMUK" ; Times: 1
+	Query: "hastypestatus:1 Tinamus erythropus" ; Times: 1
+	Query: "catalognumber:1925.11.1.944 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.250 institutioncode:NHMUK" ; Times: 1
+	Query: "Pucherani nhmuk" ; Times: 1
+	Query: "catalognumber:1925.11.1.824 institutioncode:NHMUK" ; Times: 2
+	Query: "Budorcas taxicolor bedfordi" ; Times: 1
+	Query: "catalognumber:1966.21.221 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 3
+	Query: "Automolus veraepacis nhmuk" ; Times: 1
+	Query: "catalognumber:1964.17.472 institutioncode:NHMUK" ; Times: 2
+	Query: "specificepithet:gularis order:galliformes" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 4
+	Query: "catalognumber:1965.43.555 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1886.10.1.4534 institutioncode:NHMUK" ; Times: 2
+	Query: "Sterna lorata" ; Times: 2
+	Query: "catalognumber:1898.5.17.78 institutioncode:NHMUK" ; Times: 1
+	Query: "Viverra tangalunga" ; Times: 1
+	Query: "catalognumber:1965.43.775 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1901.3.20. institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1937.2.16.89 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.947 institutioncode:NHMUK" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 3
+	Query: "catalognumber:1969.4.640 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1007 institutioncode:NHMUK" ; Times: 1
+	Query: "motacilla maderaspatensis" ; Times: 4
+	Query: "specificepithet:leucorhynchus genus:Artamus institutioncode:NHMUK" ; Times: 1
+	Query: "Graminicola bengalensis india" ; Times: 1
+	Query: "catalognumber:1969.4.247 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.609 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.347 institutioncode:NHMUK" ; Times: 2
+	Query: "Cycloramphus ohausi" ; Times: 1
+	Query: "catalognumber:1969.4.368 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.330 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1269 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1901.3.20.39 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1937.2.16.70 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Chironius exoletus " ; Times: 1
+	Query: "catalognumber:1969.4.332 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.414 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1906.12.20.272 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1927.12.18.235 institutioncode:NHMUK" ; Times: 2
+	Query: "class:mammalia continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 5
+	Query: "catalognumber:1925.11.1.810 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1881.3.15.1 institutioncode:NHMUK" ; Times: 2
+	Query: "vntype:specimen specificepithet:cayanus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:1926.12.4.22 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.140 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 2
+	Query: "Hemitragus jemlahicus" ; Times: 2
+	Query: "uraeotyphlus malabaricus" ; Times: 1
+	Query: "Synallaxis macconnelli nhmuk" ; Times: 1
+	Query: "lachesis muta peru" ; Times: 2
+	Query: "aquila clanga india" ; Times: 1
+	Query: "turnix sylvatica india" ; Times: 1
+	Query: "family:Bathyergidae institutioncode:NHMUK" ; Times: 5
+	Query: "catalognumber:1925.11.1.673 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1003 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.345 institutioncode:NHMUK" ; Times: 4
+	Query: "catalognumber:79.4. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.48 institutioncode:NHMUK" ; Times: 1
+	Query: "perdicula manipurensis" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "san juan bosco ecuador" ; Times: 1
+	Query: "catalognumber:1964.17.373 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.1224 institutioncode:NHMUK" ; Times: 1
+	Query: "Chleuasicus atrosuperciliaris" ; Times: 1
+	Query: "hastypestatus:1 sallaei" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 1
+	Query: "catalognumber:1965.43.774 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:1900.4 institutioncode:NHMUK" ; Times: 1
+	Query: "order:Anura country:&#34;swaziland&#34;" ; Times: 1
+	Query: "Geothlypis semiflava nhmuk" ; Times: 1
+	Query: "elminia albicauda" ; Times: 1
+	Query: "catalognumber:1896.4.8.31 institutioncode:NHMUK" ; Times: 3
+	Query: "hastypestatus:1 Crypturus occidentalis" ; Times: 1
+	Query: "catalognumber:1969.4.272 institutioncode:NHMUK" ; Times: 2
+	Query: "jobiensis 1873" ; Times: 1
+	Query: "catalognumber:1969.4. institutioncode:NHMUK" ; Times: 8
+	Query: "catalognumber:1866.5.7.11 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.76 institutioncode:NHMUK" ; Times: 1
+	Query: "niviventer rapit" ; Times: 2
+	Query: "catalognumber:1905.12. institutioncode:NHMUK" ; Times: 1
+	Query: "Rostratula australis" ; Times: 1
+	Query: "catalognumber:1927.12.18.159 institutioncode:NHMUK" ; Times: 2
+	Query: "Philydor fuscipennis nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.1473 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "catalognumber:1939.12. institutioncode:NHMUK" ; Times: 3
+	Query: "ectophylla alba" ; Times: 2
+	Query: "genus:Telmatobius specificepithet:brachydactylus" ; Times: 1
+	Query: "catalognumber:1955. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.339 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "catalognumber:1969.4.495 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1964.60.1448 institutioncode:NHMUK" ; Times: 1
+	Query: "Microhyla rubra" ; Times: 3
+	Query: "Hemipodius velox" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "vntype:specimen country:&#34;Brazil&#34; (type) institutioncode:NHMUK" ; Times: 1
+	Query: "hastypestatus:1 Crypturus mexicanus" ; Times: 1
+	Query: "catalognumber:1964.17.488 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 1
+	Query: "catalognumber:1964.60.68 institutioncode:NHMUK" ; Times: 1
+	Query: "Myiarchus nigriceps nhmuk" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "catalognumber:1969.4.628 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1934.10. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.468 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.598 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2790 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.520 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.858 institutioncode:NHMUK" ; Times: 2
+	Query: "neafrapus boehmi" ; Times: 4
+	Query: "Rana feae" ; Times: 1
+	Query: "schoutedenapus" ; Times: 1
+	Query: "Cycloramphus asper" ; Times: 1
+	Query: "Attila citriniventris" ; Times: 1
+	Query: "Pheucticus chrysopeplus rarissimus" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "catalognumber:1964.60.857 institutioncode:NHMUK" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Colombia&#34;" ; Times: 2
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "catalognumber:1969.4.565 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.288 institutioncode:NHMUK" ; Times: 2
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "catalognumber:1906.12.20.78 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1838.1.15.89 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.927 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.293 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2781 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1969.4.619 institutioncode:NHMUK" ; Times: 1
+	Query: "briceni" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "catalognumber:1925.11.1.366 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.467 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.758 institutioncode:NHMUK" ; Times: 1
+	Query: "paradoxornis flavirostris" ; Times: 7
+	Query: "catalognumber:1969.4.563 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus simonsi " ; Times: 4
+	Query: "catalognumber:1969.4.903 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "catalognumber:98.10.3. institutioncode:NHMUK" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "catalognumber:1964.60.1405 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.888 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1937.2.16.49 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.901 institutioncode:NHMUK" ; Times: 2
+	Query: "Rabor NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1391 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.49. institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Histiotus montanus " ; Times: 4
+	Query: "catalognumber:1925.11.1.819 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.148 institutioncode:NHMUK" ; Times: 4
+	Query: "country:Ecuador scientificname:Cyclopes ida " ; Times: 7
+	Query: "specificepithet:olivaceus genus:prionochilus country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:1965.43.168 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.783 institutioncode:NHMUK" ; Times: 2
+	Query: "Arctogalidia trivirgata" ; Times: 1
+	Query: "catalognumber:1969.4.335 institutioncode:NHMUK" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "remiz coronatus" ; Times: 2
+	Query: "catalognumber:1902.6.12.9 institutioncode:NHMUK" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "genus:golunda" ; Times: 1
+	Query: "catalognumber:1964.60.629 institutioncode:NHMUK" ; Times: 1
+	Query: "Xenicus stokesii" ; Times: 3
+	Query: "specificepithet:niger genus:Sciurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Ateles belzebuth " ; Times: 7
+	Query: "catalognumber:1964.60.1314 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2249 institutioncode:NHMUK" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus turquinensis&#34;" ; Times: 1
+	Query: "catalognumber:1964.17.631 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1964.60.1285 institutioncode:NHMUK" ; Times: 2
+	Query: "Calyptomena Hosii nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.1308 institutioncode:NHMUK" ; Times: 1
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "specificepithet:harmani order:galliformes" ; Times: 5
+	Query: "catalognumber:1964.17.475 institutioncode:NHMUK" ; Times: 2
+	Query: "HIRUNDAPUS cochinchinensis" ; Times: 1
+	Query: "catalognumber:81.5. institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.923 institutioncode:NHMUK" ; Times: 2
+	Query: "Calliste whitelyi" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 2
+	Query: "catalognumber:1898.5.17.41 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.719 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1881.5.1.1534 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.223. institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles fusciceps " ; Times: 9
+	Query: "family:Phrynosomatidae isfossil:1" ; Times: 1
+	Query: "catalognumber:1965.5.69 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1905.12.26.267 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.547 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1889.6. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.363 institutioncode:NHMUK" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "Philydor erythronotus nhmuk" ; Times: 1
+	Query: "catalognumber:1969.4.933 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1888.9.20.996 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 1
+	Query: "catalognumber:1905.12.26.16 institutioncode:NHMUK" ; Times: 1
+	Query: "Ampeliceps coronatus india" ; Times: 1
+	Query: "catalognumber:1925.11.1.954 institutioncode:NHMUK" ; Times: 3
+	Query: "class:Amphibia &#34;Eleutherodactylus cubanus&#34;" ; Times: 1
+	Query: "Naemorhedus goral" ; Times: 2
+	Query: "catalognumber:1965.43.739 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.473 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1886.6.24.238 institutioncode:NHMUK" ; Times: 2
+	Query: "hastypestatus:1 Lutra" ; Times: 11
+	Query: "catalognumber:1964.60.1265 institutioncode:NHMUK" ; Times: 2
+	Query: "Moschus leucogaster" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "catalognumber:1898.5.17.75 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.152 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.899 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.572 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.366 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1398 institutioncode:NHMUK" ; Times: 2
+	Query: "Rabor specimens NHMUK ZOO" ; Times: 3
+	Query: "catalognumber:77.11.15.22 institutioncode:NHMUK" ; Times: 2
+	Query: "manis crassicaudata continent:Asia" ; Times: 1
+	Query: "zosterops analoga" ; Times: 1
+	Query: "catalognumber:1964.60.706 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1926.12.22.1 institutioncode:NHMUK" ; Times: 2
+	Query: "maxomys alticola" ; Times: 5
+	Query: "crypturellus andrei" ; Times: 1
+	Query: "catalognumber:1927.12.18.166 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.713 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.599 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1939.12.9. institutioncode:NHMUK" ; Times: 11
+	Query: "Falco longipennis 1912" ; Times: 1
+	Query: "catalognumber:1927.12.18.165 institutioncode:NHMUK" ; Times: 2
+	Query: "Moschus chrysogaster" ; Times: 1
+	Query: "Sundasciurus jentinki" ; Times: 46
+	Query: "catalognumber:1964.60.630 institutioncode:NHMUK" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 2
+	Query: "bothrops oligolepis peru" ; Times: 1
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "catalognumber:1939.12.9 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.764 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.844 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1315 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:alticola country:&#34;pakistan&#34;" ; Times: 4
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 2
+	Query: "catalognumber:1969.4.267 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.700 institutioncode:NHMUK" ; Times: 2
+	Query: "Rattus losea" ; Times: 6
+	Query: "catalognumber:1899.5.21.21 institutioncode:NHMUK" ; Times: 2
+	Query: "Hemisus marmoratus mappable:1" ; Times: 1
+	Query: "catalognumber:1922.7.25.62 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.284 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2420 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1924.7.11.1 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 13
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "catalognumber:1969.4.291 institutioncode:NHMUK" ; Times: 1
+	Query: "bunomys" ; Times: 2
+	Query: "catalognumber:1964.60.1304 institutioncode:NHMUK" ; Times: 2
+	Query: "Haematopus unicolor" ; Times: 4
+	Query: "catalognumber:1964.60.773 institutioncode:NHMUK" ; Times: 2
+	Query: "Cittura" ; Times: 1
+	Query: "Hydromantes genei" ; Times: 2
+	Query: "catalognumber:1881.7. institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+	Query: "Heleodytes simonsi nhmuk" ; Times: 1
+	Query: "catalognumber:1969.4.248 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1479 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1446 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.560 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "catalognumber:1881.11.7.110 institutioncode:NHMUK" ; Times: 2
+	Query: "salvania" ; Times: 1
+	Query: "country:Ecuador scientificname:Chibchanomys orcesi " ; Times: 2
+	Query: "catalognumber:1910.7.7.64 institutioncode:NHMUK" ; Times: 1
+	Query: "ichthyophis bombayensis" ; Times: 1
+	Query: "catalognumber:1964.60.1383 institutioncode:NHMUK" ; Times: 1
+	Query: "upucerthia huancavelicae" ; Times: 1
+	Query: "catalognumber:1889.6.12.63 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.676 institutioncode:NHMUK" ; Times: 1
+	Query: "Tachyphonus chrysomelas" ; Times: 1
+	Query: "specificepithet:bruijnii order:galliformes" ; Times: 1
+	Query: "Haematopus chathamensis" ; Times: 2
+	Query: "catalognumber:1969.4.599 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.712 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.428 institutioncode:NHMUK" ; Times: 1
+	Query: "Tricholaema hirsuta" ; Times: 1
+	Query: "Pogonomys loriae" ; Times: 2
+	Query: "linnaea" ; Times: 2
+	Query: "catalognumber:1905.1.240.7 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:salvania" ; Times: 1
+	Query: "catalognumber:1939.12.9.2688 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1445 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.554 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.417 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "Hydromantes ambrosii" ; Times: 2
+	Query: "catalognumber:1964.5. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1939.12.9.2763 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.149 institutioncode:NHMUK" ; Times: 3
+	Query: "country:Ecuador scientificname:Cebuella pygmaea " ; Times: 7
+	Query: "catalognumber:1964.60.81 institutioncode:NHMUK" ; Times: 1
+	Query: "continent:africa recordedby:simmons" ; Times: 1
+	Query: "catalognumber:1926.12. institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1906.12.20.79 institutioncode:NHMUK" ; Times: 2
+	Query: "chrysomma altirostre" ; Times: 2
+	Query: "catalognumber:1843.7.14.182 institutioncode:NHMUK" ; Times: 1
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "catalognumber:1964.60.806 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.779 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.855 institutioncode:NHMUK" ; Times: 2
+	Query: "Muscivora occidentalis nhmuk" ; Times: 1
+	Query: "catalognumber:1964.17.360 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1905.12.26.6 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.214 institutioncode:NHMUK" ; Times: 1
+	Query: "Synallaxis Spixi nhmuk" ; Times: 1
+	Query: "catalognumber:1903.12.30.30 institutioncode:NHMUK" ; Times: 1
+	Query: "Rhinoptilus bitorquatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 13
+	Query: "catalognumber:1905.12.26.246 institutioncode:NHMUK" ; Times: 3
+	Query: "Todirhamphus OR Todiramphus OR Halcyon vidali" ; Times: 1
+	Query: "catalognumber:1965.43.1184 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1955.6.N. institutioncode:NHMUK" ; Times: 4
+	Query: "catalognumber:1925.11.1.341 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.934 institutioncode:NHMUK" ; Times: 2
+	Query: "vntype:specimen country:&#34;Brazil&#34; institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.794 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1939.12.9.2757 institutioncode:NHMUK" ; Times: 1
+	Query: "Astylosternus diadematus mappable:1" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "catalognumber:1964.17.452 institutioncode:NHMUK" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 4
+	Query: "catalognumber:1964.17.363 institutioncode:NHMUK" ; Times: 2
+	Query: "Niviventer rapit" ; Times: 4
+	Query: "catalognumber:1965.43.750 institutioncode:NHMUK" ; Times: 2
+	Query: "hastypestatus:1 Crypturus cinnamomeus" ; Times: 1
+	Query: "catalognumber:1965.43.1056 institutioncode:NHMUK" ; Times: 1
+	Query: "porzana erythrops" ; Times: 1
+	Query: "catalognumber:1969.4.595 institutioncode:NHMUK" ; Times: 1
+	Query: "IMS 4652" ; Times: 1
+	Query: "catalognumber:1939.12.9.2428 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1955.28.29 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.517 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Breviceps country:&#34;Zimbabwe&#34; AND (NOT Nielsen)" ; Times: 2
+	Query: "catalognumber:1969.4.292 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:93.4.4.218 institutioncode:NHMUK" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 1
+	Query: "catalognumber:1969.4.726 institutioncode:NHMUK" ; Times: 1
+	Query: "Eremobius phoenicurus nhmuk" ; Times: 1
+	Query: "scientificname:Atheris subocularis" ; Times: 1
+	Query: "hastypestatus:1 cinnamomea" ; Times: 1
+	Query: "catalognumber:1889.6.12.65 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1838.1.15.195 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.595 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.878 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2421 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.531 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.736 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.1191 institutioncode:NHMUK" ; Times: 2
+	Query: "Naemorhedus baileyi" ; Times: 1
+	Query: "genus:coluber hastypestatus:1" ; Times: 1
+	Query: "catalognumber:1905.12.26.55 institutioncode:NHMUK" ; Times: 2
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "catalognumber:1964.60.635 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:humei genus:Hadromys" ; Times: 1
+	Query: "specificepithet:tenimberensis order:galliformes" ; Times: 2
+	Query: "catalognumber:1964.60.677 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.455 institutioncode:NHMUK" ; Times: 1
+	Query: "rattus losea" ; Times: 5
+	Query: "catalognumber:1881.11. institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.909 institutioncode:NHMUK" ; Times: 4
+	Query: "catalognumber:1901.3. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1881.5.1.1660 institutioncode:NHMUK" ; Times: 2
+	Query: "Chroicocephalus saundersi" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "hirundapus cochinchinensis" ; Times: 1
+	Query: "Pseudalopex culpaeus" ; Times: 1
+	Query: "catalognumber:1889.6.12.62 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.290 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1898.5.17.77 institutioncode:NHMUK" ; Times: 2
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "catalognumber:1939.12.9.21 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:77.11. institutioncode:NHMUK" ; Times: 1
+	Query: "Ratufa bicolor" ; Times: 5
+	Query: "balaena glacialis" ; Times: 3
+	Query: "genus:machetornis" ; Times: 3
+	Query: "Sterna repressa" ; Times: 3
+	Query: "country:Ecuador scientificname:Peropteryx macrotis " ; Times: 1
+	Query: "catalognumber:1964.60.800 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.931 institutioncode:NHMUK" ; Times: 1
+	Query: "Limnornis curvirostris nhmuk" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 3
+	Query: "Cursorius rufus" ; Times: 2
+	Query: "catalognumber:1925.11.1.825 institutioncode:NHMUK" ; Times: 3
+	Query: "Crotalus triseriatus veracruz" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 1
+	Query: "Daboia russelii" ; Times: 1
+	Query: "catalognumber:1969.4.355 institutioncode:NHMUK" ; Times: 2
+	Query: "Sus scrofa cristatus" ; Times: 1
+	Query: "catalognumber:96.4. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.943 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 3
+	Query: "Echinosorex gymnurus" ; Times: 1
+	Query: "catalognumber:1969.4.935 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1901.3.20.65 institutioncode:NHMUK" ; Times: 2
+	Query: "Alopias" ; Times: 1
+	Query: "catalognumber:1887.12.30.1197 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:81.2.18.124 institutioncode:NHMUK" ; Times: 1
+	Query: "Megalurus gramineus 1912" ; Times: 1
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus gundlachi&#34;" ; Times: 1
+	Query: "catalognumber:1969.4.556 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1925.11.1.722 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17. institutioncode:NHMUK" ; Times: 5
+	Query: "catalognumber:1964.60.678 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1910.7.7.65 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.253 institutioncode:NHMUK" ; Times: 2
+	Query: "Townsend AND 1889" ; Times: 1
+	Query: "catalognumber:1927.12.18.288 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1357 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.260 institutioncode:NHMUK" ; Times: 4
+	Query: "catalognumber:1964.17.638 institutioncode:NHMUK" ; Times: 2
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 2
+	Query: "catalognumber:1969.4.632 institutioncode:NHMUK" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "catalognumber:1965.43.738 institutioncode:NHMUK" ; Times: 2
+	Query: "Erythrocebus" ; Times: 9
+	Query: "catalognumber:1955.3.382 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.925 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.908 institutioncode:NHMUK" ; Times: 1
+	Query: "Afrixalus paradorsalis mappable:1" ; Times: 1
+	Query: "catalognumber:1965.43.1173 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:55 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.5.117 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1927.12. institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.5.120 institutioncode:NHMUK" ; Times: 1
+	Query: "hypospodia nhmuk" ; Times: 1
+	Query: "catalognumber:1901.3.20.53 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1000 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:90.9. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1906.12.20.273 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.551 institutioncode:NHMUK" ; Times: 2
+	Query: "Echinosorex" ; Times: 1
+	Query: "catalognumber:77.11.15.4 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1337 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.869 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1881.11.7.109 institutioncode:NHMUK" ; Times: 2
+	Query: "turdoides longirostris" ; Times: 1
+	Query: "Tyrannulus flavidifrons nhmuk" ; Times: 1
+	Query: "genus:Breviceps country:&#34;Mozambique&#34;" ; Times: 2
+	Query: "Rabor specimens" ; Times: 1
+	Query: "catalognumber:1939.12.9.2696 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.711 institutioncode:NHMUK" ; Times: 1
+	Query: "Manucodia ater" ; Times: 2
+	Query: "specificepithet:flammifera genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:1965.43.1177 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2907 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.680 institutioncode:NHMUK" ; Times: 1
+	Query: "Prinia cinerascens" ; Times: 1
+	Query: "Pseudalopex griseus" ; Times: 1
+	Query: "catalognumber:1964.17.512 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 5
+	Query: "catalognumber:1953.17.250 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.891 institutioncode:NHMUK" ; Times: 2
+	Query: "Camptorhynchus labradorius" ; Times: 2
+	Query: "catalognumber:1939.12.9.2436 institutioncode:NHMUK" ; Times: 1
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "Androdon" ; Times: 1
+	Query: "catalognumber:1965.43.1229 institutioncode:NHMUK" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 1
+	Query: "catalognumber:1965.43.942 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.60 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1881.2. institutioncode:NHMUK" ; Times: 2
+	Query: "genus:Probreviceps country:&#34;Zimbabwe&#34; AND (NOT Nielsen)" ; Times: 1
+	Query: "nhm london" ; Times: 2
+	Query: "catalognumber:1898.5.17.76 institutioncode:NHMUK" ; Times: 4
+	Query: "catalognumber:1964.60.1426 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Tylomys mirae " ; Times: 1
+	Query: "Porzana spiloptera" ; Times: 2
+	Query: "catalognumber:1905.12.26.272 institutioncode:NHMUK" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus ventrilineatus&#34;" ; Times: 2
+	Query: "catalognumber:1964.17.67 institutioncode:NHMUK" ; Times: 3
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 1
+	Query: "catalognumber:1939.12.9.2571 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.818 institutioncode:NHMUK" ; Times: 2
+	Query: "Lonchorhina aurita Belize" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Budorcas taxicolor whitei" ; Times: 1
+	Query: "catalognumber:1964.60.512 institutioncode:NHMUK" ; Times: 2
+	Query: "Sclerurus mexicanus nhmuk" ; Times: 1
+	Query: "institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.773 institutioncode:NHMUK" ; Times: 1
+	Query: "Mergus australis" ; Times: 2
+	Query: "catalognumber:1965.43.944 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.860 institutioncode:NHMUK" ; Times: 2
+	Query: "ichthyophis beddomei" ; Times: 1
+	Query: "country:Ecuador scientificname:Arctocephalus australis " ; Times: 5
+	Query: "Laticilla burnesii burnesii india" ; Times: 1
+	Query: "sterna balaenarum" ; Times: 2
+	Query: "catalognumber:1925.11.1.764 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.527 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:probreviceps" ; Times: 2
+	Query: "promops nasutus" ; Times: 4
+	Query: "Philydor erythrocercus nhmuk" ; Times: 1
+	Query: "catalognumber:1937.2.16.48 institutioncode:NHMUK" ; Times: 2
+	Query: "Callosciurus prevosti" ; Times: 1
+	Query: "catalognumber:1925.11.1.353 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.337 institutioncode:NHMUK" ; Times: 1
+	Query: "Pelodytes caucasicus" ; Times: 1
+	Query: "catalognumber:1913.5.20.12 institutioncode:NHMUK" ; Times: 2
+	Query: "1932.3.3.1-2" ; Times: 1
+	Query: "Cercomacra maculosa nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.605 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1964.60.787 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.5. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.490 institutioncode:NHMUK" ; Times: 2
+	Query: "specificepithet:quasiater genus:Microtus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Todirhamphus OR Todiramphus OR Halcyon humii" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus didactylus " ; Times: 2
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "Budorcas taxicolor taxicolor" ; Times: 2
+	Query: "catalognumber:1939.12.9.2906 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1837.1.15.90 institutioncode:NHMUK" ; Times: 2
+	Query: "Erythrocebus vntype:specimen (Tanzania)" ; Times: 2
+	Query: "catalognumber:1910.7.7.104 institutioncode:NHMUK" ; Times: 4
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 62
+	Query: "catalognumber:1939.12.9.2175 institutioncode:NHMUK" ; Times: 1
+	Query: "callosciurus adamsi" ; Times: 17
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "catalognumber:1969.4.367 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.610 institutioncode:NHMUK" ; Times: 1
+	Query: "bothrops pictus peru" ; Times: 1
+	Query: "catalognumber:1964.60.1074 institutioncode:NHMUK" ; Times: 1
+	Query: "Alisterus amboinensis versicolor" ; Times: 1
+	Query: "catalognumber:1964.60.1352 institutioncode:NHMUK" ; Times: 1
+	Query: "locality:Laos" ; Times: 1
+	Query: "catalognumber:1964.60.1284 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 5
+	Query: "catalognumber:1898.5.17.30 institutioncode:NHMUK" ; Times: 2
+	Query: "Grallaria haplonota nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.224 institutioncode:NHMUK" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 1
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:1881.11.7.1173 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.511 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1114 institutioncode:NHMUK" ; Times: 1
+	Query: "Siptornis hypochondriacus nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.1279 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.641 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis andium " ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "catalognumber:1964.60.17. institutioncode:NHMUK" ; Times: 1
+	Query: "Spelaeornis chocolatinus" ; Times: 4
+	Query: "catalognumber:1964.60.763 institutioncode:NHMUK" ; Times: 1
+	Query: "Cercotrichas barbata" ; Times: 2
+	Query: "catalognumber:1969.4.554 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.562 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "pellorneum palustre" ; Times: 1
+	Query: "Bassaricyon alleni" ; Times: 1
+	Query: "catalognumber:1925.11.1.898 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.1225 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.761 institutioncode:NHMUK" ; Times: 1
+	Query: "dactylomys" ; Times: 3
+	Query: "catalognumber:1964.60.1287 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.215 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1927.12.18.163 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:81.2 institutioncode:NHMUK" ; Times: 2
+	Query: "chironius exoletus peru" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 2
+	Query: "catalognumber:1927.12.18. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1900.6.11.67 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1901.3.20.55 institutioncode:NHMUK" ; Times: 1
+	Query: "sundasciurus hippurus" ; Times: 17
+	Query: "hastypestatus:1 Crypturus garleppi" ; Times: 1
+	Query: "subbrunneus nhmuk" ; Times: 1
+	Query: "catalognumber:1965.43.796 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.809 institutioncode:NHMUK" ; Times: 2
+	Query: "Pavo muticus" ; Times: 2
+	Query: "campephilus principalis" ; Times: 11
+	Query: "genus:loxia country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:1964.60.1353 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.642 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.874 institutioncode:NHMUK" ; Times: 2
+	Query: "Pseudois nayaur" ; Times: 1
+	Query: "specificepithet:bicolor genus:Ratufa country:&#34;Malaysia&#34;" ; Times: 2
+	Query: "catalognumber:1964.60.1457 institutioncode:NHMUK" ; Times: 1
+	Query: "Hydromantes imperialis" ; Times: 2
+	Query: "Tyrannulus chrysops nhmuk" ; Times: 1
+	Query: "catalognumber:1965.43.764 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:niger order:galliformes" ; Times: 2
+	Query: "Cursorius coromandelicus" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 3
+	Query: "catalognumber:1964.60.738 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1955.6.n6.22 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1893.4.4.40 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.549 institutioncode:NHMUK" ; Times: 2
+	Query: "Timalia pileata" ; Times: 3
+	Query: "catalognumber:1964.17.510 institutioncode:NHMUK" ; Times: 2
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "specificepithet:boddaerti genus:Mastigodryas hastypestatus:1" ; Times: 1
+	Query: "catalognumber:1850.7.20.178 institutioncode:NHMUK" ; Times: 3
+	Query: "Lagothrix flavicauda" ; Times: 1
+	Query: "catalognumber:81.2. institutioncode:NHMUK" ; Times: 2
+	Query: "lachesis muta" ; Times: 1
+	Query: "catalognumber:1964.17.249 institutioncode:NHMUK" ; Times: 1
+	Query: "Attila torridus" ; Times: 1
+	Query: "catalognumber:1964.17.635 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 8
+	Query: "specificepithet:luzoniense genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "mohoua ochrocephala" ; Times: 2
+	Query: "catalognumber:1980.25.2 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1906.12.20.76 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1900.4.26.17 institutioncode:NHMUK" ; Times: 2
+	Query: "Pterocles personatus" ; Times: 4
+	Query: "catalognumber:1964.60.1427 institutioncode:NHMUK" ; Times: 2
+	Query: "85227" ; Times: 1
+	Query: "hypogeophis" ; Times: 1
+	Query: "okapia" ; Times: 1
+	Query: "catalognumber:1969.4.223 institutioncode:NHMUK" ; Times: 2
+	Query: "wilsonia canadensis egg" ; Times: 2
+	Query: "catalognumber:1925.11.1.893 institutioncode:NHMUK" ; Times: 2
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "catalognumber:1964.60.1311 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1926.12.22 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "catalognumber:1969.4.932 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.996 institutioncode:NHMUK" ; Times: 2
+	Query: "Rukia" ; Times: 1
+	Query: "catalognumber:1969.4.474 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1910.7.7.116 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Arctocephalus galapagoensis " ; Times: 1
+	Query: "catalognumber:1949.64.239 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2764 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1964.60.1312 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.843 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1390 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.151 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.62 institutioncode:NHMUK" ; Times: 1
+	Query: "Tarentola nicolauensis" ; Times: 1
+	Query: "Rattus exulans borneo" ; Times: 1
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 1
+	Query: "catalognumber:1881.5.1.4235 institutioncode:NHMUK" ; Times: 2
+	Query: "Sterna saundersi" ; Times: 3
+	Query: "tomopeas ravus" ; Times: 6
+	Query: "catalognumber:1943.4.19.2 institutioncode:NHMUK" ; Times: 2
+	Query: "Accipiter gentilis mexico" ; Times: 1
+	Query: "catalognumber:1838.1.15.67 institutioncode:NHMUK" ; Times: 3
+	Query: "Halcyon chloris Vanuatu" ; Times: 1
+	Query: "Hydromantes supramontis" ; Times: 2
+	Query: "catalognumber:1937.2.16.91 institutioncode:NHMUK" ; Times: 3
+	Query: "dama mesopotamica" ; Times: 3
+	Query: "catalognumber:1965.43.938 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1424 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.289 institutioncode:NHMUK" ; Times: 1
+	Query: "Petaurillus hosei" ; Times: 8
+	Query: "catalognumber:1964.17.632 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.263 institutioncode:NHMUK" ; Times: 1
+	Query: "Strix hylophila" ; Times: 5
+	Query: "catalognumber:1843.7.14.157 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.594 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.742 institutioncode:NHMUK" ; Times: 1
+	Query: "Leopardus colocolo hasmass:0" ; Times: 1
+	Query: "catalognumber:1964.60.219 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.529 institutioncode:NHMUK" ; Times: 1
+	Query: "Falco harlani" ; Times: 5
+	Query: "catalognumber:1939.12.9.2758 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.798 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1324 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 4
+	Query: "catalognumber:1965.43.561 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 6
+	Query: "catalognumber:1964.60.998 institutioncode:NHMUK" ; Times: 1
+	Query: "bombus" ; Times: 2
+	Query: "catalognumber:1964.60.726 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 2
+	Query: "catalognumber:1964.60.867 institutioncode:NHMUK" ; Times: 1
+	Query: "flavidifrons" ; Times: 1
+	Query: "Turdoides longirostris" ; Times: 7
+	Query: "vntype:specimen genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Progne tapera" ; Times: 1
+	Query: "catalognumber:1964.60.729 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1305 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "catalognumber:1964.60.637 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "continent:South America recordedby:Dyson" ; Times: 1
+	Query: "catalognumber:1838.1.15.63 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1905.12.26.264 institutioncode:NHMUK" ; Times: 1
+	Query: "nectophryne tuberculosa" ; Times: 1
+	Query: "catalognumber:1969.4.941 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:81.11. institutioncode:NHMUK" ; Times: 7
+	Query: "Erythrocebus vntype:specimen (Kenya)" ; Times: 2
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "ansonia ornata" ; Times: 1
+	Query: "Glareola lactea" ; Times: 5
+	Query: "Conepatus semistriatus" ; Times: 11
+	Query: "catalognumber:1910.7.7.115 institutioncode:NHMUK" ; Times: 1
+	Query: "Contopus virens Colombia" ; Times: 2
+	Query: "lyalli" ; Times: 1
+	Query: "catalognumber:1964.60.778 institutioncode:NHMUK" ; Times: 3
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "genus:Hadromys" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "Haeromys" ; Times: 1
+	Query: "catalognumber:1955.6.N institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "catalognumber:1969.4.252 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1905.12.26.210 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1006 institutioncode:NHMUK" ; Times: 1
+	Query: "Rhizomys pruinosus" ; Times: 2
+	Query: "genus:archboldia" ; Times: 2
+	Query: "catalognumber:1905.12.26.243 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1436 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.4 institutioncode:NHMUK" ; Times: 1
+	Query: "chironius carinatus peru" ; Times: 1
+	Query: "catalognumber:1925.11.1.367 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1880.12.31.84 institutioncode:NHMUK" ; Times: 3
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "catalognumber:1964.60.1346 institutioncode:NHMUK" ; Times: 2
+	Query: "aegithalos niveogularis" ; Times: 2
+	Query: "Todirhamphus OR Todiramphus OR Halcyon kalbaensis" ; Times: 1
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "Bos mutus" ; Times: 1
+	Query: "Anabates temporalis nhmuk" ; Times: 1
+	Query: "Cyclorhynchus subbrunneus nhmuk" ; Times: 1
+	Query: "country:Ecuador scientificname:Monodelphis adusta " ; Times: 3
+	Query: "pyrrhula aurantiaca" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 3
+	Query: "catalognumber:1881.5.1.4224 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1924.7.11.2 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.427 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1937.2.16.90 institutioncode:NHMUK" ; Times: 3
+	Query: "Tragulus kanchil" ; Times: 1
+	Query: "catalognumber:1964.60.1307 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.564 institutioncode:NHMUK" ; Times: 2
+	Query: "pongo abelii" ; Times: 4
+	Query: "catalognumber:1851.10. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.939 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1901.3.20.35 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.725 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.644 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Nyctinomops laticaudatus " ; Times: 1
+	Query: "Sterna aurantia" ; Times: 2
+	Query: "catalognumber:1886.10.1.2653 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1922.7. institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1939.12.9.2179 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Breviceps country:&#34;Zimbabwe&#34;" ; Times: 2
+	Query: "catalognumber:1964.60.759 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1356 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2783 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1937.2.16.20 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1990.6. institutioncode:NHMUK" ; Times: 1
+	Query: "Myiarchus phaeocephalus nhmuk" ; Times: 1
+	Query: "class:Amphibia country:&#34;Mozambique&#34;" ; Times: 1
+	Query: "87481" ; Times: 1
+	Query: "catalognumber:1843.1.4. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1982.8. institutioncode:NHMUK" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "Synallaxis pudica nhmuk" ; Times: 1
+	Query: "catalognumber:1925.11.1.351 institutioncode:NHMUK" ; Times: 3
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 1
+	Query: "strix hylophila" ; Times: 1
+	Query: "catalognumber:1969.4.572 institutioncode:NHMUK" ; Times: 1
+	Query: "Uratelornis chimaera" ; Times: 1
+	Query: "catalognumber:1964.60.811 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.791 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:1939.12.9.2438 institutioncode:NHMUK" ; Times: 1
+	Query: "virenticeps nhmuk" ; Times: 1
+	Query: "specificepithet:sylvatica genus:turnix country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:1969.4.636 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1905.12.26.274 institutioncode:NHMUK" ; Times: 1
+	Query: "ploceus megarhynchus" ; Times: 1
+	Query: "catalognumber:1969.4.336 institutioncode:NHMUK" ; Times: 2
+	Query: "genus:tantilla institutioncode:NHMUK" ; Times: 2
+	Query: "Bothrops barnetti peru" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "catalognumber:1905.12.26.273 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1955.28.30 institutioncode:NHMUK" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus darlingtoni&#34;" ; Times: 1
+	Query: "catalognumber:1898.5.17.79 institutioncode:NHMUK" ; Times: 2
+	Query: "Fluvicola atripennis nhmuk" ; Times: 1
+	Query: "catalognumber:1910.7.7.140 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:1964.60.728 institutioncode:NHMUK" ; Times: 1
+	Query: "speirops melanocephalus" ; Times: 1
+	Query: "catalognumber:1969.4.842 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.352 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:98.5. institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.610 institutioncode:NHMUK" ; Times: 2
+	Query: "Callosciurus orestes" ; Times: 1
+	Query: "catalognumber:1965.43.930 institutioncode:NHMUK" ; Times: 2
+	Query: "hypochondriacus nhmuk" ; Times: 1
+	Query: "catalognumber:1964.60.515 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1911.12. institutioncode:NHMUK" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "Berylmys bowersi" ; Times: 14
+	Query: "pyrrhula aurantiaca vntype:specimen" ; Times: 2
+	Query: "El Paso Zoo Texas" ; Times: 1
+	Query: "catalognumber:1969.4.762 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1905.1.24a.42 institutioncode:NHMUK" ; Times: 2
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "catalognumber:1910.7.7.103 institutioncode:NHMUK" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "catalognumber:1964.60. institutioncode:NHMUK" ; Times: 4
+	Query: "catalognumber:1964.17.63 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.85 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.803 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.730 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:salvania genus:Porcula" ; Times: 3
+	Query: "genus:Breviceps country:&#34;Tanzania&#34;" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus pinarensis&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis oxyotus " ; Times: 1
+	Query: "class:Reptilia country:&#34;Swaziland&#34;" ; Times: 2
+	Query: "catalognumber:1965.43.741 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Bombina specificepithet:microdeladigitora" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "catalognumber:1964.60.1435 institutioncode:NHMUK" ; Times: 1
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "Haematopus meadewaldoi" ; Times: 1
+	Query: "catalognumber:1964.60.1481 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Bothrops lojanus " ; Times: 1
+	Query: "catalognumber:1925.11.1.822 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes caniventer " ; Times: 4
+	Query: "catalognumber:1965.43.161 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.570 institutioncode:NHMUK" ; Times: 1
+	Query: "rhyncholestes" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus intermedius&#34;" ; Times: 1
+	Query: "catalognumber:1925.11.1.347 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.1227 institutioncode:NHMUK" ; Times: 1
+	Query: "Muscivora occidentalis" ; Times: 1
+	Query: "catalognumber:1969.4.356 institutioncode:NHMUK" ; Times: 2
+	Query: "Chiropodomys pusillus" ; Times: 1
+	Query: "hastypestatus:1 Crypturus atrocapillus" ; Times: 1
+	Query: "catalognumber:1969.41. institutioncode:NHMUK" ; Times: 8
+	Query: "catalognumber:1925.11.1.798 institutioncode:NHMUK" ; Times: 3
+	Query: "catalognumber:80.11. institutioncode:NHMUK" ; Times: 1
+	Query: "genus:Conepatus institutioncode:NHMUK" ; Times: 4
+	Query: "country:Ecuador scientificname:Dasypterus ega " ; Times: 1
+	Query: "catalognumber:82.2. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1843.1. institutioncode:NHMUK" ; Times: 1
+	Query: "gbifdatasetid:7e380070-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "catalognumber:1964.60.1423 institutioncode:NHMUK" ; Times: 2
+	Query: "class:Aves country:&#34;Greenland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "catalognumber:1966.21. institutioncode:NHMUK" ; Times: 3
+	Query: "Ptilocercus lowii" ; Times: 1
+	Query: "catalognumber:1922.7.25.10 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 7
+	Query: "catalognumber:1925.11.1.374 institutioncode:NHMUK" ; Times: 6
+	Query: "Calyptomena viridis continentis" ; Times: 1
+	Query: "Serilophus lunatus stolidus nhmuk" ; Times: 1
+	Query: "specificepithet:rhodesianus genus:probreviceps" ; Times: 2
+	Query: "catalognumber:1964.17.639 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "catalognumber:1955.6.N.1.11 institutioncode:NHMUK" ; Times: 2
+	Query: "aeromys tephromelas" ; Times: 9
+	Query: "ptilocercus lowii" ; Times: 5
+	Query: "Megophrys ligayae" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 2
+	Query: "catalognumber:1964.60.772 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11. institutioncode:NHMUK" ; Times: 2
+	Query: "balaenarum" ; Times: 2
+	Query: "catalognumber:1969.4.608 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.675 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1843.1.14.195 institutioncode:NHMUK" ; Times: 2
+	Query: "eurystomus orientalis india" ; Times: 1
+	Query: "specificepithet:musica genus:Euphonia country:&#34;Puerto Rico&#34;" ; Times: 2
+	Query: "Anabates melanopezus nhmuk" ; Times: 1
+	Query: "specificepithet:meleagrides order:galliformes" ; Times: 1
+	Query: "catalognumber:1905.12.26.266 institutioncode:NHMUK" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "catalognumber:1925.11.1.940 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1884.1.10.232 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1905.12.26.268 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1344 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.797 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.594 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.725 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1905.1.24A. institutioncode:NHMUK" ; Times: 2
+	Query: "Microcebus rufus" ; Times: 2
+	Query: "catalognumber:1964.60.852 institutioncode:NHMUK" ; Times: 2
+	Query: "L. E. Taylor continent:Africa" ; Times: 1
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:1984.12. institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1927.12.18.175 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.6. institutioncode:NHMUK" ; Times: 1
+	Query: "Audubon year &gt;= 1820 year &lt;= 1850" ; Times: 2
+	Query: "catalognumber:1955.28.31 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.813 institutioncode:NHMUK" ; Times: 1
+	Query: "Capito salvini" ; Times: 1
+	Query: "catalognumber:1964.60.716 institutioncode:NHMUK" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Contopus virens" ; Times: 1
+	Query: "catalognumber:1964.60.1382 institutioncode:NHMUK" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "catalognumber:1964.60.1459 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1903.12.30.86 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1991.31 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1414 institutioncode:NHMUK" ; Times: 1
+	Query: "apus acuticaudus" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "Vanellus tectus" ; Times: 2
+	Query: "Arthroleptis variabilis mappable:1" ; Times: 1
+	Query: "callosciurus orestes" ; Times: 11
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 4
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "catalognumber:1965.43.928 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:98.5.17.32 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.556 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.607 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 2
+	Query: "continent:africa recordedby:hall" ; Times: 2
+	Query: "catalognumber:1965.43.150 institutioncode:NHMUK" ; Times: 1
+	Query: "Rhinolophus macrotis" ; Times: 1
+	Query: "catalognumber:1925.11.1.498 institutioncode:NHMUK" ; Times: 2
+	Query: "microhyla rubra" ; Times: 2
+	Query: "catalognumber:1965.43.937 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.267 institutioncode:NHMUK" ; Times: 1
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "catalognumber:1964.60.795 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.720 institutioncode:NHMUK" ; Times: 1
+	Query: "country:&#34;Colombia&#34; piranga flava" ; Times: 3
+	Query: "mus caroli" ; Times: 6
+	Query: "catalognumber:1905.12.26.60 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1934.9.15 institutioncode:NHMUK" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "catalognumber:1964.17.45 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.750 institutioncode:NHMUK" ; Times: 2
+	Query: "Petinomys genibarbis" ; Times: 6
+	Query: "catalognumber:1925.11.1.721 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.346 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.268 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:46.6. institutioncode:NHMUK" ; Times: 1
+	Query: "chiropodomys pusillus" ; Times: 1
+	Query: "catalognumber:1969.4.596 institutioncode:NHMUK" ; Times: 1
+	Query: "Maxomys ochraceiventer" ; Times: 25
+	Query: "catalognumber:1949.64.238 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1394 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1966.21.171 institutioncode:NHMUK" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "catalognumber:1841.1.42.30 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.776 institutioncode:NHMUK" ; Times: 2
+	Query: "berylmys bowersi" ; Times: 1
+	Query: "catalognumber:1964.60.1009 institutioncode:NHMUK" ; Times: 2
+	Query: "Furnarius agnatus nhmuk" ; Times: 1
+	Query: "catalognumber:1925.11.1.725 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.327 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1955.6 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira bidens " ; Times: 5
+	Query: "catalognumber:1964.60.739 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 3
+	Query: "catalognumber:1965.43. institutioncode:NHMUK" ; Times: 3
+	Query: "specificepithet:erythrops genus:porzana" ; Times: 2
+	Query: "uraeotyphlus oxyurus" ; Times: 1
+	Query: "catalognumber:1964.60.271 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.158 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1901.3.20.51 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.17.410 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.597 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 2
+	Query: "catalognumber:1900.4.26.1 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.799 institutioncode:NHMUK" ; Times: 1
+	Query: "Fluvicola atripennis" ; Times: 1
+	Query: "catalognumber:1964.60.1461 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2780 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1925.11.1.356 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.289 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1385 institutioncode:NHMUK" ; Times: 2
+	Query: "Tricholaema ansorgii" ; Times: 2
+	Query: "catalognumber:1964.60.870 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1905.12.26.236 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.658 institutioncode:NHMUK" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "catalognumber:1901.3.20.66 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.494 institutioncode:NHMUK" ; Times: 4
+	Query: "harlani audubon" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 2
+	Query: "catalognumber:1964.60.266 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1905.12.26.211 institutioncode:NHMUK" ; Times: 1
+	Query: "Lachesis Ecuador" ; Times: 2
+	Query: "catalognumber:1937.2.16.45 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1969.4.612 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.218 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.5.111 institutioncode:NHMUK" ; Times: 2
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Synallaxis hypospodia nhmuk" ; Times: 1
+	Query: "lariscus hosei" ; Times: 13
+	Query: "genus:Porcula" ; Times: 1
+	Query: "Zalophus japonicus" ; Times: 14
+	Query: "catalognumber:1901.3.20.105 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1939.12.9.2439 institutioncode:NHMUK" ; Times: 2
+	Query: "Crypturus rubripes" ; Times: 2
+	Query: "catalognumber:1964.60.762 institutioncode:NHMUK" ; Times: 2
+	Query: "dremomys everetti" ; Times: 3
+	Query: "catalognumber:1859.1.10.18 institutioncode:NHMUK" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "catalognumber:1939.12.9.2418 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1925.11.1.960 institutioncode:NHMUK" ; Times: 2
+	Query: "Regulus regulus india" ; Times: 1
+	Query: "catalognumber:1925.11.1.763 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1418 institutioncode:NHMUK" ; Times: 1
+	Query: "fruhstorfer" ; Times: 1
+	Query: "hieraaetus pennatus india" ; Times: 1
+	Query: "catalognumber:1966.21.173 institutioncode:NHMUK" ; Times: 2
+	Query: "Crypturellus transfasciatus" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Himantopus novaezelandiae" ; Times: 3
+	Query: "country:&#34;Colombia&#34; Tyrannus dominicensis" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "catalognumber:1927.12.18.312 institutioncode:NHMUK" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 1
+	Query: "Laticilla burnesii burnesii" ; Times: 1
+	Query: "catalognumber:1964.60.1469 institutioncode:NHMUK" ; Times: 1
+	Query: "brazil mammalia lako" ; Times: 1
+	Query: "Bos frontalis" ; Times: 1
+	Query: "catalognumber:1964.60.225 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1905.12.26.238 institutioncode:NHMUK" ; Times: 1
+	Query: "distrito capital colombia" ; Times: 1
+	Query: "catalognumber:1964.60.1354 institutioncode:NHMUK" ; Times: 1
+	Query: "nhm Brazil types" ; Times: 1
+	Query: "catalognumber:1966.21.222 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.74 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1843.7.14.214 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.528 institutioncode:NHMUK" ; Times: 3
+	Query: "tupaia gracilis" ; Times: 41
+	Query: "class:Amphibia &#34;Eleutherodactylus emiliae&#34;" ; Times: 1
+	Query: "catalognumber:1969.4.902 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1901.3.20.29 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.357 institutioncode:NHMUK" ; Times: 1
+	Query: "Prionodon linsang" ; Times: 1
+	Query: "catalognumber:1925.11.1.808 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1939.12.9.2419 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1965.43.755 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.60.1388 institutioncode:NHMUK" ; Times: 1
+	Query: "Hydromantes flavus" ; Times: 2
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 2
+	Query: "catalognumber:1939.12.9.2425 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1965.43.164 institutioncode:NHMUK" ; Times: 2
+	Query: "Cursorius somalensis" ; Times: 2
+	Query: "1980.1064-1065" ; Times: 1
+	Query: "zosterops melanocephalus" ; Times: 1
+	Query: "bothrops pictus" ; Times: 1
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "catalognumber:1964.17.415 institutioncode:NHMUK" ; Times: 1
+	Query: "genus:breviceps country:&#34;Mozambique&#34;" ; Times: 1
+	Query: "Bothrops chloromelas peru" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "country:&#34;Brazil&#34; institutioncode:NHMUK hastypestatus:1" ; Times: 1
+	Query: "anodorhynchus glaucus" ; Times: 2
+	Query: "catalognumber:1965.43.249 institutioncode:NHMUK" ; Times: 1
+	Query: "Formicarius moniliger nhmuk" ; Times: 1
+	Query: "catalognumber:1969.4.224 institutioncode:NHMUK" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "catalognumber:1964.60.879 institutioncode:NHMUK" ; Times: 2
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "Hierococcyx bocki" ; Times: 1
+	Query: "catalognumber:1965.43.735 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1838.1.15.105 institutioncode:NHMUK" ; Times: 1
+	Query: "Dremomys everetti" ; Times: 2
+	Query: "catalognumber:1964.60.697 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1456 institutioncode:NHMUK" ; Times: 2
+	Query: "Crypturus garleppi" ; Times: 1
+	Query: "Chiropodomys gliroides" ; Times: 1
+	Query: "catalognumber:1967.18.23 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.1397 institutioncode:NHMUK" ; Times: 3
+	Query: "Platalina genovensium" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "catalognumber:1939.12.9.2756 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1964.60.784 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1964.17.424 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus mimulus " ; Times: 4
+	Query: "catalognumber:1964.60.798 institutioncode:NHMUK" ; Times: 2
+	Query: "zosterops kasaicus" ; Times: 1
+	Query: "catalognumber:1964.60.1434 institutioncode:NHMUK" ; Times: 1
+	Query: "Atelopus carbonerensis" ; Times: 14
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "catalognumber:1925.11.1.368 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.338 institutioncode:NHMUK" ; Times: 2
+	Query: "Rhinolophus trifoliatus" ; Times: 1
+	Query: "Laticilla burnesii india" ; Times: 4
+	Query: "catalognumber:1898.10.3.477 institutioncode:NHMUK" ; Times: 2
+	Query: "catalognumber:1969.4.283 institutioncode:NHMUK" ; Times: 1
+	Query: "catalognumber:1905.12.26.269 institutioncode:NHMUK" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "genus:breviceps country:&#34;swaziland&#34;" ; Times: 1
+	Query: "catalognumber:1964.60.513 institutioncode:NHMUK" ; Times: 2
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "catalognumber:1895.5.1.2177 institutioncode:NHMUK" ; Times: 2
+	Query: "Fluvicola atripennis 1859" ; Times: 1
+	Query: "catalognumber:1969.4.562 institutioncode:NHMUK" ; Times: 2
+	Query: "tantilla hendersoni" ; Times: 1
+	Query: "catalognumber:1964.60.676 institutioncode:NHMUK" ; Times: 2
+	Query: "Microhyla annectens" ; Times: 2
+	Query: "catalognumber:1939.12.9.2719 institutioncode:NHMUK" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 211 (out of 940 download events in this period)
+Total number of records downloaded: 26189
+Number of different countries: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 31
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 8
+	Country: Australia ; Times: 6
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Spain ; Times: 31
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 68
+	Country: Sweden ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 14
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 3
+	Date: 2020-07-08 ; Times: 8
+	Date: 2020-07-21 ; Times: 10
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-27 ; Times: 26
+	Date: 2020-07-26 ; Times: 3
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-03 ; Times: 19
+	Date: 2020-07-02 ; Times: 12
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 16
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-23 ; Times: 9
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-28 ; Times: 8
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 12
+	Date: 2020-07-10 ; Times: 5
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-16 ; Times: 26
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-14 ; Times: 10
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "lestoros" ; Times: 2
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Belize&#34;" ; Times: 1
+	Query: "echimys" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "class:Amphibia &#34;Peltophryne peltocephala&#34;" ; Times: 1
+	Query: "mustela africana" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Ozotoceros bezoarticus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus darlingtoni&#34;" ; Times: 1
+	Query: "Bassaricyon alleni" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus dimidiatus&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus weinlandi&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Peltophryne empusa&#34;" ; Times: 2
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "Stenella frontalis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus casparii&#34;" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus ventrilineatus&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus pinarensis&#34;" ; Times: 1
+	Query: "family:Anatidae stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Hylomys" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "rhyncholestes" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus intermedius&#34;" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "budorcas taxicolor" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "genus:Conepatus institutioncode:NHMUK" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus cubanus&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "class:Amphibia &#34;Peltophryne guentheri&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus varleyi&#34;" ; Times: 1
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:meleagrides order:galliformes" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus ricordii&#34;" ; Times: 1
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "afghanus" ; Times: 1
+	Query: "isothrix" ; Times: 1
+	Query: "Pseudalopex griseus" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "manis crassicaudata continent:Asia" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "vntype:specimen country:&#34;Brazil&#34; institutioncode:NHMUK hastypestatus:1" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus eileenae&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus glaphycompus&#34;" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Moschus chrysogaster" ; Times: 1
+	Query: "Eleutherodactylus limbatus" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 1
+	Query: "specificepithet:gularis order:galliformes" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "vntype:specimen country:&#34;Brazil&#34; (type) institutioncode:NHMUK" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Pseudois nayaur" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus cuneatus&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "Leopoldamys" ; Times: 1
+	Query: "specificepithet:niger order:galliformes" ; Times: 1
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+	Query: "brazil mammalia lako" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 1
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gorgona island" ; Times: 1
+	Query: "dromiciops" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus varians&#34;" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "specificepithet:bruijnii order:galliformes" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus greyi&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus pictissimus&#34;" ; Times: 1
+	Query: "dactylomys" ; Times: 2
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:gingica order:galliformes" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus schmidti&#34;" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus inoptatus&#34;" ; Times: 1
+	Query: "class:Amphibia armstrongi" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus turquinensis&#34;" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "class:Amphibia bakeri" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Echinosorex" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "promops nasutus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "fruhstorfer" ; Times: 2
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+	Query: "country:&#34;morocco&#34; year &gt;= 1971 year &lt;= 1972" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "Bos frontalis" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus emiliae&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus wetmorei&#34;" ; Times: 1
+	Query: "Hemitragus jemlahicus" ; Times: 2
+	Query: "promops centralis" ; Times: 2
+	Query: "specificepithet:quasiater genus:Microtus" ; Times: 1
+	Query: "catalognumber:1955.6.N institutioncode:NHMUK" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "specificepithet:occidentalis family:bufonidae" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "Pseudalopex culpaeus" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "specificepithet:finschi order:galliformes" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "Rabor specimens NHMUK ZOO" ; Times: 1
+	Query: "Naemorhedus goral" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Notiosorex isfossil:1" ; Times: 1
+	Query: "Sus scrofa cristatus" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "ectophylla alba" ; Times: 1
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "linnaea" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus atkinsi&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus gundlachi&#34;" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "meroles suborbitalis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus ruthae&#34;" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "class:Amphibia country:&#34;El Salvador&#34;" ; Times: 1
+	Query: "Sundamys" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Berylmys bowersi" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus auriculatus&#34;" ; Times: 1
+	Query: "porzana erythrops" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 1
+
+
+End of report.
